@@ -1,3 +1,7 @@
+# This plot visualizes the relationship between arousal and valence in music.
+# The numbers are hypothetical; they represent my understanding of this relationship.
+# Feel free to modify it—add more genres, adjust the values, or experiment with different placements.
+
 import numpy as np
 import matplotlib.pyplot as plt
 
