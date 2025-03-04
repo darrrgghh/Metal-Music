@@ -2,7 +2,8 @@
 **A Deep Dive into the Aesthetics, Perception, and Complexity of Metal Music**
 
 ## About this Project  
-This repository contains the source code and supporting materials for our research on extreme metal vocal perception. Our study examines how listeners perceive various metal vocal techniques (such as clean vocals, growling, and screaming) and how familiarity with the genre affects these perceptions. The final experimental stimuli are derived from real metal recordings and then re-recorded in five different vocal conditions.
+This repository contains the source code and supporting materials for our research on extreme metal vocal perception. Our research investigates the perceptual differences between metal fans and non-fans with respect to extreme metal vocal techniques. We focus on the intelligibility and cognitive processing of vocal expressions such as growling and screaming, comparing their performance when rendered in both their original form and with additional pitch contours ("vocalized" versions). Stimuli are constructed from lesser-known, uncharted metal releases using Spotify's popularity metrics, ensuring that the excerpts are as unfamiliar as possible to experimental participants. The study explores the influence of listening expertise on the decoding of extreme vocal sounds and aims to shed light on the cognitive mechanisms involved in music perception.
+ The final experimental stimuli are derived from real metal recordings and then re-recorded in five different vocal conditions.
 - **"Extra"** folder contains everything outside our research. It mostly contains the visualizations of other metal-related papers' findings.
 
 ## Research Context  
@@ -15,10 +16,6 @@ This work will be presented at the **18th International Conference on Music Perc
   To capture the "core" of a vocal performance, we skip the first 30% of each track (which often contains intros or ambient passages) and extract a vocal phrase fragment of approximately 10–12 syllables. This method ensures that the excerpt represents a complete vocal phrase, adhering to the physiological constraints on breath and vocal production.
 - **Recording Protocol:**  
   Professional metal vocalists are recruited to re-record the selected excerpts in five different vocal conditions. These re-recorded stimuli form the basis of our perceptual experiment, where participants are asked to "sing back" the excerpts. This design allows us to compare the natural (source) recordings with the studio re-recordings across different vocal techniques.
-
-## Abstract  
-Our research investigates the perceptual differences between metal fans and non-fans with respect to extreme metal vocal techniques. We focus on the intelligibility and cognitive processing of vocal expressions such as growling and screaming, comparing their performance when rendered in both their original form and with additional pitch contours ("vocalized" versions). Stimuli are constructed from lesser-known, uncharted metal releases using Spotify's popularity metrics, ensuring that the excerpts are as unfamiliar as possible to experimental participants. The study explores the influence of listening expertise on the decoding of extreme vocal sounds and aims to shed light on the cognitive mechanisms involved in music perception.
-
 ## Spotify 'UN'Popularity Analyzer  
 The **Spotify 'UN'Popularity Analyzer** is a Python-based GUI application developed as part of our research. It serves to build a database of musical fragments and evaluate popularity metrics using the Spotify API. The tool provides:
 
