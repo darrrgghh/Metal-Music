@@ -15,7 +15,7 @@ This work will be presented at the **18th International Conference on Music Perc
 - **Stimuli Extraction Procedure:**  
   To capture the "core" of a vocal performance, we skip the first 30% of each track (which often contains intros or ambient passages) and extract a vocal phrase fragment of approximately 10–12 syllables. This method ensures that the excerpt represents a complete vocal phrase, adhering to the physiological constraints on breath and vocal production.
 - **Recording Protocol:**  
-  Professional metal vocalists are recruited to re-record the selected excerpts in five different vocal conditions. These re-recorded stimuli form the basis of our perceptual experiment, where participants are asked to "sing back" the excerpts. This design allows us to compare the natural (source) recordings with the studio re-recordings across different vocal techniques.
+  Professional metal vocalists are recruited to re-record the selected excerpts in five different vocal conditions. These re-recorded stimuli form the basis of our perceptual experiment, where participants are asked to "sing back" the excerpts.
 ## Spotify 'UN'Popularity Analyzer  
 The **Spotify 'UN'Popularity Analyzer** is a Python-based GUI application developed as part of our research. It serves to build a database of musical fragments and evaluate popularity metrics using the Spotify API. The tool provides:
 
