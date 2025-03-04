@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 """
 Spotify 'UN'Popularity Analyzer
----------------------------
+
 This program was created for our research on metal music. It gathers "popularity" metrics from the Spotify API
 to help identify the least popular releases of a particular artist. Main features include:
 
 - A File menu with:
     - "Export Unpopularity..." to export research-relevant data.
     - "Raw Data" to display quantitative JSON data.
-- Panels for artist matches and discography, right panel for charts (top for an album popularity chart, bottom for a track popularity chart).
+- Panels for artist matches and discography on the left, right panel for charts (top for an album popularity chart, bottom for a track popularity chart).
 - The search bar triggers a search when the Enter key is pressed (or click on search button)
 - "Export Unpopularity..." exports three least popular albums of a chosen artist and three least popular songs on those albums.
   Also includes local time zone info and "Spotify API" as the source.
@@ -42,17 +42,14 @@ class SpotifyAnalyzer(tk.Tk):
         self.geometry("1200x800")
         self.minsize(800, 600)
         self.resizable(True, True)
-
         # Set up Spotipy authentication with error handling (e.g., when there's no internet connection or no spotify API credentials)
         try:
-            auth_manager = SpotifyClientCredentials(client_id=CLIENT_ID,
-                                                    client_secret=CLIENT_SECRET)
+            auth_manager = SpotifyClientCredentials(client_id=CLIENT_ID, client_secret=CLIENT_SECRET)
             self.sp = spotipy.Spotify(auth_manager=auth_manager)
         except Exception as e:
             messagebox.showerror("Error", f"Failed to authenticate with Spotify: {e}")
             self.destroy()  # close the app if no connection
             return
-
         # Data holders:
         self.artist_id = None
         self.artist_name = None
@@ -68,7 +65,6 @@ class SpotifyAnalyzer(tk.Tk):
         self.config(menu=menubar)
         file_menu = tk.Menu(menubar, tearoff=False)
         menubar.add_cascade(label="File", menu=file_menu)
-
         # "Export Unpopularity..." calls export_unpopularity() function here
         file_menu.add_command(label="Export Unpopularity...", command=self.export_unpopularity)
         file_menu.add_command(label="Raw Data", command=self.show_raw_data)
@@ -102,18 +98,15 @@ class SpotifyAnalyzer(tk.Tk):
         self.albums_listbox.pack(fill=tk.BOTH, expand=True)
         self.albums_listbox.bind("<<ListboxSelect>>", self.on_select_album)
         main_paned.add(left_frame, minsize=200)
-
         # Right Paned Window for charts (split vertically, but you can adjust any of these)
         right_paned = tk.PanedWindow(main_paned, orient=tk.VERTICAL, sashrelief=tk.RAISED)
         right_paned.pack(fill=tk.BOTH, expand=True)
         main_paned.add(right_paned, minsize=400)
-
         # Top sub-frame for the album chart
         album_frame = ttk.Frame(right_paned)
         album_frame.pack(fill=tk.BOTH, expand=True)
         album_pack_frame = ttk.Frame(album_frame)
         album_pack_frame.pack(fill=tk.BOTH, expand=True)
-
         # Create the album chart figure and axes
         self.album_fig = plt.Figure(figsize=(5, 3), dpi=100)
         self.album_ax = self.album_fig.add_subplot(111)
@@ -134,6 +127,7 @@ class SpotifyAnalyzer(tk.Tk):
         track_frame.pack(fill=tk.BOTH, expand=True)
         track_pack_frame = ttk.Frame(track_frame)
         track_pack_frame.pack(fill=tk.BOTH, expand=True)
+
         # Create the track chart figure and axes
         self.track_fig = plt.Figure(figsize=(5, 3), dpi=100)
         self.track_ax = self.track_fig.add_subplot(111)
@@ -148,16 +142,18 @@ class SpotifyAnalyzer(tk.Tk):
         self.track_toolbar.update()
         self.track_toolbar.pack(side=tk.BOTTOM, fill=tk.X)
         right_paned.add(track_frame, minsize=200)
+
     # ------------------------------
     # Spotify API Functions
     # ------------------------------
     def search_artist(self):
-
-        # this function is called when the 'Search' button is clicked or the Enter key is pressed.
-        # the app then asks Spotify for up to 5 matching artists and displays them in the matches listbox.
-        # if you increase the number of matches, you'll need to scroll down the results, I didn't make any sliders for that.
-        # Also, you're free to make typos or any mistakes in your inquiry. Normally, if artist name is correct, the first matching result is what you're looking for.
-
+        """
+        This function is called when the 'Search' button is clicked or the Enter key is pressed.
+        The app then asks Spotify for up to 5 matching artists and displays them in the matches listbox.
+        If you increase the number of matches, you'll need to scroll down the results, I didn't make any sliders for that.
+        Also, you're free to make typos or any mistakes in your inquiry.
+        Normally, if artist name is correct, the first matching result is what you're looking for.
+        """
         query = self.search_entry.get().strip()
         if not query:
             messagebox.showinfo("Info", "Please enter an artist name.")
