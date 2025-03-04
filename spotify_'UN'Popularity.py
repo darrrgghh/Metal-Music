@@ -61,7 +61,7 @@ class SpotifyAnalyzer(tk.Tk):
         self.minsize(800, 600)
         self.resizable(True, True)
 
-        # Set up Spotipy authentication with error handling (i.e. when there's no internet connection)
+        # Set up Spotipy authentication with error handling (e.g. when there's no internet connection)
         try:
             auth_manager = SpotifyClientCredentials(client_id=CLIENT_ID,
                                                     client_secret=CLIENT_SECRET)
