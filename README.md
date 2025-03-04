@@ -6,7 +6,7 @@ This repository contains the source code and supporting materials for our resear
 - **"Extra"** folder contains everything outside our research. It mostly contains the visualizations of other metal-related papers' findings.
 
 ## Research Context  
-This work will be presented at the **18th International Conference on Music Perception and Cognition** in January 2025. The research contributes to ongoing discussions in the field by providing empirical data on the role of familiarity in the cognitive processing of aggressive vocal styles in metal music. Our current research focuses on understanding the unique characteristics of extreme metal vocals. Key components of our study include:
+This work will be presented at the **18th International Conference on Music Perception and Cognition** in July 2025. The research contributes to ongoing discussions in the field by providing empirical data on the role of familiarity in the cognitive processing of aggressive vocal styles in metal music. Our current research focuses on understanding the unique characteristics of extreme metal vocals. Key components of our study include:
 
 - **Stimuli Selection and Rationale:**  
   We extract source excerpts from lesser-known, studio-recorded albums by authentic and well-known metal bands. The selection is based on Spotify popularity metrics—specifically targeting recordings with low stream counts and popularity scores that have never appeared on major charts (e.g., Billboard Metal, UK Rock & Metal). Whether or not the album serving as material for our stimuli set has ever appeared in the above-mentioned charts is checked manually. Additionally, live releases are excluded via name-based filtering to prevent skewing the data.
