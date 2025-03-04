@@ -3,3 +3,6 @@
 __pycache__/
 *.pyc
 *.pyo
+.cache
+unpopularity.py
+unpopularity2.py

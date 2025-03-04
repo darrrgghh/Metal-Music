@@ -1,4 +1,44 @@
 # Metal Music Research  
 **A Deep Dive into the Aesthetics, Perception, and Complexity of Metal Music**
-## About this project  
-This repository is dedicated to my research on metal music, exploring its structure, emotional impact, and complexity.  
+
+## About this Project  
+This repository contains the source code and supporting materials for our research on extreme metal vocal perception. Our study examines how listeners perceive various metal vocal techniques (such as clean vocals, growling, and screaming) and how familiarity with the genre affects these perceptions. The final experimental stimuli are derived from real metal recordings and then re-recorded in five different vocal conditions.
+
+## Research Context  
+This work will be presented at the **18th International Conference on Music Perception and Cognition** in January 2025. The research contributes to ongoing discussions in the field by providing empirical data on the role of familiarity in the cognitive processing of aggressive vocal styles in metal music. Our current research focuses on understanding the unique characteristics of extreme metal vocals. Key components of our study include:
+
+- **Stimuli Selection and Rationale:**  
+  We extract source excerpts from lesser-known, studio-recorded albums by authentic and well-known metal bands. The selection is based on Spotify popularity metrics—specifically targeting recordings with low stream counts and popularity scores that have never appeared on major charts (e.g., Billboard Metal, UK Rock & Metal). Whether or not the album serving as material for our stimuli set has ever appeared in the above-mentioned charts is checked manually. Additionally, live releases are excluded via name-based filtering to prevent skewing the data.
+
+- **Stimuli Extraction Procedure:**  
+  To capture the "core" of a vocal performance, we skip the first 30% of each track (which often contains intros or ambient passages) and extract a vocal phrase fragment of approximately 10–12 syllables. This method ensures that the excerpt represents a complete vocal phrase, adhering to the physiological constraints on breath and vocal production.
+- **Recording Protocol:**  
+  Professional metal vocalists are recruited to re-record the selected excerpts in five different vocal conditions. These re-recorded stimuli form the basis of our perceptual experiment, where participants are asked to "sing back" the excerpts. This design allows us to compare the natural (source) recordings with the studio re-recordings across different vocal techniques.
+
+## Abstract  
+Our research investigates the perceptual differences between metal fans and non-fans with respect to extreme metal vocal techniques. We focus on the intelligibility and cognitive processing of vocal expressions such as growling and screaming, comparing their performance when rendered in both their original form and with additional pitch contours ("vocalized" versions). Stimuli are constructed from lesser-known, uncharted metal releases using Spotify's popularity metrics, ensuring that the excerpts are as unfamiliar as possible to experimental participants. The study explores the influence of listening expertise on the decoding of extreme vocal sounds and aims to shed light on the cognitive mechanisms involved in music perception.
+
+## Spotify 'UN'Popularity Analyzer  
+The **Spotify 'UN'Popularity Analyzer** is a Python-based GUI application developed as part of our research. It serves to build a database of musical fragments and evaluate popularity metrics using the Spotify API. The tool provides:
+
+- **Search Bar:**  
+  Supports pressing Enter or clicking the "Search" button to trigger an artist search.
+
+- **Artist Matches List:**  
+  Displays up to five artist matches for the entered query.
+
+- **Artist Discography:**  
+  Lists albums (excluding live albums and tracks via name-based filtering, as required for our research).
+
+- **Resizable Charts:**  
+  Charts automatically fill the entire allocated space in the GUI, displaying overall album popularity as well as track popularity for the selected album.
+
+- **Raw Data Window:**  
+  Provides a scrollable view of the quantitative data (in JSON format) from the Spotify API.
+
+- **File Menu:**  
+  Includes an "Export Unpopularity..." function that exports the artist's three least popular albums and up to three least popular tracks per album, along with local time zone information and the data source ("Spotify API"). This export function is a key component for creating our stimuli set.
+
+---
+In addition to the conference project, this repository will also serve as a central hub for materials related to other ongoing research initiatives on metal music. Please check back regularly for updates, as this README and the repository content will be continuously revised to reflect new findings and developments.
+
