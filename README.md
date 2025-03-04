@@ -3,7 +3,7 @@
 
 ## About this Project  
 This repository contains the source code and supporting materials for our research on extreme metal vocal perception. Our study examines how listeners perceive various metal vocal techniques (such as clean vocals, growling, and screaming) and how familiarity with the genre affects these perceptions. The final experimental stimuli are derived from real metal recordings and then re-recorded in five different vocal conditions.
-- **'Extra'** folder contains everything outside our research. It mostly contains the visualizations of other metal-related papers' findings.
+- **"Extra"** folder contains everything outside our research. It mostly contains the visualizations of other metal-related papers' findings.
 
 ## Research Context  
 This work will be presented at the **18th International Conference on Music Perception and Cognition** in January 2025. The research contributes to ongoing discussions in the field by providing empirical data on the role of familiarity in the cognitive processing of aggressive vocal styles in metal music. Our current research focuses on understanding the unique characteristics of extreme metal vocals. Key components of our study include:
