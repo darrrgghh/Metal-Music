@@ -32,7 +32,7 @@ The **Spotify 'UN'Popularity Analyzer** is a Python-based GUI application develo
   Charts automatically fill the entire allocated space in the GUI, displaying overall album popularity as well as track popularity for the selected album.
 
 - **Raw Data Window:**  
-  Provides a scrollable view of the quantitative data (in JSON format) from the Spotify API.
+  Provides a scrollable view of the quantitative data (in JSON format) from the Spotify API. You can call this function from **File** menu.
 
 - **File Menu:**  
   Includes an "Export Unpopularity..." function that exports the artist's three least popular albums and up to three least popular tracks per album, along with local time zone information and the data source ("Spotify API"). This export function is a key component for creating our stimuli set.
