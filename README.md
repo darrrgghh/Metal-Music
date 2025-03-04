@@ -3,6 +3,7 @@
 
 ## About this Project  
 This repository contains the source code and supporting materials for our research on extreme metal vocal perception. Our study examines how listeners perceive various metal vocal techniques (such as clean vocals, growling, and screaming) and how familiarity with the genre affects these perceptions. The final experimental stimuli are derived from real metal recordings and then re-recorded in five different vocal conditions.
+- **'Extra'** folder contains everything outside our research. It mostly contains the visualizations of other metal-related papers' findings.
 
 ## Research Context  
 This work will be presented at the **18th International Conference on Music Perception and Cognition** in January 2025. The research contributes to ongoing discussions in the field by providing empirical data on the role of familiarity in the cognitive processing of aggressive vocal styles in metal music. Our current research focuses on understanding the unique characteristics of extreme metal vocals. Key components of our study include:
@@ -39,6 +40,6 @@ The **Spotify 'UN'Popularity Analyzer** is a Python-based GUI application develo
 - **File Menu:**  
   Includes an "Export Unpopularity..." function that exports the artist's three least popular albums and up to three least popular tracks per album, along with local time zone information and the data source ("Spotify API"). This export function is a key component for creating our stimuli set.
 
+
 ---
 In addition to the conference project, this repository will also serve as a central hub for materials related to other ongoing research initiatives on metal music. Please check back regularly for updates, as this README and the repository content will be continuously revised to reflect new findings and developments.
-
