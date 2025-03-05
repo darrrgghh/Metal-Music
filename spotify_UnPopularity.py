@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Spotify 'UN'Popularity Analyzer
+Spotify {UN}Popularity Analyzer
 
 This program was created for our research on metal music. It gathers "popularity" metrics from the Spotify API
 to help identify the least popular releases of a particular artist. Main features include:
@@ -13,7 +13,12 @@ to help identify the least popular releases of a particular artist. Main feature
 - "Export Unpopularity..." exports three least popular albums of a chosen artist and three least popular songs on those albums.
   Also includes local time zone info and "Spotify API" as the source.
 - Live albums and tracks (those with "live" in the name) are skipped. We did it on purpose because many live releases are much less popular,
-  even though they often contain songs that are very popular themselves (within their respective releases).
+  even though they often contain songs that are very popular themselves (within their respective releases). Also, releases marked as "Remastered",
+  "Re-issue", "Reissue" and "Demo" are excluded to avoid duplications.
+Future improvements:
+- Add a Filter menu that allows users to include or exclude various release types (e.g., EP, LP, Single, Live, Remastered, Demo).
+  By default, all release types would be selected, and users could simply uncheck any categories they wish to exclude,
+  providing flexible filtering for different research or personal needs.
 """
 import tkinter as tk
 from tkinter import ttk, messagebox, scrolledtext, filedialog
@@ -35,16 +40,16 @@ class SpotifyAnalyzer(tk.Tk):
     # ------------------------------
     # UI Functions & stuff
     # ------------------------------
-
     def __init__(self):
         super().__init__()
-        self.title("Spotify 'UN'Popularity Analyzer")
+        self.title("Spotify {UN}Popularity Analyzer")
         self.geometry("1200x800")
         self.minsize(800, 600)
         self.resizable(True, True)
         # Set up Spotipy authentication with error handling (e.g., when there's no internet connection or no spotify API credentials)
         try:
-            auth_manager = SpotifyClientCredentials(client_id=CLIENT_ID, client_secret=CLIENT_SECRET)
+            auth_manager = SpotifyClientCredentials(client_id=CLIENT_ID,
+                                                    client_secret=CLIENT_SECRET)
             self.sp = spotipy.Spotify(auth_manager=auth_manager)
         except Exception as e:
             messagebox.showerror("Error", f"Failed to authenticate with Spotify: {e}")
@@ -83,9 +88,11 @@ class SpotifyAnalyzer(tk.Tk):
         self.search_entry.bind("<Return>", lambda e: self.search_artist())
         search_btn = ttk.Button(top_frame, text="Search", command=self.search_artist)
         search_btn.grid(row=0, column=2, padx=5)
+
         # Main horizontal Paned Window (left = artist/discography, right = charts)
         main_paned = tk.PanedWindow(self, orient=tk.HORIZONTAL, sashrelief=tk.RAISED)
         main_paned.pack(side=tk.TOP, fill=tk.BOTH, expand=True)
+
         # Left frame: Artist Matches + Discography
         left_frame = ttk.Frame(main_paned)
         left_frame.pack(fill=tk.BOTH, expand=True)
@@ -98,15 +105,18 @@ class SpotifyAnalyzer(tk.Tk):
         self.albums_listbox.pack(fill=tk.BOTH, expand=True)
         self.albums_listbox.bind("<<ListboxSelect>>", self.on_select_album)
         main_paned.add(left_frame, minsize=200)
+
         # Right Paned Window for charts (split vertically, but you can adjust any of these)
         right_paned = tk.PanedWindow(main_paned, orient=tk.VERTICAL, sashrelief=tk.RAISED)
         right_paned.pack(fill=tk.BOTH, expand=True)
         main_paned.add(right_paned, minsize=400)
+
         # Top sub-frame for the album chart
         album_frame = ttk.Frame(right_paned)
         album_frame.pack(fill=tk.BOTH, expand=True)
         album_pack_frame = ttk.Frame(album_frame)
         album_pack_frame.pack(fill=tk.BOTH, expand=True)
+
         # Create the album chart figure and axes
         self.album_fig = plt.Figure(figsize=(5, 3), dpi=100)
         self.album_ax = self.album_fig.add_subplot(111)
@@ -127,7 +137,6 @@ class SpotifyAnalyzer(tk.Tk):
         track_frame.pack(fill=tk.BOTH, expand=True)
         track_pack_frame = ttk.Frame(track_frame)
         track_pack_frame.pack(fill=tk.BOTH, expand=True)
-
         # Create the track chart figure and axes
         self.track_fig = plt.Figure(figsize=(5, 3), dpi=100)
         self.track_ax = self.track_fig.add_subplot(111)
@@ -142,18 +151,16 @@ class SpotifyAnalyzer(tk.Tk):
         self.track_toolbar.update()
         self.track_toolbar.pack(side=tk.BOTTOM, fill=tk.X)
         right_paned.add(track_frame, minsize=200)
-
     # ------------------------------
     # Spotify API Functions
     # ------------------------------
     def search_artist(self):
-        """
-        This function is called when the 'Search' button is clicked or the Enter key is pressed.
-        The app then asks Spotify for up to 5 matching artists and displays them in the matches listbox.
-        If you increase the number of matches, you'll need to scroll down the results, I didn't make any sliders for that.
-        Also, you're free to make typos or any mistakes in your inquiry.
-        Normally, if artist name is correct, the first matching result is what you're looking for.
-        """
+
+        # this function is called when the 'Search' button is clicked or the Enter key is pressed.
+        # the app then asks Spotify for up to 5 matching artists and displays them in the matches listbox.
+        # if you increase the number of matches, you'll need to scroll down the results, I didn't make any sliders for that.
+        # Also, you're free to make typos or any mistakes in your inquiry. Normally, if artist name is correct, the first matching result is what you're looking for.
+
         query = self.search_entry.get().strip()
         if not query:
             messagebox.showinfo("Info", "Please enter an artist name.")
@@ -199,6 +206,8 @@ class SpotifyAnalyzer(tk.Tk):
         self.albums_listbox.delete(0, tk.END)
         self.albums.clear()
         offset = 0
+        # List of keywords to filter out (feel free to modify it)
+        filter_keywords = ["live", "remastered", "re-issue", "reissue", "demo"]
         while True:
             try:
                 results = self.sp.artist_albums(self.artist_id, album_type='album', limit=50, offset=offset)
@@ -210,8 +219,8 @@ class SpotifyAnalyzer(tk.Tk):
                 break
             for album in items:
                 album_name = album.get("name", "")
-                # Skip albums whose name contains "live"
-                if "live" in album_name.lower():
+                # Skip albums whose name contains any filtered keyword
+                if any(keyword in album_name.lower() for keyword in filter_keywords):
                     continue
                 album_id = album["id"]
                 try:
@@ -248,7 +257,7 @@ class SpotifyAnalyzer(tk.Tk):
         self.album_canvas.draw()
 
     def on_select_album(self, event):
-        # this function is triggered when an album is selected from the discography listbox.
+        # This function is triggered when an album is selected from the discography listbox.
         selection = self.albums_listbox.curselection()
         if not selection:
             return
@@ -262,9 +271,13 @@ class SpotifyAnalyzer(tk.Tk):
             messagebox.showerror("Error", f"Track retrieval failed: {e}")
             return
         self.current_album_tracks = []
+        # List of keywords for filtering tracks
+        filter_keywords = ["live", "remastered", "re-issue", "reissue", "demo"]
         for track in album_tracks:
             track_name = track.get("name", "")
-            if "live" in track_name.lower():
+            # Skip tracks whose name contains any of the filtered keywords
+            # You can modify the keyword list or comment this section if you want to look through all albums
+            if any(keyword in track_name.lower() for keyword in filter_keywords):
                 continue
             track_id = track["id"]
             try:
@@ -302,14 +315,18 @@ class SpotifyAnalyzer(tk.Tk):
         raw_win.geometry("800x600")
         text_area = scrolledtext.ScrolledText(raw_win, wrap=tk.WORD)
         text_area.pack(fill=tk.BOTH, expand=True)
+        data = {
+            "albums": "No album data available.",
+            "tracks": "No track data available."
+        }         # default values when no artist is chosen
+        if self.albums:
+            data["albums"] = [
+                {"id": a_id, "name": a_name, "popularity": pop, "year": year}
+                for (a_id, a_name, pop, year) in self.albums
+            ]
         if self.current_album_tracks:
-            data_list = self.current_album_tracks
-        elif self.albums:
-            data_list = [{"id": a_id, "name": a_name, "popularity": pop, "year": year}
-                         for (a_id, a_name, pop, year) in self.albums]
-        else:
-            data_list = "No data available."
-        text_area.insert(tk.END, json.dumps(data_list, indent=2))
+            data["tracks"] = self.current_album_tracks
+        text_area.insert(tk.END, json.dumps(data, indent=2))
 
     def export_unpopularity(self):
         """
