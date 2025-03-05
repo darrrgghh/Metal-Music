@@ -16,8 +16,8 @@ to help identify the least popular releases of a particular artist. Main feature
   Also includes local time zone info and "Spotify API" as the source.
 - This version of "Spotify {UN}Popularity Analyzer" is designed for the research purposes and only searches for releases labeled as "album".
   Live albums and tracks (those with "live" in the name) are skipped. We did it on purpose because many live releases are much less popular,
-  even though they often contain songs that are very popular themselves (within their respective releases). Also, releases marked as "Remastered",
-  "Re-issue", "Reissue" and "Demo" are excluded to avoid duplications.
+  even though they often contain songs that are very popular themselves (within their respective releases). Also,
+  for accuracy and to avoid false data, releases labeled as 'Remastered,' 'Re-issue,' 'Reissue,' 'Demo,' or 'Edition' are excluded.
 - Click on an item in discography and press 'delete' on your keyboard to exclude
 Future improvements:
 - Add a Filter menu that allows users to include or exclude various release types (e.g., EP, LP, Single, Live, Remastered, Demo).
@@ -222,7 +222,7 @@ class SpotifyAnalyzer(tk.Tk):
         self.albums.clear()
         offset = 0
         # List of keywords to filter out (feel free to modify it)
-        filter_keywords = ["live", "remastered", "re-issue", "reissue", "demo"]
+        filter_keywords = ["live", "remastered", "re-issue", "reissue", "demo", "edition"]
         while True:
             try:
                 results = self.sp.artist_albums(self.artist_id, album_type='album', limit=50, offset=offset)
