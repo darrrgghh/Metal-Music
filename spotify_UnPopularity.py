@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Spotify {UN}Popularity Analyzer 0.3
+Spotify {UN}Popularity Analyzer 0.4
 
 This program was created for our research on metal music. It gathers "popularity" metrics from the Spotify API
 to help identify the least popular releases of a particular artist. Main features include:
