@@ -47,7 +47,7 @@ class SpotifyAnalyzer(tk.Tk):
     # ------------------------------
     def __init__(self):
         super().__init__()
-        self.title("Spotify {UN}Popularity Analyzer 0.3")
+        self.title("Spotify {UN}Popularity Analyzer 0.4")
         self.geometry("1200x800")
         self.minsize(800, 600)
         self.resizable(True, True)
