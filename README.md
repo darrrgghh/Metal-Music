@@ -17,7 +17,7 @@ This work will be presented at the **18th International Conference on Music Perc
 - **Recording Protocol:**  
   Professional metal vocalists are recruited to re-record the selected excerpts in five different vocal conditions. These re-recorded stimuli form the basis of our perceptual experiment, where participants are asked to "sing back" the excerpts.
 ## Spotify {UN}Popularity Analyzer  
-The **Spotify 'UN'Popularity Analyzer** is a Python-based GUI application developed as part of our research. It serves to build a database of musical fragments and evaluate popularity metrics using the Spotify API. The tool provides:
+The **Spotify 'UN'Popularity Analyzer 0.3** is a Python-based GUI application developed as part of our research. It serves to build a database of musical fragments and evaluate popularity metrics using the Spotify API. The tool provides:
 
 - **Search Bar:**  
   Supports pressing Enter or clicking the "Search" button to trigger an artist search.

@@ -1,24 +1,29 @@
 #!/usr/bin/env python3
 """
-Spotify {UN}Popularity Analyzer
+Spotify {UN}Popularity Analyzer 0.3
 
 This program was created for our research on metal music. It gathers "popularity" metrics from the Spotify API
 to help identify the least popular releases of a particular artist. Main features include:
 
 - A File menu with:
     - "Export Unpopularity..." to export research-relevant data.
+    - "Export Count": set how many least popular items you want to export 1 to 5 or 'all' (exports all active discography when the artist is selected)
     - "Raw Data" to display quantitative JSON data.
+    - "Exit" to, you know...>>>.(8.8).>>>...
 - Panels for artist matches and discography on the left, right panel for charts (top for an album popularity chart, bottom for a track popularity chart).
 - The search bar triggers a search when the Enter key is pressed (or click on search button)
 - "Export Unpopularity..." exports three least popular albums of a chosen artist and three least popular songs on those albums.
   Also includes local time zone info and "Spotify API" as the source.
-- Live albums and tracks (those with "live" in the name) are skipped. We did it on purpose because many live releases are much less popular,
+- This version of "Spotify {UN}Popularity Analyzer" is designed for the research purposes and only searches for releases labeled as "album".
+  Live albums and tracks (those with "live" in the name) are skipped. We did it on purpose because many live releases are much less popular,
   even though they often contain songs that are very popular themselves (within their respective releases). Also, releases marked as "Remastered",
   "Re-issue", "Reissue" and "Demo" are excluded to avoid duplications.
+- Click on an item in discography and press 'delete' on your keyboard to exclude
 Future improvements:
 - Add a Filter menu that allows users to include or exclude various release types (e.g., EP, LP, Single, Live, Remastered, Demo).
   By default, all release types would be selected, and users could simply uncheck any categories they wish to exclude,
   providing flexible filtering for different research or personal needs.
+- Add various options for exporting data.
 """
 import tkinter as tk
 from tkinter import ttk, messagebox, scrolledtext, filedialog
@@ -42,7 +47,7 @@ class SpotifyAnalyzer(tk.Tk):
     # ------------------------------
     def __init__(self):
         super().__init__()
-        self.title("Spotify {UN}Popularity Analyzer")
+        self.title("Spotify {UN}Popularity Analyzer 0.3")
         self.geometry("1200x800")
         self.minsize(800, 600)
         self.resizable(True, True)
@@ -53,14 +58,11 @@ class SpotifyAnalyzer(tk.Tk):
             self.sp = spotipy.Spotify(auth_manager=auth_manager)
         except Exception as e:
             messagebox.showerror("Error", f"Failed to authenticate with Spotify: {e}")
-            self.destroy()  # close the app if no connection
+            self.destroy()
             return
-        # Data holders:
         self.artist_id = None
         self.artist_name = None
-        # albums stored as (album_id, album_name, popularity, release_year)
         self.albums = []
-        # getting tracks of the selected album
         self.current_album_tracks = []
         self._create_menubar()
         self._create_main_layout()
@@ -70,8 +72,17 @@ class SpotifyAnalyzer(tk.Tk):
         self.config(menu=menubar)
         file_menu = tk.Menu(menubar, tearoff=False)
         menubar.add_cascade(label="File", menu=file_menu)
-        # "Export Unpopularity..." calls export_unpopularity() function here
+        # Export Unpopularity command - use it to export data
         file_menu.add_command(label="Export Unpopularity...", command=self.export_unpopularity)
+        # Export Count - set this parameter before exporting (optional, by default set for 3 items)
+        export_count_menu = tk.Menu(file_menu, tearoff=False)
+        self.export_count = tk.StringVar(value="3")  # Default to exporting 3 albums
+        for option in ["1", "2", "3", "4", "5", "All"]:
+            export_count_menu.add_radiobutton(label=option,
+                                              variable=self.export_count,
+                                              value=option)
+        file_menu.add_cascade(label="Export Count", menu=export_count_menu)
+        # Raw Data and Exit commands
         file_menu.add_command(label="Raw Data", command=self.show_raw_data)
         file_menu.add_separator()
         file_menu.add_command(label="Exit", command=self.destroy)
@@ -104,6 +115,7 @@ class SpotifyAnalyzer(tk.Tk):
         self.albums_listbox = tk.Listbox(left_frame, height=15)
         self.albums_listbox.pack(fill=tk.BOTH, expand=True)
         self.albums_listbox.bind("<<ListboxSelect>>", self.on_select_album)
+        self.albums_listbox.bind("<Delete>", self.delete_selected_album)
         main_paned.add(left_frame, minsize=200)
 
         # Right Paned Window for charts (split vertically, but you can adjust any of these)
@@ -155,7 +167,6 @@ class SpotifyAnalyzer(tk.Tk):
     # Spotify API Functions
     # ------------------------------
     def search_artist(self):
-
         # this function is called when the 'Search' button is clicked or the Enter key is pressed.
         # the app then asks Spotify for up to 5 matching artists and displays them in the matches listbox.
         # if you increase the number of matches, you'll need to scroll down the results, I didn't make any sliders for that.
@@ -200,6 +211,10 @@ class SpotifyAnalyzer(tk.Tk):
             return
         self.artist_id = artist_id
         self.artist_name = artist_info["name"]
+        self.current_album_tracks = []
+        self.track_ax.clear()
+        self.track_ax.set_title("Track Popularity")
+        self.track_canvas.draw()
         self.fetch_albums()
 
     def fetch_albums(self):
@@ -235,7 +250,7 @@ class SpotifyAnalyzer(tk.Tk):
             offset += 50
             if len(items) < 50:
                 break
-        # Populate the discography listbox
+        # creating the discography listbox
         for (alb_id, alb_name, alb_pop, alb_year) in self.albums:
             display_str = f"{alb_name} ({alb_year}) [pop: {alb_pop}]"
             self.albums_listbox.insert(tk.END, display_str)
@@ -292,6 +307,27 @@ class SpotifyAnalyzer(tk.Tk):
             })
         self._update_track_graph(album_name, self.current_album_tracks)
 
+    def delete_selected_album(self, event):
+        # this functions allows you to delete selected item in discography. it also updates graphs.
+        selection = self.albums_listbox.curselection()
+        if not selection:
+            return
+        idx = selection[0]
+        # Remove the album from the internal list
+        del self.albums[idx]
+        # Update the listbox
+        self.albums_listbox.delete(0, tk.END)
+        for (alb_id, alb_name, alb_pop, alb_year) in self.albums:
+            display_str = f"{alb_name} ({alb_year}) [pop: {alb_pop}]"
+            self.albums_listbox.insert(tk.END, display_str)
+        # Update the album graph
+        self.update_album_graph()
+        # Clear the track graph since
+        self.current_album_tracks = []
+        self.track_ax.clear()
+        self.track_ax.set_title("Track Popularity")
+        self.track_canvas.draw()
+
     def _update_track_graph(self, album_name, track_list):
         # Updates the track popularity bar chart using the track data for the selected album
         self.track_ax.clear()
@@ -331,10 +367,10 @@ class SpotifyAnalyzer(tk.Tk):
     def export_unpopularity(self):
         """
         This function is the main point of the whole app.
-        it exports a .txt file with the artist's name, up to 3 least popular albums,
-        and for each album, up to 3 least popular tracks. The export also includes local time zone
-        information and indicates "Spotify API" as the data source.
-        Again, albums/tracks with "live" in the name are skipped.
+        Exports a .txt file containing the artist's name, and for each album, the least popular tracks.
+        The number of albums exported is determined by the export_count variable (or all if selected).
+        Albums/tracks with filtered keywords ("live", "remastered", "re-issue", "reissue", "demo") are skipped,
+        but in future versions there will be options to manipulate the filters.
         """
         if not self.artist_id:
             messagebox.showinfo("Info", "No artist selected.")
@@ -342,8 +378,17 @@ class SpotifyAnalyzer(tk.Tk):
         if not self.albums:
             messagebox.showinfo("Info", "No album data available. Please search and select an artist first.")
             return
+        # the number of albums to export
+        count_option = self.export_count.get()
+        if count_option == "All":
+            export_num = len(self.albums)
+        else:
+            export_num = int(count_option)
+            if export_num > len(self.albums):
+                export_num = len(self.albums)
+        # Sort albums in ascending order of popularity - it's the {UN}Popularity Analyzer!
         sorted_albums = sorted(self.albums, key=lambda x: x[2])
-        least_pop_albums = sorted_albums[:3]  # Up to 3 least popular albums
+        least_pop_albums = sorted_albums[:export_num]
         lines = []
         dt = datetime.datetime.now().astimezone()
         lines.append(f"Unpopularity Export for Artist: {self.artist_name}")
@@ -361,7 +406,7 @@ class SpotifyAnalyzer(tk.Tk):
             track_data = []
             for tr in album_tracks:
                 tr_name = tr.get("name", "")
-                if "live" in tr_name.lower():
+                if any(keyword in tr_name.lower() for keyword in ["live", "remastered", "re-issue", "reissue", "demo"]):
                     continue
                 tr_id = tr["id"]
                 try:
@@ -371,6 +416,7 @@ class SpotifyAnalyzer(tk.Tk):
                     tr_pop = 0
                 track_data.append((tr_name, tr_pop))
             track_data.sort(key=lambda x: x[1])
+            # Export up to 3 least popular tracks per album by default
             least_tracks = track_data[:3]
             for (t_name, t_pop) in least_tracks:
                 lines.append(f"   Track: {t_name}, Popularity: {t_pop}")
@@ -389,6 +435,7 @@ class SpotifyAnalyzer(tk.Tk):
             messagebox.showinfo("Export Complete", f"Data exported to:\n{save_path}")
         except Exception as e:
             messagebox.showerror("Error", f"Failed to write file: {e}")
+
 
 def main():
     app = SpotifyAnalyzer()
