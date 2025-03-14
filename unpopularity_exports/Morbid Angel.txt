@@ -1,0 +1,22 @@
+Unpopularity Export for Artist: Morbid Angel
+Date/Time (Local): 2025-03-05 18:33:34 Eastern Standard Time
+Source: Spotify API
+
+Album: Juvenilia (2015), Popularity: 8
+
+Album: Complete Acid Terror (2017), Popularity: 9
+   Track: 7 String Swing - Instrumental Version, Popularity: 4
+   Track: Warped - Instrumental Version, Popularity: 4
+   Track: Secret Hell - Instrumental Version, Popularity: 4
+
+Album: Illud Divinum Insanus - The Remixes Complete (2012), Popularity: 11
+   Track: Radikult - Mondkopf Remix, Popularity: 0
+   Track: I Am Morbid - Ahnst Anders Remix, Popularity: 0
+   Track: 10 More Dead - Black Strobe Remix, Popularity: 0
+
+Album: Entangled in Chaos (1996), Popularity: 12
+
+Album: Abominations of Desolation (1991), Popularity: 16
+   Track: Abominations, Popularity: 7
+   Track: Welcome to Hell, Popularity: 7
+   Track: The Gate / Lord of All Fevers, Popularity: 8

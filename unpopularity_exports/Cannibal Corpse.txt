@@ -1,0 +1,42 @@
+Unpopularity Export for Artist: Cannibal Corpse
+Date/Time (Local): 2025-03-05 18:33:53 Eastern Standard Time
+Source: Spotify API
+
+
+
+Album: Torturing and Eviscerating (2013), Popularity: 18	# live - exclude
+   Track: Pounded into Dust, Popularity: 7
+   Track: Staring Through the Eyes of the Dead, Popularity: 8
+   Track: Devoured by Vermin, Popularity: 8
+
+
+Album: Global Evisceration (2011), Popularity: 20	# live - exclude
+   Track: Scalding Hail, Popularity: 7
+   Track: Staring Through the Eyes of the Dead, Popularity: 7
+   Track: Pit of Zombies, Popularity: 7
+
+
+Album: Gore Obsessed (2002), Popularity: 28	# approved
+   Track: Sanded Faceless, Popularity: 15, Stream Count: 219999
+   Track: Drowning in Viscera, Popularity: 16, Stream Count: 284499
+   Track: Hung and Bled, Popularity: 16, Stream Count: 227125
+
+
+Unpopularity Export for Artist: Cannibal Corpse
+Date/Time (Local): 2025-03-06 18:02:23 Eastern Standard Time
+Source: Spotify API
+The most popular song: Hammer Smashed Face
+Stream Count: 38127180
+
+
+Album: Vile (1996), Popularity: 31 # approved
+
+   Track: Relentless Beating, Popularity: 17, # exclude, no vocals
+   Track: Eaten from Inside, Popularity: 18, Stream Count: 405383
+   Track: Monolith, Popularity: 18, Stream Count: 363202
+   Track: Puncture Wound Massacre, Popularity; 19, Stream Count: 460495 # substitute for n1, manually picked
+
+Album: A Skeletal Domain (2014), Popularity: 32	# approved
+   Track: Bloodstained Cement, Popularity: 16, Stream Count: 559513
+   Track: Asphyxiate to Resuscitate, Popularity: 16, Stream Count: 548934
+   Track: Hollowed Bodies, Popularity: 16, Stream Count: 493877

@@ -1,0 +1,23 @@
+Unpopularity Export for Artist: Immolation
+Date/Time (Local): 2025-03-05 18:35:16 Eastern Standard Time
+Source: Spotify API
+
+Album: Harnessing Ruin (2005), Popularity: 7
+   Track: Son Of Iniquity, Popularity: 2
+   Track: My Own Enemy, Popularity: 2
+   Track: Crown The Liar, Popularity: 2
+
+Album: Unholy Cult (2005), Popularity: 8
+   Track: Wolf Among The Flock, Popularity: 3
+   Track: Reluctant Messiah, Popularity: 3
+   Track: A Kingdom Divided, Popularity: 3
+
+Album: Shadows in the Light (2007), Popularity: 10
+   Track: Den of Thieves, Popularity: 2
+   Track: The Condemned, Popularity: 2
+   Track: The Struggle of Hope and Horror, Popularity: 2
+
+Album: Unholy Cult (2002), Popularity: 11
+   Track: Bring Them Down, Popularity: 4
+   Track: Wolf Among The Flock, Popularity: 5
+   Track: A Kingdom Divided, Popularity: 5

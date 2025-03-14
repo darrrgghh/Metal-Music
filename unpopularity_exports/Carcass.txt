@@ -1,0 +1,27 @@
+Unpopularity Export for Artist: Carcass
+Date/Time (Local): 2025-03-05 18:32:43 Eastern Standard Time
+Source: Spotify API
+The most popular track: 1985
+Stream Count: 15501207
+
+Album: The Earache Peel Sessions (2014), Popularity: 9 # excluded - https://en.wikipedia.org/wiki/Grind_Madness_at_the_BBC
+   Track: Foeticide, Popularity: 3
+   Track: Slash Dementia, Popularity: 4
+   Track: Cadaveric Incubator of Endoparasites, Popularity: 4
+
+Album: Wake Up and Smell the... Carcass (1996), Popularity: 27	# approved
+   Track: Hepatic Tissue Fermentation, Popularity: 6, Stream Count: 73982
+   Track: Hepatic Tissue Fermentation II, Popularity: 7, Stream Count: 231182
+   Track: Edge of Darkness - Radio 1 Rock Show Session, Popularity: 8, Stream Count: 85384
+
+Album: Reek of Putrefaction (1988), Popularity: 27	# approved
+   Track: Festerday, Popularity: 0, Stream Count: # exluded, too short, no streaming data
+   Track: Splattered Cavities, Popularity: 9, Stream Count: 72655
+   Track: Pungent Excruciation, Popularity: 9, Stream Count: 66862
+   Track: Manifestation of Verrucose Urethra, Popularity: 9 # exluded, too short
+   Track: Malignant Defecation, Popularity: 10, Stream Count: 75706
+
+Album: Symphonies of Sickness (1989), Popularity: 28	# approved
+   Track: Crepitating Bowel Erosion, Popularity: 12, Stream Count: 161136 
+   Track: Cadaveric Incubator of Endoparasites, Popularity: 13, Stream Count: 173277 
+   Track: Slash Dementia, Popularity: 14, Stream Count: 114173

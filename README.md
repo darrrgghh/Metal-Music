@@ -41,5 +41,7 @@ The **Spotify 'UN'Popularity Analyzer 0.3** is a Python-based GUI application de
 The **Timecode Selector** is a Python-based GUI tool designed to randomly select a timecode excerpt from a song for our research on metal music. 
 It is used to choose a segment from a musical example based on user-specified parameters like **Total Duration Input**, **Skip Percentage** and **Required Excerpt Length**.
 
+## Excerpts database
+This is the database of extreme vocal techniques in metal music. It is used to create the stimuli set for our research. The database is constantly updated.
 ---
 In addition to the conference project, this repository will also serve as a central hub for materials related to other ongoing research initiatives on metal music. Please check back regularly for updates, as this README and the repository content will be continuously revised to reflect new findings and developments.
