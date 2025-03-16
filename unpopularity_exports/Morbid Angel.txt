@@ -1,22 +1,36 @@
 Unpopularity Export for Artist: Morbid Angel
-Date/Time (Local): 2025-03-05 18:33:34 Eastern Standard Time
+Date/Time (Local): 2025-03-16 16:02:48 Eastern Daylight Time
 Source: Spotify API
+The most popular song: Immortal Rites
+Stream Count: 9432887
 
-Album: Juvenilia (2015), Popularity: 8
+Album: Juvenilia (2015), Popularity: 8 # exclude, no track data provided by Spotify API
 
-Album: Complete Acid Terror (2017), Popularity: 9
+Album: Complete Acid Terror (2017), Popularity: 9 # exclude (instrumental version)
    Track: 7 String Swing - Instrumental Version, Popularity: 4
    Track: Warped - Instrumental Version, Popularity: 4
    Track: Secret Hell - Instrumental Version, Popularity: 4
 
-Album: Illud Divinum Insanus - The Remixes Complete (2012), Popularity: 11
+Album: Illud Divinum Insanus - The Remixes Complete (2012), Popularity: 11 # exclude (remixes)
    Track: Radikult - Mondkopf Remix, Popularity: 0
    Track: I Am Morbid - Ahnst Anders Remix, Popularity: 0
    Track: 10 More Dead - Black Strobe Remix, Popularity: 0
 
-Album: Entangled in Chaos (1996), Popularity: 12
+Album: Entangled in Chaos (1996), Popularity: 12 # exclude, no track data provided by Spotify API
 
-Album: Abominations of Desolation (1991), Popularity: 16
-   Track: Abominations, Popularity: 7
-   Track: Welcome to Hell, Popularity: 7
-   Track: The Gate / Lord of All Fevers, Popularity: 8
+Album: Abominations of Desolation (1991), Popularity: 17
+   Track: Abominations, Popularity: 10, Stream Count: 63524
+   Track: The Gate / Lord of All Fevers, Popularity: 11, Stream Count: 77074
+   Track: Hell Spawn, Popularity: 11, Stream Count: 76662
+
+Album: Heretic (2003), Popularity: 24
+   Track: Death Walk, Popularity: 6, Stream Count: # skip, no lyrics on Spotify
+   Track: Swamp Horror, Popularity: 7, Stream Count:# skip, no lyrics on Spotify
+   Track: Doom Creeper, Popularity: 7, Stream Count: 48480
+   Track: Within Thy Enemy, Popularity: 12, Stream Count: 90190
+   Track: God Of Our Own Divinity, Popularity: 13, Stream Count: 112616
+
+Album: Kingdoms Disdained (2017), Popularity: 25
+   Track: From the Hand of Kings, Popularity: 14, Stream Count: 216890
+   Track: The Fall of Idols, Popularity: 14, Stream Count: 201836
+   Track: For No Master, Popularity: 15, Stream Count: 266232

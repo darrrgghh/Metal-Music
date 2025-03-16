@@ -1,23 +1,77 @@
-Unpopularity Export for Artist: Immolation
-Date/Time (Local): 2025-03-05 18:35:16 Eastern Standard Time
+Unpopularity Export for Artist: Incantation
+Date/Time (Local): 2025-03-16 16:04:53 Eastern Daylight Time
 Source: Spotify API
+The most popular song: Devoured Death
+Stream Count: 1130879
 
-Album: Harnessing Ruin (2005), Popularity: 7
-   Track: Son Of Iniquity, Popularity: 2
-   Track: My Own Enemy, Popularity: 2
-   Track: Crown The Liar, Popularity: 2
+Album: Decimate Christendom (2004), Popularity: 4
+   Track: Horns of Eradication, Popularity: 1, Stream Count: 6845
+   Track: Unholy Empowerment of Righteous Deprivation, Popularity: 1, Stream Count: 1518 # skip, no lyrics
+   Track: Feeble Existence, Popularity: 1, Stream Count: 5017
+   Track: Thorns Of Everlasting Persecution, Popularity: 1, Stream Count: 5873
 
-Album: Unholy Cult (2005), Popularity: 8
-   Track: Wolf Among The Flock, Popularity: 3
-   Track: Reluctant Messiah, Popularity: 3
-   Track: A Kingdom Divided, Popularity: 3
+Album: Primordial Domination (2006), Popularity: 6
+   Track: Doctrines of Crucifixion, Popularity: 2, Stream Count: # no lyrics on Spotify, skip
+   Track: Extirpated Dominus, Popularity: 2, Stream Count: 10987
+   Track: Conquered God, Popularity: 2, Stream Count: 10400
+   Track: Lead to Desolation: 3, Stream Count: 16566
 
-Album: Shadows in the Light (2007), Popularity: 10
-   Track: Den of Thieves, Popularity: 2
-   Track: The Condemned, Popularity: 2
-   Track: The Struggle of Hope and Horror, Popularity: 2
+Album: Vanquish in Vengeance (2012), Popularity: 8
+   Track: From Hollow Sands, Popularity: 3, Stream Count: 17989
+   Track: Haruspex, Popularity: 4, Stream Count: 24857
+   Track: Profound Loathing, Popularity: 4, Stream Count: 22304
 
-Album: Unholy Cult (2002), Popularity: 11
-   Track: Bring Them Down, Popularity: 4
-   Track: Wolf Among The Flock, Popularity: 5
-   Track: A Kingdom Divided, Popularity: 5
+Album: Profane Nexus (2017), Popularity: 10
+   Track: Stormgate Convulsions from the Thunderous Shores of Infernal Realms Beyond the Grace of God, Popularity: 3
+   Track: Messiah Nostrum, Popularity: 3
+   Track: Omens to the Altar of Onyx, Popularity: 3
+
+Album: Infernal Storm (2000), Popularity: 10
+   Track: Heaven Departed, Popularity: 5
+   Track: Apocalyptic Destroyer of Angels, Popularity: 5
+   Track: Lustful Demise, Popularity: 6
+
+Album: Tricennial of Blasphemy (2022), Popularity: 11
+   Track: Subjugation Divine, Popularity: 1
+   Track: Devoured Death, Popularity: 1
+   Track: Horde of Bestial Flames, Popularity: 2
+
+Album: Blasphemy (2002), Popularity: 11
+   Track: Outro 2, Popularity: 1
+   Track: Outro, Popularity: 2
+   Track: Misanthropic Indulgence, Popularity: 3
+
+Album: The Forsaken Mourning of Angelic Anguish (1997), Popularity: 12
+   Track: Triumph In Blasphemy (Interlude), Popularity: 0
+   Track: Blasphemous Cremation - Bonus Track, Popularity: 4
+   Track: Essence Ablaze - Bonus Track, Popularity: 4
+
+Album: Sect of Vile Divinities (2020), Popularity: 15
+   Track: Shadow-Blade Masters of Tempest and Maelstrom, Popularity: 5
+   Track: Scribes of the Stygian, Popularity: 5
+   Track: Unborn Ambrosia, Popularity: 5
+
+Album: Dirges of Elysium (2014), Popularity: 17
+   Track: Elysium - Eternity Is Nigh, Popularity: 4
+   Track: From a Glaciate Womb, Popularity: 5
+   Track: Portal Consecration, Popularity: 5
+
+Album: Unholy Deification (2023), Popularity: 18
+   Track: Altar (Unify In Carnage) V, Popularity: 9
+   Track: Exile (Defy The False) II, Popularity: 9
+   Track: Circle (Eye of Ascension) VII, Popularity: 9
+
+Album: Diabolical Conquest (1998), Popularity: 21
+   Track: Ethereal Misery, Popularity: 13
+   Track: United In Repungence, Popularity: 14
+   Track: Unto Infinite Twilight / Majesty of Infernal Damnation, Popularity: 14
+
+Album: Mortal Throne of Nazarene (1994), Popularity: 23
+   Track: Abolishment of Immaculate Serenity, Popularity: 16
+   Track: Nocturnal Dominium, Popularity: 18
+   Track: Blissful Bloodshower, Popularity: 18
+
+Album: Onward To Golgotha (1992), Popularity: 29
+   Track: Eternal Torture, Popularity: 16
+   Track: Profanation, Popularity: 17
+   Track: Immortal Cessation, Popularity: 18
