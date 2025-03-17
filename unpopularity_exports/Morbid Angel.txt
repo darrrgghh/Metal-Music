@@ -26,7 +26,8 @@ Album: Abominations of Desolation (1991), Popularity: 17
 Album: Heretic (2003), Popularity: 24
    Track: Death Walk, Popularity: 6, Stream Count: # skip, no lyrics on Spotify
    Track: Swamp Horror, Popularity: 7, Stream Count:# skip, no lyrics on Spotify
-   Track: Doom Creeper, Popularity: 7, Stream Count: 48480
+   Track: Doom Creeper, Popularity: 7, Stream Count: 48480 # skip, no lyrics
+   Track: Stricken Arise, Popularity: 15, Stream Count: 150308
    Track: Within Thy Enemy, Popularity: 12, Stream Count: 90190
    Track: God Of Our Own Divinity, Popularity: 13, Stream Count: 112616
 

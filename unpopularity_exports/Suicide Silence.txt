@@ -1,0 +1,31 @@
+Unpopularity Export for Artist: Suicide Silence
+Date/Time (Local): 2025-03-16 21:48:01 Eastern Daylight Time
+Source: Spotify API
+The most popular song: You Only Live Once
+Stream Count: 59446058
+
+Album: Rare Ass Shit (2019), Popularity: 24 # excluded - this release is some old never released demos and live tracks 
+   Track: Stand Strong (Tanner Vocals), Popularity: 6
+   Track: Victim of Tragedy (Tanner Vocals), Popularity: 7
+   Track: The Price of Beauty (Pre-Pro), Popularity: 8
+
+Album: Suicide Silence (2017), Popularity: 24 # approved, the least popular album
+   Track: Don't Be Careful You Might Hurt Yourself, Popularity: 13, Stream Count: 370166
+   Track: Run, Popularity: 14, Stream Count: 387317
+   Track: Hold Me up, Hold Me Down, Popularity: 15, Stream Count: 568557
+
+Album: No Time to Bleed (2009), Popularity: 44 
+# was chosen instead of some less popular ones because this album features original vocalist
+   Track: Your Creations, Popularity: 28, Stream Count: 1275056
+   Track: Something Invisible, Popularity: 29, Stream Count: 1629500
+   Track: Suffer, Popularity: 30, Stream Count: 1598871
+
+Album: The Black Crown (2012), Popularity: 49
+   Track: Cancerous Skies, Popularity: 27, Stream Count: 1573164
+   Track: March to the Black Crown, Popularity: 28, Stream Count: 2013717
+   Track: Cross-Eyed Catastrophe, Popularity: 29, Stream Count: 2022297
+
+Album: The Cleansing (2008), Popularity: 49
+   Track: Revelations - Intro, Popularity: 30
+   Track: Green Monster, Popularity: 32
+   Track: In a Photograph, Popularity: 33
