@@ -39,7 +39,7 @@ The **Spotify 'UN'Popularity Analyzer 0.3** is a Python-based GUI application de
 
 ## Timecode Selector
 The **Timecode Selector** is a Python-based GUI tool designed to randomly select a timecode excerpt from a song for our research on metal music.  
-***# I also need to describe the functions of this tiny app as well? hm, okay***
+***# I also need to describe the functions of this tiny app as well? hm, okay***  
 It is used to choose a segment from a musical example based on user-specified parameters like **Total Duration Input**, **Skip Percentage** and **Required Excerpt Length**.
 
 ## Excerpts database
