@@ -38,10 +38,13 @@ The **Spotify 'UN'Popularity Analyzer 0.3** is a Python-based GUI application de
   Includes an "Export Unpopularity..." function that exports the artist's three least popular albums and up to three least popular tracks per album, along with local time zone information and the data source ("Spotify API"). This export function is a key component for creating our stimuli set.
 
 ## Timecode Selector
-The **Timecode Selector** is a Python-based GUI tool designed to randomly select a timecode excerpt from a song for our research on metal music. 
+The **Timecode Selector** is a Python-based GUI tool designed to randomly select a timecode excerpt from a song for our research on metal music.  
+***# I also need to describe the functions of this tiny app as well? hm, okay***
 It is used to choose a segment from a musical example based on user-specified parameters like **Total Duration Input**, **Skip Percentage** and **Required Excerpt Length**.
 
 ## Excerpts database
 This is the database of extreme vocal techniques in metal music. It is used to create the stimuli set for our research. The database is constantly updated.
----
+## Unpopularity Exports
+
+___
 In addition to the conference project, this repository will also serve as a central hub for materials related to other ongoing research initiatives on metal music. Please check back regularly for updates, as this README and the repository content will be continuously revised to reflect new findings and developments.
