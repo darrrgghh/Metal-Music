@@ -1,0 +1,27 @@
+Unpopularity Export for Artist: The Faceless
+Date/Time (Local): 2025-03-19 23:05:22 Eastern Daylight Time
+Source: Spotify API
+The most popular song: Autotheist Movement I: Create
+Stream Count: 5176154
+
+Album: In Becoming A Ghost (2017), Popularity: 22
+   Track: Ghost Reprise, Popularity: 12 # exclude
+   Track: Instrumental Illness, Popularity: 13 # exclude
+   Track: The Terminal Breath, Popularity: 14, Stream Count: 392254
+   Track: I am, Popularity: 17, Stream Count: 547996
+   Track: Shake The Disease, Popularity: 18, Stream Count: 803265
+
+Album: Akeldama (2006), Popularity: 30
+   Track: Akeldama, Popularity: 20
+   Track: Ghost of a Stranger, Popularity: 20
+   Track: Horizons of Chaos, Pt. 1: The Foretelling, Popularity: 21
+
+Album: Autotheism (2012), Popularity: 34
+   Track: Hail Science, Popularity: 19
+   Track: In Solitude, Popularity: 23
+   Track: Ten Billion Years, Popularity: 25
+
+Album: Planetary Duality (2008), Popularity: 36
+   Track: Shape Shifters, Popularity: 24
+   Track: Coldly Calculated Design, Popularity: 28
+   Track: Sons of Belial, Popularity: 28

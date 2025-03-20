@@ -1,27 +1,35 @@
 Unpopularity Export for Artist: Dying Fetus
-Date/Time (Local): 2025-03-16 22:25:37 Eastern Daylight Time
+Date/Time (Local): 2025-03-19 20:22:13 Eastern Daylight Time
 Source: Spotify API
 The most popular song: Subjected to a Beating
-Stream Count: 10355128
+Stream Count: 10367030
 
-Album: Descend into Depravity (Deluxe Version) (2009), Popularity: 17 # exluded, deluxe version
-   Track: Twisted Truth - Bonus Track, Popularity: 8
-   Track: At What Expense?, Popularity: 10
-   Track: Conceived into Enslavement, Popularity: 11
-  
-Album: History Repeats (2011), Popularity: 18
-   Track: Gorehog, Popularity: 14, Stream Count: 203545
-   Track: Unleashed Upon Mankind, Popularity: 14, Stream Count: 235982
-   Track: Twisted Truth, Popularity: 14, Stream Count: 203720
+Album: Descend into Depravity (Deluxe Version) (2009), Popularity: 18 # exluded, deluxe version
+   Track: At What Expense?, Popularity: 9
+   Track: Twisted Truth - Bonus Track, Popularity: 9
+   Track: Ethos of Coercion, Popularity: 10
 
-Album: Infatuation With Malevolence (2010), Popularity: 19
-   Track: Clapping, Popularity: 0, Stream Count: # exluded
-   Track: Vomiting The Fetal Embryo, Popularity: 10, Stream Count: # exluded, no lyrics on Spotify
-   Track: Tearing Inside The Womb, Popularity: 10, Stream Count: 83871
-   Track: Nocturnal Crucifixion, Popularity: 11, Stream Count: 93161
-   Track: Grotesque Impalement, Popularity: 14, Stream Count: 141318
+Album: History Repeats (2011), Popularity: 19 # excluded, EP with cover songs
+   Track: Gorehog, Popularity: 14
+   Track: Twisted Truth, Popularity: 14
+   Track: Rohypnol, Popularity: 15
+
+Album: Infatuation With Malevolence (2010), Popularity: 19  # excluded, compilation album
+   Track: Clapping, Popularity: 0
+   Track: Vomiting The Fetal Embryo, Popularity: 10
+   Track: Tearing Inside The Womb, Popularity: 10
 
 Album: Killing on Adrenaline (2022), Popularity: 20
    Track: We Are Your Enemy, Popularity: 14, Stream Count: 349229
    Track: Absolute Defiance, Popularity: 14, Stream Count: 282879
    Track: Judgement Day, Popularity: 14, Stream Count: 484210
+
+Album: War of Attrition (2007), Popularity: 25
+   Track: The Ancient Rivalry, Popularity: 15, Stream Count: 143799
+   Track: Parasites of Catastrophe, Popularity: 16, Stream Count: 134607
+   Track: Obsolete Deterrence, Popularity: 16, Stream Count: 130603
+
+Album: Reign Supreme (Deluxe Version) (2012), Popularity: 27 # excluded, deluxe version
+   Track: Dead Whores Love to Fuck - Bonus Track, Popularity: 14, Stream Count:
+   Track: Revisionist Past, Popularity: 15, Stream Count:
+   Track: Dissidence, Popularity: 17, Stream Count:

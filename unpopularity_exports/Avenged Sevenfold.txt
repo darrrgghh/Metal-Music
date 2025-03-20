@@ -1,0 +1,32 @@
+Unpopularity Export for Artist: Avenged Sevenfold
+Date/Time (Local): 2025-03-19 22:33:31 Eastern Daylight Time
+Source: Spotify API
+The most popular song: Hail to the King
+Stream Count: 665984606
+
+Album: Hail to the King: Deathbat (Original Video Game Soundtrack) (2015), Popularity: 25
+# exclude
+   Track: Andronikos Theme - 8-bit Version, Popularity: 17
+   Track: Babylon Theme, Popularity: 18
+   Track: Afterlife Theme, Popularity: 18
+
+Album: Waking The Fallen: Resurrected (2014), Popularity: 42
+# exclude, remastered album
+   Track: Waking The Fallen, Popularity: 27
+   Track: Radiant Eclipse, Popularity: 29
+   Track: I Won't See You Tonight Part 2, Popularity: 29
+
+Album: The Stage (2016), Popularity: 49
+   Track: Simulation, Popularity: 36, Stream Count: 10852194
+   Track: Higher, Popularity: 37, Stream Count: 13066347
+   Track: Fermi Paradox, Popularity: 37, Stream Count: 11116434
+
+Album: Sounding The Seventh Trumpet (2002), Popularity: 51
+   Track: Breaking Their Hold, Popularity: 36, Stream Count: 2424674
+   Track: Forgotten Faces, Popularity: 36, Stream Count: 2703045
+   Track: Thick And Thin, Popularity: 36, Stream Count: 2904834
+
+Album: Life Is But a Dream… (2023), Popularity: 58
+   Track: Easier, Popularity: 45, Stream Count: 5269400
+   Track: G, Popularity: 46, Stream Count: 5865159
+   Track: (D)eath, Popularity: 47, Stream Count: 5861377

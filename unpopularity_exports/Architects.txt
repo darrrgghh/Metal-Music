@@ -1,0 +1,20 @@
+Unpopularity Export for Artist: Architects
+Date/Time (Local): 2025-03-19 22:34:34 Eastern Daylight Time
+Source: Spotify API
+The most popular song: Animals
+Stream Count: 119224011
+
+Album: Nightmares (2006), Popularity: 24
+   Track: A Portrait for the Deceased, Popularity: 18, Stream Count: 196966
+   Track: The Darkest Tomb, Popularity: 18, Stream Count: 259292
+   Track: They'll be Hanging Us Tonight, Popularity: 19, Stream Count: 240127
+
+Album: Ruin (2007), Popularity: 25
+   Track: Save me, Popularity: 17, Stream Count: 282130
+   Track: I Can't See the Light, Popularity: 17, Stream Count: 274811
+   Track: Low, Popularity: 17, Stream Count: 294465
+
+Album: The Here and Now (2012), Popularity: 37
+   Track: The Blues, Popularity: 26, Stream Count: 1159138
+   Track: Stay Young Forever, Popularity: 26, Stream Count: 1083511
+   Track: Year in Year Out/Up and Away, Popularity: 26, Stream Count: 1049614

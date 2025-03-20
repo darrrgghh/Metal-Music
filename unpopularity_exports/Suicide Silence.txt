@@ -22,10 +22,7 @@ Album: No Time to Bleed (2009), Popularity: 44
 
 Album: The Black Crown (2012), Popularity: 49
    Track: Cancerous Skies, Popularity: 27, Stream Count: 1573164
-   Track: March to the Black Crown, Popularity: 28, Stream Count: 2013717
-   Track: Cross-Eyed Catastrophe, Popularity: 29, Stream Count: 2022297
+   Track: March to the Black Crown, Popularity: 28, Stream Count: 2013717 # exclude
+   Track: Cross-Eyed Catastrophe, Popularity: 29, Stream Count: 2022297 
+   Track: Smashed, Popularity: 30, Stream Count: 2178704
 
-Album: The Cleansing (2008), Popularity: 49
-   Track: Revelations - Intro, Popularity: 30
-   Track: Green Monster, Popularity: 32
-   Track: In a Photograph, Popularity: 33
