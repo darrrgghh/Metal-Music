@@ -1,28 +1,46 @@
 Unpopularity Export for Artist: Cradle Of Filth
-Date/Time (Local): 2025-03-16 22:05:49 Eastern Daylight Time
+Date/Time (Local): 2025-03-22 13:57:12 Eastern Daylight Time
 Source: Spotify API
-The most popular song: Nymphetamine Fix
-Stream Count: 34320101
+The most popular song: Nynphetamine Fix
+Stream Count: 34417362
 
-Album: Total Fucking Darkness (2014), Popularity: 8
-   Track: The Raping Of Faith - Alternative Version, Popularity: 2 # no lyrics on Spotify
-   Track: Unbridled At Dusk - Alternative Version, Popularity: 2 # no lyrics on Spotify
-   Track: Devil Mayfair (Advocatus Diaboli), Popularity: 3 # no lyrics on Spotify
-   Track: The Black Goddess Rises, Popularity: 2
+Album: Total Fucking Darkness (2014), Popularity: 8 # exclude, demo
+   Track: The Raping Of Faith - Alternative Version, Popularity: 3
+   Track: Unbridled At Dusk - Alternative Version, Popularity: 3
+   Track: Devil Mayfair (Advocatus Diaboli), Popularity: 4
 
-Album: 11 Burial Masses (2002), Popularity: 11
+Album: 11 Burial Masses (2002), Popularity: 12 # exclude, no data
 
-Album: Midnight in the Labyrinth (2012), Popularity: 15
-   Track: The Rape and Ruin of Angels (Hosannas in Extremis) [Orchestral], Popularity: 5
-   Track: Summer Dying Fast (Orchestral), Popularity: 5
-   Track: The Twisted Nails of Faith (Orchestral), Popularity: 5
+Album: V empire Or Dark Faerytales In Phallustein (2012), Popularity: 15  # exclude
+   Track: She Mourns A Lengthening Shadow, Popularity: 9
+   Track: Nocturnal Supremacy, Popularity: 12
+   Track: The Rape And Ruin Of Angels (Hosannas in Extremis), Popularity: 12
 
-Album: V empire Or Dark Faerytales In Phallustein (2012), Popularity: 15
-   Track: She Mourns A Lengthening Shadow, Popularity: 8
-   Track: Nocturnal Supremacy, Popularity: 11
-   Track: Ebony Dressed For Sunset, Popularity: 12
+Album: Midnight in the Labyrinth (2012), Popularity: 16 # exclude, compilation album
+   Track: The Forest Whispers My Name (Orchestral), Popularity: 5
+   Track: Thirteen Autumns and a Widow (Orchestral), Popularity: 5
+   Track: The Rape and Ruin of Angels (Hosannas in Extremis) [Orchestral], Popularity: 6
 
-Album: The Principle Of Evil Made Flesh (2012), Popularity: 19
-   Track: Imperium Tenebrarum, Popularity: 6
-   Track: In Secret Love We Drown, Popularity: 8
-   Track: One Final Graven Kiss, Popularity: 10
+Album: The Screaming Of The Valkyries (2025), Popularity: 18
+   Track: Malignant Perfection, Popularity: 10, Stream Count: 960194
+   Track: When Misery Was A Stranger, Popularity: 10, Stream Count: # exclude, no lyrics
+   Track: White Hellebore, Popularity: 13, Stream Count: 223978
+
+Album: The Principle Of Evil Made Flesh (2012), Popularity: 20 
+   Track: Imperium Tenebrarum, Popularity: 7, Stream Count: # exclude
+   Track: In Secret Love We Drown, Popularity: 9, Stream Count: # exclude
+   Track: A Dream Of Wolves In The Snow, Popularity: 10, Stream Count: # exclude
+   Track: A Crescendo Of Passion Bleeding, Popularity: 11, Stream Count: 279185
+   Track: Summer Dying Fast, Popularity: 12, Stream Count: 337301
+   Track: Of Mist And Midnight Skies, Popularity: 12, Stream Count: 330436
+
+Album: Dusk And Her Embrace... The Original Sin (2016), Popularity: 21 # exclude, re-issue
+   Track: Carmilla's Masque, Popularity: 12, Stream Count: 
+   Track: The Graveyard By Moonlight, Popularity: 13, Stream Count: 
+   Track: Beauty Slept In Sodom, Popularity: 13, Stream Count: 
+
+Album: Thornography (2006), Popularity: 26
+   Track: Foetus Of A New Day Kicking, Popularity: 13, Stream Count: 2456287
+   Track: Lovesick for Mina, Popularity: 17, Stream Count: 553564
+   Track: Libertina Grimm, Popularity: 18, Stream Count: 632870
+   Track: I Am the Thorn, Popularity: 18, Stream Count: 655581

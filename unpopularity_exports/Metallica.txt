@@ -1,0 +1,20 @@
+Unpopularity Export for Artist: Metallica
+Date/Time (Local): 2025-03-22 15:07:57 Eastern Daylight Time
+Source: Spotify API
+The most popular track: Enter Sandman (Remastered)
+Stream Count: 1641217308
+
+Album: St. Anger (2003), Popularity: 47
+   Track: My World, Popularity: 32, Stream Count: 6891809
+   Track: Purify, Popularity: 33, Stream Count: 
+   Track: All Within My Hands, Popularity: 33, Stream Count: 6366769
+
+Album: Hardwired…To Self-Destruct (2016), Popularity: 52
+   Track: ManUNkind, Popularity: 33, Stream Count: 18403395
+   Track: Am I Savage?, Popularity: 34, Stream Count: 18073731
+   Track: Murder One, Popularity: 35, Stream Count: 20294834
+
+Album: 72 Seasons (2023), Popularity: 53
+   Track: Crown of Barbed Wire, Popularity: 40, Stream Count: 10825119
+   Track: Chasing Light, Popularity: 40, Stream Count: 10422079
+   Track: Room of Mirrors, Popularity: 40, Stream Count: 10256953

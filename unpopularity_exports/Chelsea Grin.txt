@@ -1,0 +1,21 @@
+Unpopularity Export for Artist: Chelsea Grin
+Date/Time (Local): 2025-03-22 14:27:48 Eastern Daylight Time
+Source: Spotify API
+The most popular song: Hostage
+Stream Count: 23901423
+
+Album: Self Inflicted (2016), Popularity: 30
+   Track: Welcome Back, Popularity: 19, Stream Count: 1419090
+   Track: Life Sentence, Popularity: 19, Stream Count: 1072230
+   Track: Strung Out, Popularity: 20, Stream Count: 1294294
+
+Album: My Damnation (2011), Popularity: 33
+   Track: Kharon, Popularity: 22, Stream Count: # exclude, no lyrics
+   Track: Behind A Veil Of Lies, Popularity: 23, Stream Count: 858624
+   Track: Cursed, Popularity: 23, Stream Count: 815301
+   Track: Last Breath, Popularity: 23, Stream Count: 879146
+
+Album: Suffer in Hell (2022), Popularity: 37
+   Track: Flood Lungs, Popularity: 27, Stream Count: 755448
+   Track: Mourning Hymn, Popularity: 28, Stream Count: 762044
+   Track: Deathbed Companion, Popularity: 32, Stream Count: 773544

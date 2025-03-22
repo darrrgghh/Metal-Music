@@ -1,0 +1,33 @@
+Unpopularity Export for Artist: Protest The Hero
+Date/Time (Local): 2025-03-22 15:08:49 Eastern Daylight Time
+Source: Spotify API
+The most popular track: Bloodmeat
+Stream Count: 7545611
+
+Album: Palimpsest - Instrumentals (2022), Popularity: 17 # exclude, instrumental
+   Track: Mountainside (Interlude), Popularity: 8
+   Track: Hillside (Interlude), Popularity: 8
+   Track: Soliloquy (Instrumental), Popularity: 10
+
+Album: Kezia (Remaster) (2005), Popularity: 23 # exclude, remaster
+   Track: A Plateful of Our Dead, Popularity: 7
+   Track: Nautical, Popularity: 9
+   Track: She Who Mars the Skin of Gods, Popularity: 9
+
+Album: Volition (2013), Popularity: 31
+   Track: Animal Bones, Popularity: 19, Stream Count: 1158002
+   Track: A Life Embossed, Popularity: 20, Stream Count: 1347914
+   Track: Underbite, Popularity: 20, Stream Count: 1374534
+
+Album: Scurrilous (2011), Popularity: 31
+   Track: Termites, Popularity: 21, Stream Count: 794536
+   Track: Tapestry, Popularity: 22, Stream Count: 1047606
+   Track: The Reign of Unending Terror, Popularity: 22, Stream Count: 814597
+
+Album: Palimpsest (2020), Popularity: 35
+   Track: Hillside, Popularity: 21, Stream Count: # exclude, no lyrics on Spotify
+   Track: Mountainside, Popularity: 23, Stream Count: # exclude, no lyrics on Spotify 
+   Track: Harborside, Popularity: 25, Stream Count: # exclude, no lyrics on Spotify
+   Track: Rivet, Popularity: 25, Stream Count: 760069
+   Track: Gardenias, Popularity: 26, Stream Count: 806186
+   Track: Reverie, Popularity: 26, Stream Count: 959865

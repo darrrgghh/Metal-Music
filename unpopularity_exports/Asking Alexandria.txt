@@ -1,0 +1,32 @@
+Unpopularity Export for Artist: Asking Alexandria
+Date/Time (Local): 2025-03-22 15:07:08 Eastern Daylight Time
+Source: Spotify API
+The most popular track: Alone In A Room
+Stream Count: 129625001
+
+Album: Stepped Up And Scratched (2011), Popularity: 33 # exclude
+   Track: I Used To Have A Best Friend (But Then He Gave Me An STD) - Big Chocolate Remix, Popularity: 19
+   Track: A Lesson Never Learned - Sol Invicto Remix, Popularity: 19, Stream Count: 
+   Track: Morte et Dabo - Sol Invicto Remix, Popularity: 20, Stream Count: 
+
+Album: LP5 DLX (2019), Popularity: 37 # exclude, too many remixes on this release
+   Track: Into The Fire - Radio Edit, Popularity: 11, Stream Count: 
+   Track: Empire, Popularity: 12, Stream Count: 
+   Track: Rise Up, Popularity: 14, Stream Count: 
+
+Album: Asking Alexandria (2017), Popularity: 40
+   Track: Into The Fire - Radio Edit, Popularity: 24, Stream Count: # exclude
+   Track: Empire, Popularity: 26, Stream Count: 5660323
+   Track: I Am One, Popularity: 28, Stream Count: 7342024
+   Track: Room 138, Popularity: 28, Stream Count: 7255905
+
+Album: See What’s On The Inside (2021), Popularity: 47
+   Track: Fame, Popularity: 28, Stream Count: 1805124
+   Track: The Grey, Popularity: 29, Stream Count: 1997269
+   Track: Misery Loves Company, Popularity: 30, Stream Count: 
+
+Album: Where Do We Go From Here? (2023), Popularity: 50
+   Track: Kill It With Fire, Popularity: 30, Stream Count: # exclude, no clean vocals
+   Track: Feel, Popularity: 36, Stream Count: 1479535
+   Track: Holding On To Something More, Popularity: 36, Stream Count: 1429485
+   Track: Let The Dead Take Me, Popularity: 39, Stream Count: 1846802

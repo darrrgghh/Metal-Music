@@ -1,0 +1,75 @@
+Unpopularity Export for Artist: August Burns Red
+Date/Time (Local): 2025-03-22 15:10:15 Eastern Daylight Time
+Source: Spotify API
+The most popular track: White Washed
+Stream Count: 33272376
+
+Album: Lost Messengers: The Outtakes (2009), Popularity: 16
+   Track: Piano Man, Popularity: 6
+   Track: To Those About to Rock, Popularity: 8
+   Track: Mosely, Popularity: 13
+
+Album: Home (2010), Popularity: 18
+   Track: Up Against the Ropes, Popularity: 8
+   Track: Intro, Popularity: 9
+   Track: Thirty and Seven, Popularity: 9
+
+Album: All I Want For Christmas Is You (2020), Popularity: 20
+   Track: Avalanche, Popularity: 15
+   Track: Winter Wilderness, Popularity: 15
+   Track: What Child Is This? (Greensleeves), Popularity: 15
+
+Album: Messengers Remixed (2018), Popularity: 26
+   Track: Black Sheep - Remixed, Popularity: 16
+   Track: Vital Signs - Remixed, Popularity: 17
+   Track: The Balance - Remixed, Popularity: 17
+
+Album: Constellations (Remixed) (2019), Popularity: 29
+   Track: The Escape Artist - Remix, Popularity: 19
+   Track: Paradox - Remix, Popularity: 19
+   Track: Rationalist - Remix, Popularity: 19
+
+Album: Thrill Seeker (2005), Popularity: 30
+   Track: A Wish Full of Dreams, Popularity: 20
+   Track: The Reflective Property, Popularity: 21
+   Track: Too Late for Roses, Popularity: 22
+
+Album: August Burns Red Presents: Sleddin' Hill, A Holiday Album (2012), Popularity: 34
+   Track: Sleddin' Hill, Popularity: 20
+   Track: Winter Wonderland, Popularity: 20
+   Track: Oh Holy Night, Popularity: 21
+
+Album: Rescue & Restore (2013), Popularity: 35
+   Track: The First Step, Popularity: 22
+   Track: Sincerity, Popularity: 23
+   Track: Treatment, Popularity: 24
+
+Album: Found In Far Away Places (2015), Popularity: 37
+   Track: Twenty-One Grams, Popularity: 20
+   Track: Separating The Seas, Popularity: 21
+   Track: Broken Promises, Popularity: 21
+
+Album: Guardians (2020), Popularity: 40
+   Track: Extinct By Instinct, Popularity: 25
+   Track: Lighthouse, Popularity: 27
+   Track: Empty Heaven, Popularity: 27
+
+Album: Phantom Anthem (2017), Popularity: 40
+   Track: Generations, Popularity: 26
+   Track: Lifeline, Popularity: 27
+   Track: Carbon Copy, Popularity: 27
+
+Album: Death Below (2023), Popularity: 42
+   Track: Sevink, Popularity: 26
+   Track: Deadbolt, Popularity: 29
+   Track: Premonition, Popularity: 30
+
+Album: Messengers (2007), Popularity: 42
+   Track: The Balance, Popularity: 28
+   Track: Black Sheep, Popularity: 28
+   Track: An American Dream, Popularity: 28
+
+Album: Constellations (2009), Popularity: 49
+   Track: Paradox, Popularity: 32
+   Track: Rationalist, Popularity: 32
+   Track: The Escape Artist, Popularity: 33

@@ -1,0 +1,45 @@
+Unpopularity Export for Artist: Northlane
+Date/Time (Local): 2025-03-22 15:11:20 Eastern Daylight Time
+Source: Spotify API
+The most popular track: Quantum Flux
+Stream Count: 25559729
+
+Album: Singularity (Deluxe) (2014), Popularity: 21
+   Track: Singularity - Instrumental, Popularity: 5
+   Track: Aspire - Instrumental, Popularity: 7
+   Track: Singularity, Popularity: 9
+
+Album: Node (Deluxe) (2016), Popularity: 25
+   Track: Ra - Instrumental, Popularity: 6
+   Track: Nameless, Popularity: 7
+   Track: Ra, Popularity: 7
+
+Album: Mesmer (2017), Popularity: 34
+   Track: Paragon, Popularity: 23
+   Track: Fade, Popularity: 24
+   Track: Render, Popularity: 24
+
+Album: Node (2015), Popularity: 34
+   Track: Nameless, Popularity: 22
+   Track: Ra, Popularity: 24
+   Track: Animate, Popularity: 24
+
+Album: Discoveries (2011), Popularity: 35
+   Track: Solitude, Popularity: 23
+   Track: Metamorphosis, Popularity: 24
+   Track: Corruption, Popularity: 25
+
+Album: Singularity (2013), Popularity: 43
+   Track: The Calling, Popularity: 29
+   Track: Singularity, Popularity: 29
+   Track: Aspire, Popularity: 30
+
+Album: Alien (2019), Popularity: 45
+   Track: Rift, Popularity: 29
+   Track: Paradigm, Popularity: 30
+   Track: Eclipse, Popularity: 31
+
+Album: Obsidian (2022), Popularity: 48
+   Track: Dark Solitaire, Popularity: 32
+   Track: Is This a Test?, Popularity: 33
+   Track: Abomination, Popularity: 34

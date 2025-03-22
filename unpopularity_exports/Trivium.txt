@@ -1,0 +1,39 @@
+Unpopularity Export for Artist: Trivium
+Date/Time (Local): 2025-03-22 15:05:58 Eastern Daylight Time
+Source: Spotify API
+The most popular track: The Heart from Your Hate
+Stream Count: 97879084
+
+Album: Ascendancy (Commentary Version) (2005), Popularity: 12 # exclude
+   Track: Drowned and Torn Asunder, Popularity: 0, Stream Count: 
+   Track: Suffocating Sight, Popularity: 5, Stream Count: 
+   Track: Declaration, Popularity: 5, Stream Count: 
+
+Album: Ember to Inferno: Ab Initio (2016), Popularity: 31
+   Track: A View of Burning Empires, Popularity: 16, Stream Count: # exclude
+   Track: Thrust - Ruber, Popularity: 16, Stream Count: 401029
+   Track: Fugue - Caeruleus, Popularity: 17, Stream Count: 384619
+   Track: The Deceived - Flavus, Popularity: 19, Stream Count: 423655
+
+Album: Vengeance Falls (2023 Remaster) (2013), Popularity: 33 # exclude, remaster
+   Track: Incineration: The Broken World - 2023 Remaster, Popularity: 22, Stream Count: 
+   Track: Wake (The End Is Nigh) - 2023 Remaster, Popularity: 22, Stream Count: 
+   Track: At the End of This War - 2023 Remaster, Popularity: 23, Stream Count: 
+
+Album: Ember to Inferno (2003), Popularity: 36 # exclude, 2016's version used instead
+   Track: A View of Burning Empires, Popularity: 22, Stream Count: 
+   Track: Inception: The Bleeding Skies, Popularity: 23, Stream Count: 
+   Track: Ashes, Popularity: 25, Stream Count: 
+
+Album: In Waves (2011), Popularity: 38
+   Track: Leaving This World Behind, Popularity: 20, Stream Count: # exclude, no clean vocals
+   Track: Chaos Reigns, Popularity: 24, Stream Count: # exclude, no clean vocals
+   Track: A Skyline's Severance, Popularity: 25, Stream Count: # exclude, no clean vocals
+   Track: Of All These Yesterdays, Popularity: 26, Stream Count: 3973370
+   Track: Forsake Not the Dream, Popularity: 27, Stream Count: 5829797
+   Track: Caustic Are the Ties That Bind, Popularity: 27, Stream Count: 5219688
+
+Album: Shogun (2008), Popularity: 38
+   Track: He Who Spawned the Furies, Popularity: 27, Stream Count: 3357731
+   Track: The Calamity, Popularity: 28, Stream Count: 4008440
+   Track: Of Prometheus and the Crucifix, Popularity: 28, Stream Count: 4252474
