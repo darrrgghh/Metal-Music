@@ -16,31 +16,6 @@ This work will be presented at the **18th International Conference on Music Perc
   To capture the "core" of a vocal performance, we skip the first 30% of each track (which often contains intros or ambient passages) and extract a vocal phrase fragment of approximately 10–12 syllables. This method ensures that the excerpt represents a complete vocal phrase, adhering to the physiological constraints on breath and vocal production.
 - **Recording Protocol:**  
   Professional metal vocalists are recruited to re-record the selected excerpts in five different vocal conditions. These re-recorded stimuli form the basis of our perceptual experiment, where participants are asked to "sing back" the excerpts.
-## Spotify {UN}Popularity Analyzer  
-The **Spotify 'UN'Popularity Analyzer 0.3** is a Python-based GUI application developed as part of our research. It serves to build a database of musical fragments and evaluate popularity metrics using the Spotify API. The tool provides:
-
-- **Search Bar:**  
-  Supports pressing Enter or clicking the "Search" button to trigger an artist search.
-
-- **Artist Matches List:**  
-  Displays up to five artist matches for the entered query.
-
-- **Artist Discography:**  
-  Lists albums (excluding live albums and tracks via name-based filtering, as required for our research).
-
-- **Resizable Charts:**  
-  Charts automatically fill the entire allocated space in the GUI, displaying overall album popularity as well as track popularity for the selected album.
-
-- **Raw Data Window:**  
-  Provides a scrollable view of the quantitative data (in JSON format) from the Spotify API. You can call this function from **File** menu.
-
-- **File Menu:**  
-  Includes an "Export Unpopularity..." function that exports the artist's 1,2,3,4,5 least popular (or all) albums and up to three least popular tracks per album, along with local time zone information and the data source ("Spotify API"). Is is also possible to **delete items manually** from the discography list in the app before exporting (click on an item and press *delete*). This export function is a key component for creating our stimuli set. 
-
-## Timecode Selector
-The **Timecode Selector** is a Python-based GUI tool designed to randomly select a timecode excerpt from a song for our research on metal music.  
-***# I also need to describe the functions of this tiny app as well? hm, okay***  
-It is used to choose a segment from a musical example based on user-specified parameters like **Total Duration Input**, **Skip Percentage** and **Required Excerpt Length**.
 
 # Databases
 ## Excerpts Database
@@ -68,7 +43,33 @@ Albums and tracks labeled as *live*, *remastered*, *re-issue*, *demo*, *edition*
 Additionally:
 - The **most popular track** and its **stream count** are manually added to each file based on Spotify web data
 - Stream counts for selected tracks are also retrieved manually from Spotify’s website, as this data is not available through the API
+# Spotify Tools
+## Spotify {UN}Popularity Analyzer  
+The **Spotify 'UN'Popularity Analyzer 0.3** is a Python-based GUI application developed as part of our research. It serves to build a database of musical fragments and evaluate popularity metrics using the Spotify API. The tool provides:
 
+- **Search Bar:**  
+  Supports pressing Enter or clicking the "Search" button to trigger an artist search.
 
+- **Artist Matches List:**  
+  Displays up to five artist matches for the entered query.
+
+- **Artist Discography:**  
+  Lists albums (excluding live albums and tracks via name-based filtering, as required for our research).
+
+- **Resizable Charts:**  
+  Charts automatically fill the entire allocated space in the GUI, displaying overall album popularity as well as track popularity for the selected album.
+
+- **Raw Data Window:**  
+  Provides a scrollable view of the quantitative data (in JSON format) from the Spotify API. You can call this function from **File** menu.
+
+- **File Menu:**  
+  Includes an "Export Unpopularity..." function that exports the artist's 1,2,3,4,5 least popular (or all) albums and up to three least popular tracks per album, along with local time zone information and the data source ("Spotify API"). Is is also possible to **delete items manually** from the discography list in the app before exporting (click on an item and press *delete*). This export function is a key component for creating our stimuli set. 
+
+## Timecode Selector
+The **Timecode Selector** is a Python-based GUI tool designed to randomly select a timecode excerpt from a song for our research on metal music.  
+***# I also need to describe the functions of this tiny app as well? hm, okay***  
+It is used to choose a segment from a musical example based on user-specified parameters like **Total Duration Input**, **Skip Percentage** and **Required Excerpt Length**.
+# Extra
+This directory contains other materials that are not related to this research.
 ___
 In addition to the conference project, this repository will also serve as a central hub for materials related to other ongoing research initiatives on metal music. Please check back regularly for updates, as this README and the repository content will be continuously revised to reflect new findings and developments.
