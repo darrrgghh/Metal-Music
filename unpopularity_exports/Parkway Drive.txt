@@ -4,42 +4,29 @@ Source: Spotify API
 The most popular track: Prey
 Stream Count: 87868224
 
-Album: Don't Close Your Eyes (2004), Popularity: 32
-   Track: ..., Popularity: 18
-   Track: Hopeless, Popularity: 21
-   Track: Hollow Man, Popularity: 22
+Album: Don't Close Your Eyes (2004), Popularity: 32 # exclude, EP
+   Track: ..., Popularity: 18, Stream Count: 
+   Track: Hopeless, Popularity: 21, Stream Count: 
+   Track: Hollow Man, Popularity: 22, Stream Count: 
 
-Album: Viva The Underdogs (2020), Popularity: 39
-   Track: Würgegriff, Popularity: 25
-   Track: Die Leere, Popularity: 30
-   Track: Schattenboxen, Popularity: 44
+Album: Viva The Underdogs (2020), Popularity: 39 # exclude, video album
+   Track: Würgegriff, Popularity: 25, Stream Count: 
+   Track: Die Leere, Popularity: 30, Stream Count: 
+   Track: Schattenboxen, Popularity: 44, Stream Count: 
 
 Album: Killing With A Smile (2006), Popularity: 43
-   Track: Blackout, Popularity: 31
-   Track: Picture Perfect, Pathetic, Popularity: 31
-   Track: A Cold Day in Hell, Popularity: 32
+   Track: Blackout, Popularity: 31, Stream Count: 2826403
+   Track: Picture Perfect, Pathetic, Popularity: 31, Stream Count: 2653177
+   Track: A Cold Day in Hell, Popularity: 32, Stream Count: 3306951
 
 Album: Deep Blue (2010), Popularity: 48
-   Track: Samsara, Popularity: 32
-   Track: Set To Destroy, Popularity: 32
-   Track: Pressures, Popularity: 34
+   Track: Samsara, Popularity: 32, Stream Count: # exclude
+   Track: Set To Destroy, Popularity: 32, Stream Count: 4513526
+   Track: Pressures, Popularity: 34, Stream Count: 4901077
+   Track: Hollow, Popularity: 34, Stream Count: 4761259
 
 Album: Atlas (2012), Popularity: 50
-   Track: Sparks, Popularity: 31
-   Track: Snake Oil and Holy Water, Popularity: 31
-   Track: The Slow Surrender, Popularity: 33
-
-Album: Ire (2015), Popularity: 53
-   Track: Vicious, Popularity: 33
-   Track: Fractures, Popularity: 34
-   Track: The Sound of Violence, Popularity: 35
-
-Album: Darker Still (2022), Popularity: 54
-   Track: Stranger, Popularity: 32
-   Track: If a God Can Bleed, Popularity: 35
-   Track: From the Heart of the Darkness, Popularity: 38
-
-Album: Reverence (2018), Popularity: 56
-   Track: The Colour Of Leaving, Popularity: 35
-   Track: Cemetery Bloom, Popularity: 38
-   Track: In Blood, Popularity: 38
+   Track: Sparks, Popularity: 31, Stream Count: # exclude
+   Track: Snake Oil and Holy Water, Popularity: 31, Stream Count: 3686700
+   Track: Atlas, Popularity: 33, Stream Count: 5116100
+   Track: Sleight of Hand, Popularity: 33, Stream Count: 5044312

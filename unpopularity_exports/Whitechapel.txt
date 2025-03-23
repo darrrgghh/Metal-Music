@@ -5,46 +5,17 @@ The most popular track: The Saw is the Law
 Stream Count: 28556529
 
 Album: A New Era Of Corruption (2010), Popularity: 36
-   Track: A Future Corrupt, Popularity: 24
-   Track: Single File to Dehumanization, Popularity: 24
-   Track: Prayer of Mockery, Popularity: 25
+   Track: A Future Corrupt, Popularity: 24, Stream Count: 602149
+   Track: Single File to Dehumanization, Popularity: 24, Stream Count: 587604
+   Track: Prayer of Mockery, Popularity: 25, Stream Count: 671134
 
 Album: Whitechapel (2012), Popularity: 38
-   Track: Devoid, Popularity: 24
-   Track: Faces, Popularity: 26
-   Track: Dead Silence, Popularity: 26
+   Track: Devoid, Popularity: 24, Stream Count: #exclude, no lyrics
+   Track: Faces, Popularity: 26, Stream Count: 1274691
+   Track: Dead Silence, Popularity: 26, Stream Count: 1132661
+   Track: The Night Remains, Popularity: 29, Stream Count: 1468047
 
 Album: Somatic Defilement (2007), Popularity: 39
-   Track: Festering Fiesta, Popularity: 26
-   Track: Articulo Mortis, Popularity: 27
-   Track: Necrotizing (Intro), Popularity: 30
-
-Album: Mark of the Blade (2016), Popularity: 40
-   Track: Brotherhood, Popularity: 24
-   Track: Dwell in the Shadows, Popularity: 24
-   Track: Tormented, Popularity: 25
-
-Album: This Is Exile (2008), Popularity: 42
-   Track: Of Legions, Popularity: 27
-   Track: Death Becomes Him, Popularity: 29
-   Track: Daemon (The Procreated), Popularity: 29
-
-Album: Our Endless War (2014), Popularity: 47
-   Track: A Process so Familiar - Bonus Track, Popularity: 26
-   Track: Rise, Popularity: 27
-   Track: How Times Have Changed, Popularity: 27
-
-Album: Kin (2021), Popularity: 49
-   Track: Without You, Popularity: 34
-   Track: To the Wolves, Popularity: 36
-   Track: The Ones That Made Us, Popularity: 37
-
-Album: The Valley (2019), Popularity: 49
-   Track: Lovelace, Popularity: 34
-   Track: We Are One, Popularity: 36
-   Track: Doom Woods, Popularity: 36
-
-Album: Hymns in Dissonance (2025), Popularity: 61
-   Track: Ex Infernis, Popularity: 54
-   Track: Mammoth God, Popularity: 54
-   Track: Nothing Is Coming for Any of Us, Popularity: 54
+   Track: Festering Fiesta, Popularity: 26, Stream Count: 688572
+   Track: Articulo Mortis, Popularity: 27, Stream Count: 688092
+   Track: Alone in the Morgue, Popularity: 30, Stream Count: 1126940

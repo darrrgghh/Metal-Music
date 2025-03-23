@@ -4,42 +4,29 @@ Source: Spotify API
 The most popular track: Quantum Flux
 Stream Count: 25559729
 
-Album: Singularity (Deluxe) (2014), Popularity: 21
-   Track: Singularity - Instrumental, Popularity: 5
+Album: Singularity (Deluxe) (2014), Popularity: 21 # exclude, deluxe version
+   Track: Singularity - Instrumental, Popularity: 5, Stream Count: 
    Track: Aspire - Instrumental, Popularity: 7
    Track: Singularity, Popularity: 9
 
-Album: Node (Deluxe) (2016), Popularity: 25
+Album: Node (Deluxe) (2016), Popularity: 25 # exclude, deluxe version
    Track: Ra - Instrumental, Popularity: 6
-   Track: Nameless, Popularity: 7
-   Track: Ra, Popularity: 7
+   Track: Nameless, Popularity: 7, Stream Count: 
+   Track: Ra, Popularity: 7, Stream Count: 
 
 Album: Mesmer (2017), Popularity: 34
-   Track: Paragon, Popularity: 23
-   Track: Fade, Popularity: 24
-   Track: Render, Popularity: 24
+   Track: Paragon, Popularity: 23, Stream Count: 1560982
+   Track: Fade, Popularity: 24, Stream Count: # exclude, no lyrics
+   Track: Render, Popularity: 24, Stream Count: 1996265
+   Track: Zero-One, Popularity: 25, Stream Count: 1933175
 
 Album: Node (2015), Popularity: 34
-   Track: Nameless, Popularity: 22
-   Track: Ra, Popularity: 24
-   Track: Animate, Popularity: 24
+   Track: Nameless, Popularity: 22, Stream Count: # exclude, no lyrics
+   Track: Ra, Popularity: 24, Stream Count: 1733984
+   Track: Animate, Popularity: 24, Stream Count: 1775661
+   Track: Weightless, Popularity: 25, Stream Count: 1618370
 
 Album: Discoveries (2011), Popularity: 35
-   Track: Solitude, Popularity: 23
-   Track: Metamorphosis, Popularity: 24
-   Track: Corruption, Popularity: 25
-
-Album: Singularity (2013), Popularity: 43
-   Track: The Calling, Popularity: 29
-   Track: Singularity, Popularity: 29
-   Track: Aspire, Popularity: 30
-
-Album: Alien (2019), Popularity: 45
-   Track: Rift, Popularity: 29
-   Track: Paradigm, Popularity: 30
-   Track: Eclipse, Popularity: 31
-
-Album: Obsidian (2022), Popularity: 48
-   Track: Dark Solitaire, Popularity: 32
-   Track: Is This a Test?, Popularity: 33
-   Track: Abomination, Popularity: 34
+   Track: Solitude, Popularity: 23, Stream Count: 939120
+   Track: Metamorphosis, Popularity: 24, Stream Count: 1234225
+   Track: Corruption, Popularity: 25, Stream Count: 1260163

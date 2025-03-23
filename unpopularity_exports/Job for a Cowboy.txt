@@ -5,26 +5,17 @@ The most popular track: Entombment of a Machine
 Stream Count: 13485661
 
 Album: Ruination (2009), Popularity: 28
-   Track: To Detonate And Exterminate, Popularity: 17
-   Track: Butchering The Enlightened, Popularity: 18
-   Track: Lords Of Chaos, Popularity: 18
+   Track: To Detonate And Exterminate, Popularity: 17, Stream Count: 295175
+   Track: Butchering The Enlightened, Popularity: 18, Stream Count: 334335
+   Track: Lords Of Chaos, Popularity: 18, Stream Count: 359658
 
 Album: Genesis (2008), Popularity: 31
-   Track: Blasphemy, Popularity: 17
-   Track: Upheaval, Popularity: 18
-   Track: Coalescing Prophecy, Popularity: 20
+   Track: Coalescing Prophecy, Popularity: 20, Stream Count: 361950
+   Track: Strings Of Hypocrisy, Popularity: 21, Stream Count: 482563
+   Track: Martyrdom Unsealed, Popularity: 22, Stream Count: 441565
 
 Album: Sun Eater (2014), Popularity: 32
-   Track: Worming Nightfall, Popularity: 20
-   Track: The Celestial Antidote, Popularity: 21
-   Track: Encircled by Mirrors, Popularity: 21
-
-Album: Moon Healer (2024), Popularity: 36
-   Track: A Sorrow-Filled Moon, Popularity: 28
-   Track: The Forever Rot, Popularity: 28
-   Track: Into the Crystalline Crypts, Popularity: 29
-
-Album: Doom (2005), Popularity: 42
-   Track: Catharsis for the Buried, Popularity: 27
-   Track: Entities, Popularity: 32
-   Track: The Rising Tide, Popularity: 33
+   Track: Worming Nightfall, Popularity: 20, Stream Count: # exclude, no lyrics on Spotify
+   Track: The Celestial Antidote, Popularity: 21, Stream Count: 547978
+   Track: Encircled by Mirrors, Popularity: 21, Stream Count: 533424
+   Track: Buried Monuments, Popularity: 24, Stream Count: 739027
