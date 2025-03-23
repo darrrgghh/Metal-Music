@@ -35,16 +35,40 @@ The **Spotify 'UN'Popularity Analyzer 0.3** is a Python-based GUI application de
   Provides a scrollable view of the quantitative data (in JSON format) from the Spotify API. You can call this function from **File** menu.
 
 - **File Menu:**  
-  Includes an "Export Unpopularity..." function that exports the artist's three least popular albums and up to three least popular tracks per album, along with local time zone information and the data source ("Spotify API"). This export function is a key component for creating our stimuli set.
+  Includes an "Export Unpopularity..." function that exports the artist's 1,2,3,4,5 least popular (or all) albums and up to three least popular tracks per album, along with local time zone information and the data source ("Spotify API"). Is is also possible to **delete items manually** from the discography list in the app before exporting (click on an item and press *delete*). This export function is a key component for creating our stimuli set. 
 
 ## Timecode Selector
 The **Timecode Selector** is a Python-based GUI tool designed to randomly select a timecode excerpt from a song for our research on metal music.  
 ***# I also need to describe the functions of this tiny app as well? hm, okay***  
 It is used to choose a segment from a musical example based on user-specified parameters like **Total Duration Input**, **Skip Percentage** and **Required Excerpt Length**.
 
-## Excerpts database
-This is the database of extreme vocal techniques in metal music. It is used to create the stimuli set for our research. The database is constantly updated.
-## Unpopularity Exports
+# Databases
+## Excerpts Database
+
+This database contains examples of extreme vocal techniques in metal music and serves as the basis for constructing our stimulus set. It was created through the following steps:
+
+- We conducted an exploration of Reddit discussions and metal-focused platforms such as **Loudwire** to identify the top artists associated with three specific extreme vocal techniques. Artists were selected based on community mentions, rankings, and discussions highlighting the most prominent performers of each technique.
+- Using the **Spotify {UN}Popularity Analyzer** tool, we exported the discographies of these artists, focusing exclusively on studio albums. Releases labeled *live*, *remastered*, *re-issue*, *bonus*, *deluxe*, *demo*, or *edition* were excluded from the dataset.
+- For each album, we listened to the **three least popular tracks** on Spotify. Instrumental tracks, those shorter than 59 seconds, instrumental tracks, or those not featuring the target vocal technique were excluded and replaced by the next least popular track on the same album.
+- A time segment was selected from each qualifying track using the **Timecode Selector** app. If the suggested excerpt did not contain the target technique, a manual check was performed within a ±25 second range around the suggested timecode.
+- The final excerpt was then cut and exported using the Audacity audio editor. One second of silence was added both at the beginning and the end of each excerpt.
+
+### Unpopularity Exports
+
+Unpopularity exports are `.txt` files generated using the **Spotify {UN}Popularity Analyzer**. These files contain data on the least popular releases of a selected artist, retrieved via the Spotify API.
+
+Each export includes:
+- The artist's name and the local timestamp of the export
+- The **three least popular studio albums** (or more/less depending on the setting)
+- For each album, **up to three least popular tracks**, sorted by Spotify's internal popularity metric
+- Manual annotations regarding track/album exclusions and stream count data
+
+Albums and tracks labeled as *live*, *remastered*, *re-issue*, *demo*, *edition*, or *bonus* are excluded from exports to maintain consistency and avoid duplicates.
+
+Additionally:
+- The **most popular track** and its **stream count** are manually added to each file based on Spotify web data
+- Stream counts for selected tracks are also retrieved manually from Spotify’s website, as this data is not available through the API
+
 
 ___
 In addition to the conference project, this repository will also serve as a central hub for materials related to other ongoing research initiatives on metal music. Please check back regularly for updates, as this README and the repository content will be continuously revised to reflect new findings and developments.
