@@ -23,10 +23,29 @@ This work will be presented at the **18th International Conference on Music Perc
 This database contains examples of extreme vocal techniques in metal music and serves as the basis for constructing our stimulus set. It was created through the following steps:
 
 - We conducted an exploration of Reddit discussions and metal-focused platforms such as **Loudwire** to identify the top artists associated with three specific extreme vocal techniques. Artists were selected based on community mentions, rankings, and discussions highlighting the most prominent performers of each technique.
-- Using the **Spotify {UN}Popularity Analyzer** tool, we exported the discographies of these artists, focusing exclusively on studio albums. Releases labeled *live*, *remastered*, *re-issue*, *bonus*, *deluxe*, *demo*, or *edition* were excluded from the dataset.
+- Using the **Spotify {UN}Popularity Analyzer** tool, we exported the discographies of these artists, focusing exclusively on studio albums. Releases labeled *live*, *remastered*, *reissue*, *re-issue*, *edition*, *deluxe*, *demo*, *edition*, *compilation*, *remix* and *remixed* were excluded from the dataset.
 - For each album, we listened to the **three least popular tracks** on Spotify. Instrumental tracks, those shorter than 59 seconds, instrumental tracks, or those not featuring the target vocal technique were excluded and replaced by the next least popular track on the same album.
 - A time segment was selected from each qualifying track using the **Timecode Selector** app. If the suggested excerpt did not contain the target technique, a manual check was performed within a ±25 second range around the suggested timecode.
 - The final excerpt was then cut and exported using the Audacity audio editor. One second of silence was added both at the beginning and the end of each excerpt.
+
+Each excerpt in the database includes the following:
+
+- **Excerpt ID** in the format "EXCE-001" up to "EXCE-999".  
+- **Technique**: one of the three extreme vocal techniques that are the focus of our research (growling, screaming, and clean vocals).  
+- **Artist**  
+- **Album**  
+- **Year**  
+- **Album Popularity**: this metric is taken directly from the Spotify API.  
+- **Song**  
+- **Stream Count**: this metric is not available via the Spotify API, so it is taken from the Spotify website and manually added to the table.  
+- **Track Popularity**: this metric is taken directly from the Spotify API.  
+- **Duration**  
+- **Timecode**: the specific fragment of the song from which a phrase containing the target vocal technique is extracted.  
+- **Lyrics**: the lyrics of the selected passage, taken from the Spotify website.  
+- **Spotify URL** of the song.  
+- **MP3 Path** to locate the song within the database’s root directory.  
+- **Date Collected**: since popularity metrics and stream counts change constantly, we also include the date when these metrics were collected.  
+
 
 ### Unpopularity Exports
 
