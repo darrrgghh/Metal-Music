@@ -45,7 +45,11 @@ Each excerpt in the database includes the following:
 - **MP3 Path** to locate the song within the database’s root directory.  
 - **Date Collected**: since popularity metrics and stream counts change constantly, we also include the date when these metrics were collected.  
 
+### Web Version
 
+A more extensive and continuously updated version of this database is available online:
+
+🔗 [The Database of Extreme Metal Vocal Techniques](https://extreme-vocal-techniques-db.onrender.com/)
 ### Unpopularity Exports
 
 Unpopularity exports are `.txt` files generated using the **Spotify {UN}Popularity Analyzer**. These files contain data on the least popular releases of a selected artist, retrieved via the Spotify API.
