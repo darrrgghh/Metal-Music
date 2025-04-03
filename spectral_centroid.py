@@ -2,13 +2,17 @@ import pandas as pd
 import librosa
 import numpy as np
 import os
+
+###############################################
 # paths
 DB_PATH = "databases/excerpts/excerpts_database.tsv"
 AUDIO_FOLDER = "databases/excerpts/excerpts_audio/"
 EXPORT_PATH = "databases/excerpts/spectral_centroid_results.tsv"
-
 # loading database of excerpts
 df = pd.read_csv(DB_PATH, sep="\t", encoding="cp1252")
+
+# I will be just changing these paths and run the script on other databases as well
+###############################################
 
 # using librosa to compute spectral centroid of each excerpt
 def compute_spectral_centroid(mp3_path):
