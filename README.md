@@ -41,6 +41,11 @@ Each excerpt in the database includes the following:
 - **Duration**  
 - **Timecode**: the specific fragment of the song from which a phrase containing the target vocal technique is extracted.  
 - **Lyrics**: the lyrics of the selected passage, taken from the Spotify website.  
+- **Rhythmic representation**: A symbolic transcription of the rhythmic pattern of the excerpt in Humdrum format.
+- **Melodic Representation**: A symbolic transcription of the melodic contour of the excerpt in Humdrum format (**Screaming** and **Growling** in human language).
+- **Time Signature**: The time signature of the song section containing the excerpt. Most of duple meter is indicated as 4/4.
+- **Tempo (approx.)**: The approximate tempo in BPM of the excerpted section. Tempo values were initially obtained using online BPM detection tools, and then manually verified and tapped multiple times using the BPM Tapper feature in **GarageBand**.
+- **Spectral Centroid**: The average spectral centroid (in Hz) computed for each excerpt. This feature reflects the "brightness" or "sharpness" of the sound and is commonly used in music information retrieval as an indicator of timbral quality. Higher values correspond to higher-frequency energy in the signal.
 - **Spotify URL** of the song.  
 - **MP3 Path** to locate the song within the database’s root directory.  
 - **Date Collected**: since popularity metrics and stream counts change constantly, we also include the date when these metrics were collected.  
