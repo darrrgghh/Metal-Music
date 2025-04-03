@@ -91,6 +91,19 @@ The **Spotify 'UN'Popularity Analyzer 0.3** is a Python-based GUI application de
 The **Timecode Selector** is a Python-based GUI tool designed to randomly select a timecode excerpt from a song for our research on metal music.  
 ***# I also need to describe the functions of this tiny app as well? hm, okay***  
 It is used to choose a segment from a musical example based on user-specified parameters like **Total Duration Input**, **Skip Percentage** and **Required Excerpt Length**.
+
+# Spectral Centroid.py
+The `spectral_centroid.py` script is designed to compute the **Spectral Centroid** of each excerpt in the **Excerpts Database**.  
+It takes each `.mp3` excerpt from the **MP3_Path** column, calculates the average **Spectral Centroid** (in Hz), and exports the results.
+
+### How it works
+- Reads the database file: `databases/excerpts/excerpts_database.tsv`.
+- Loads each audio excerpt from the corresponding path in `databases/excerpts/excerpts_audio/`.
+- Computes the mean **Spectral Centroid** using the [Librosa](https://librosa.org/) library.
+- Saves the results, including: *Excerpt ID, Technique, Artist, Album, Song, Spectral Centroid*, to a `.tsv` file: `databases/excerpts/spectral_centroid_results.tsv`.
+- Prints the results and mean Spectral Centroid per technique to the terminal.
+
+
 # Extra
 This directory contains other materials that are not related to this research.
 ___
