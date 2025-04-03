@@ -5,3 +5,4 @@ build/
 *.spec
 .cache
 unpopularity.py
+stats1

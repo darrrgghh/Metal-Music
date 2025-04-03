@@ -1,0 +1,61 @@
+=== Descriptive Statistics ===
+           count         mean  ...          75%          max
+Technique                      ...
+Clean       57.0  2286.958744  ...  2503.966366  3123.525525
+Growling    59.0  2324.590823  ...  2517.197473  3802.670206
+Screaming   64.0  2225.771649  ...  2469.183660  3067.897124
+
+[3 rows x 8 columns]
+
+=== ANOVA ===
+F = 0.987, p = 0.375
+
+=== T-test (Growling vs Screaming) ===
+t = 1.385, p = 0.169
+
+=== Tukey HSD Post-hoc Test ===
+    Multiple Comparison of Means - Tukey HSD, FWER=0.05
+============================================================
+ group1    group2  meandiff p-adj    lower    upper   reject
+------------------------------------------------------------
+   Clean  Growling  37.6321 0.8648 -135.5431 210.8072  False
+   Clean Screaming -61.1871 0.6714 -231.0057 108.6315  False
+Growling Screaming -98.8192 0.3494 -267.1085  69.4702  False
+------------------------------------------------------------
+
+
+
+
+
+1. Descriptive statistics
+у техник Growling и Screaming средние значения очень близкие
+
+Growling: 2324.59 Hz
+
+Screaming: 2225.77 Hz
+
+Clean: 2286.96 Hz
+
+Разбросы и диапазоны (min, max) тоже сильно перекрываются
+
+2. ANOVA
+F = 0.987, p = 0.375
+различия между группами не являются статистически значимыми
+p > 0.05 → мы не можем сказать, что Spectral Centroid различается между техниками
+
+3. t-test
+t = 1.385, p = 0.169
+
+
+
+Сравнение только Growling и Screaming.
+
+p = 0.169 → различия незначимы (p > 0.05).
+
+4. Tukey HSD
+
+reject = False
+
+Ни одна пара техник не показала значимой разницы.
+
+Все p-adj > 0.05
