@@ -5,7 +5,7 @@ import os
 
 ###############################################
 # paths
-DB_PATH = "databases/excerpts/excerpts_database.tsv"
+DB_PATH = "excerpts_database.tsv"
 AUDIO_FOLDER = "databases/excerpts/excerpts_audio/"
 EXPORT_PATH = "databases/excerpts/spectral_centroid_results.tsv"
 # loading database of excerpts
@@ -50,5 +50,5 @@ print("\n=== Mean Spectral Centroid per technique ===")
 print(group_means)
 
 # export as csv
-centroid_df.to_csv(EXPORT_PATH, sep="\t", index=False, encoding="utf-8")
-print(f"\nResults saved to{EXPORT_PATH}")
+# centroid_df.to_csv(EXPORT_PATH, sep="\t", index=False, encoding="utf-8")
+# print(f"\nResults saved to{EXPORT_PATH}")
