@@ -1,0 +1,18 @@
+Unpopularity Export for Artist: The Black Dahlia Murder
+Date/Time (Local): 2025-04-09 18:11:46 Eastern Daylight Time
+Source: Spotify API
+The most popular song: What a Horrible Night to Have a Curse
+Stream Count: 18103003
+
+Album: Abysmal (2015), Popularity: 32
+   Track: Stygiophobic, Popularity: 21, Stream Count: 715195	
+   Track: The Advent, Popularity: 23, Stream Count: 892925
+   Track: The Fog, Popularity: 24, Stream Count: 991212
+   Track: Asylum, Popularity: 24, Stream Count: 902697
+
+Album: Verminous (2020), Popularity: 34
+   Track: A Womb in Dark Chrysalis (Interlude), Popularity: 20, Stream Count: # exclude, no lyrics
+   Track: The Leather Apron's Scorn, Popularity: 25, Stream Count: 862945
+   Track: How Very Dead, Popularity: 25, Stream Count: 832341
+   Track: Dawn of Rats, Popularity: 25, Stream Count: 767957
+   Track: Godlessly, Popularity: 26, Stream Count: 1237172

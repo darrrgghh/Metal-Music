@@ -4,8 +4,8 @@ import librosa.display
 import matplotlib.pyplot as plt
 import numpy as np
 
-input_folder = 'databases/excerpts/excerpts_audio'
-output_root = r'C:\Users\linlo\OneDrive\Desktop\log-Mel'  # "r" для корректной обработки обратных слэшей
+input_folder = 'excerpts_audio'
+output_root = r'C:\Users\linlo\OneDrive\Desktop\log-Mel'
 os.makedirs(output_root, exist_ok=True)
 
 # Параметры спектрограммы
