@@ -1,0 +1,17 @@
+Unpopularity Export for Artist: DragonForce
+Date/Time (Local): 2025-04-13 19:14:02 Eastern Daylight Time
+Source: Spotify API
+The most popular song: Through the Fire and Flames
+Stream Count: 284026900
+
+Album: Ultra Beatdown (2008), Popularity: 29
+   Track: A Flame for Freedom, Popularity: 20, Stream Count: 1638904
+   Track: Scars of Yesterday, Popularity: 22, Stream Count: 475255
+   Track: The Warrior Inside, Popularity: 23, Stream Count: 2038631
+   Track: The Fire Still Burns, Popularity: 24, Stream Count: 3559617
+
+Album: Extreme Power Metal (2019), Popularity: 39
+   Track: In a Skyforged Dream, Popularity: 25, Stream Count: 1759134
+   Track: Strangers, Popularity: 27, Stream Count: 2183343
+   Track: Cosmic Power of the Infinite Shred Machine, Popularity: 30, Stream Count: 3274942
+   Track: Razorblade Meltdown, Popularity: 30, Stream Count: 3279214

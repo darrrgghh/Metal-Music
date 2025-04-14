@@ -33,3 +33,8 @@ Album: Reign Supreme (Deluxe Version) (2012), Popularity: 27 # excluded, deluxe 
    Track: Dead Whores Love to Fuck - Bonus Track, Popularity: 14, Stream Count:
    Track: Revisionist Past, Popularity: 15, Stream Count:
    Track: Dissidence, Popularity: 17, Stream Count:
+
+Album: Purification Through Violence (2010), Popularity: 30
+   Track: Blunt Force Trauma, Popularity: 25, Stream Count: 322948
+   Track: Nocturnal Crucifixion, Popularity: 25, Stream Count: 189906
+   Track: Permanently Disfigured, Popularity: 26, Stream Count: 178869

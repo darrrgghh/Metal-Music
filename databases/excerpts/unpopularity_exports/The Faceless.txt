@@ -11,17 +11,7 @@ Album: In Becoming A Ghost (2017), Popularity: 22
    Track: I am, Popularity: 17, Stream Count: 547996
    Track: Shake The Disease, Popularity: 18, Stream Count: 803265
 
-Album: Akeldama (2006), Popularity: 30
-   Track: Akeldama, Popularity: 20
-   Track: Ghost of a Stranger, Popularity: 20
-   Track: Horizons of Chaos, Pt. 1: The Foretelling, Popularity: 21
-
-Album: Autotheism (2012), Popularity: 34
-   Track: Hail Science, Popularity: 19
-   Track: In Solitude, Popularity: 23
-   Track: Ten Billion Years, Popularity: 25
-
-Album: Planetary Duality (2008), Popularity: 36
-   Track: Shape Shifters, Popularity: 24
-   Track: Coldly Calculated Design, Popularity: 28
-   Track: Sons of Belial, Popularity: 28
+Album: Akeldama (2006), Popularity: 31
+   Track: Ghost of a Stranger, Popularity: 22, Stream Count: 415199
+   Track: Horizons of Chaos, Pt. 1: The Foretelling, Popularity: 23, Stream Count: 458152
+   Track: All Dark Graves, Popularity: 25, Stream Count: 663147

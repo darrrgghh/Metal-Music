@@ -1,0 +1,14 @@
+Popularity Export for Artist: We Came As Romans
+Date/Time (Local): 2025-04-13 19:33:21 Eastern Daylight Time
+Source: Spotify API
+The most popular song: Black Hole
+Stream Count: 103922869
+
+Album: Understanding What We've Grown to Be (2011), Popularity: 28
+   Track: Views That Never Cease, to Keep Me From Myself, Popularity: 18, Stream Count: 2078481
+   Track: Stay Inspired, Popularity: 19, Stream Count: 1979681
+   Track: I Can't Make Your Decisions for You, Popularity: 19, Stream Count: 1896475
+
+Album: We Came as Romans (2015), Popularity: 35
+   Track: Defiance, Popularity: 22, Stream Count: 2009513
+   Track: Blur, Popularity: 23, Stream Count: 2463418

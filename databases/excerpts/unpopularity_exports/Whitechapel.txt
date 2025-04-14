@@ -19,3 +19,8 @@ Album: Somatic Defilement (2007), Popularity: 39
    Track: Festering Fiesta, Popularity: 26, Stream Count: 688572
    Track: Articulo Mortis, Popularity: 27, Stream Count: 688092
    Track: Alone in the Morgue, Popularity: 30, Stream Count: 1126940
+
+Album: Mark of the Blade (2016), Popularity: 41
+   Track: Dwell in the Shadows, Popularity: 25, Stream Count: 1044715
+   Track: Tormented, Popularity: 27, Stream Count: 1226332
+   Track: Decennium, Popularity: 28, Stream Count: 1285871
