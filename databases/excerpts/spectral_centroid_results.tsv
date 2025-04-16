@@ -141,15 +141,15 @@ EXCE-139	Growling	Whitechapel	Whitechapel	Faces	3244.8779566026833	2819.27
 EXCE-140	Growling	Whitechapel	Whitechapel	Dead Silence	3133.8342519188627	2070.7
 EXCE-141	Growling	Whitechapel	Whitechapel	The Night Remains	2618.038815966381	3278.05
 EXCE-142	Growling	Whitechapel	Somatic Defilement	Festering Fiesta	2800.43879914646	2531.45
-EXCE-143	Growling	Whitechapel	Somatic Defilement	Articulo Mortis	2485.429537624413	7573.9
+EXCE-143	Growling	Whitechapel	Somatic Defilement	Articulo Mortis	2454.79450385897	6187.01
 EXCE-144	Growling	Whitechapel	Somatic Defilement	Alone in the Morgue	2857.0399961898192	4286.96
-EXCE-145	Growling	Job for a Cowboy	Ruination	To Detonate And Exterminate	3116.633965102546	3890.82
-EXCE-146	Growling	Job for a Cowboy	Ruination	Butchering The Enlightened	3399.1221812165313	3395.46
+EXCE-145	Growling	Job for a Cowboy	Ruination	To Detonate And Exterminate	3118.280249530543	3749.82
+EXCE-146	Screaming	Job for a Cowboy	Ruination	Butchering The Enlightened	3399.1221812165313	3395.46
 EXCE-147	Growling	Job for a Cowboy	Ruination	Lords Of Chaos	3093.9463676033315	3575.78
-EXCE-148	Growling	Job for a Cowboy	Genesis	Coalescing Prophecy	3368.015365545467	2360.68
+EXCE-148	Growling	Job for a Cowboy	Genesis	Coalescing Prophecy	3401.5087661983744	2216.51
 EXCE-149	Growling	Job for a Cowboy	Genesis	Strings Of Hypocrisy	3144.4169141507286	3350.57
 EXCE-150	Growling	Job for a Cowboy	Genesis	Martyrdom Unsealed	3069.391443353121	4915.71
-EXCE-151	Growling	Job for a Cowboy	Sun Eater	The Celestial Antidote	2997.3799544598724	2929.82
+EXCE-151	Growling	Job for a Cowboy	Sun Eater	The Celestial Antidote	3087.8109382520784	2232.63
 EXCE-152	Growling	Job for a Cowboy	Sun Eater	Encircled by Mirrors	3053.495486346342	3366.44
 EXCE-153	Screaming	Job for a Cowboy	Sun Eater	Buried Monuments	2998.814180369982	3606.35
 EXCE-154	Screaming	August Burns Red	Thrill Seeker	A Wish Full of Dreams	3294.5140760556797	3284.47
@@ -185,5 +185,27 @@ EXCE-183	Screaming	The Black Dahlia Murder	Abysmal	Asylum	3580.8573748247372	289
 EXCE-184	Growling	The Black Dahlia Murder	Abysmal	Stygiophobic	2993.400768952838	4347.17
 EXCE-185	Screaming	The Black Dahlia Murder	Verminous	The Leather Apron's Scorn	3405.1912278817745	2948.75
 EXCE-186	Screaming	The Black Dahlia Murder	Verminous	How Very Dead	3430.870023397645	2335.87
-EXCE-187	Screaming	The Black Dahlia Murder	Verminous	Dawn of Rats	3290.2056057145987	3818.46
+EXCE-187	Growling	The Black Dahlia Murder	Verminous	Dawn of Rats	3572.23892133673	3167.51
 EXCE-188	Growling	The Black Dahlia Murder	Verminous	Godlessly	3433.7562713604075	2722.11
+EXCE-189	Clean	DragonForce	Ultra Beatdown	A Flame for Freedom	3465.257947326861	3133.79
+EXCE-190	Clean	DragonForce	Ultra Beatdown	Scars of Yesterday	3455.928983167944	4691.11
+EXCE-191	Clean	DragonForce	Ultra Beatdown	The Warrior Inside	3983.6318562116944	2711.88
+EXCE-192	Clean	DragonForce	Ultra Beatdown	The Fire Still Burns	3686.107523666866	5580.68
+EXCE-193	Clean	DragonForce	Extreme Power Metal	In a Skyforged Dream	3450.6681014007468	3674.54
+EXCE-194	Clean	DragonForce	Extreme Power Metal	Remembrance Day	3130.3452481809377	3007.66
+EXCE-195	Clean	DragonForce	Extreme Power Metal	Cosmic Power of the Infinite Shred Machine	3624.0705023232113	4339.5
+EXCE-196	Clean	DragonForce	Extreme Power Metal	Razorblade Meltdown	3295.237662209948	1427.26
+EXCE-197	Clean	We Came As Romans	Understanding What We've Grown to Be	Views That Never Cease, to Keep Me From Myself	3218.931586092477	4466.01
+EXCE-198	Clean	We Came As Romans	Understanding What We've Grown to Be	Stay Inspired	3494.4231857839377	6155.35
+EXCE-199	Clean	We Came As Romans	Understanding What We've Grown to Be	I Can't Make Your Decisions for You	3520.0103276347236	2420.02
+EXCE-200	Clean	We Came As Romans	We Came As Romans	Defiance	2981.8241789167864	2380.91
+EXCE-201	Clean	We Came As Romans	We Came As Romans	Blur	2849.057617769774	3288.5
+EXCE-202	Growling	The Faceless	Akeldama	Ghost of a Stranger	3494.2064944180493	2119.02
+EXCE-203	Growling	The Faceless	Akeldama	Horizons of Chaos, Pt. 1: The Foretelling	3637.971778712668	2745.56
+EXCE-204	Growling	The Faceless	Akeldama	All Dark Graves	3595.1963482339406	2537.69
+EXCE-205	Growling	Dying Fetus	Purification Through Violence	Blunt Force Trauma	6379.3551454577555	1805.8
+EXCE-206	Growling	Dying Fetus	Purification Through Violence	Nocturnal Crucifixion	5012.11807614105	3537.6
+EXCE-207	Growling	Dying Fetus	Purification Through Violence	Permanently Disfigured	4724.322424537315	2302.09
+EXCE-208	Growling	Whitechapel	Mark of the Blade	Dwell in the Shadows	2915.44888045772	3063.2
+EXCE-209	Growling	Whitechapel	Mark of the Blade	Tormented	2485.4332426323963	1703.63
+EXCE-210	Growling	Whitechapel	Mark of the Blade	Decennium	2809.5205218681817	3897.46
