@@ -6,3 +6,4 @@ build/
 .cache
 unpopularity.py
 stats1
+extra/
