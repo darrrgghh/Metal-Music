@@ -107,6 +107,5 @@ It takes each `.mp3` excerpt from the **MP3_Path** column, calculates the averag
 - Computes the mean **Spectral Centroid** using the [Librosa](https://librosa.org/) library.
 - Saves the results, including: *Excerpt ID, Technique, Artist, Album, Song, Spectral Centroid*, to a `.tsv` file: `databases/excerpts/spectral_centroid_results.tsv`.
 - Prints the results and mean Spectral Centroid per technique to the terminal.
-
 ___
 In addition to the conference project, this repository will also serve as a central hub for materials related to other ongoing research initiatives on metal music. Please check back regularly for updates, as this README and the repository content will be continuously revised to reflect new findings and developments.
