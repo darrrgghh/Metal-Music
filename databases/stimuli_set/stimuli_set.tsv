@@ -190,6 +190,7 @@ STIM-188	A	Growling_NV	Cannibal Corpse	Puncture Wound Massacre	"""Hate for them 
 STIM-189	A	Growling_V	Cannibal Corpse	Puncture Wound Massacre	"""Hate for them still drives my rage"""				143	4/4	EXCE-006	audio/STIM-189.wav	Patrick Smith	20250502					
 STIM-190	A	Growling_NV	Whitechapel	Faces	"""The faces of justice"""				220	4/4	EXCE-139	audio/STIM-190.wav	Patrick Smith	20250502					
 STIM-191	A	Growling_V	Whitechapel	Faces	"""The faces of justice"""				220	4/4	EXCE-139	audio/STIM-191.wav	Patrick Smith	20250502					
+STIM-192	F	Growling_V	Incantation	Conquered God	"""Only to arise and prevail"""				142	6/8	EXCE-032	audio/STIM-192.wav	Ahad Farooqui	20250511			"no melodic version for STIM-143, this is a substitute"		https://open.spotify.com/artist/1g3TCyXjGgYTBLBUhSrOg5?si=OXM8TmRmRuSHRSUr5FV2Cw
 STIM-193	B	Clean	Metallica	ManUNkind	"""Frozen captive by the nights"""				160	3/4	EXCE-121	audio/STIM-192.wav	Daniel Hoke Hossey III	20250506					https://open.spotify.com/artist/1X5JBMNf6cgE6snRQX3fkK?si=4Anj9P0PR2eh8wobhwM4wQ
 STIM-194	B	Clean_FLAT	Metallica	ManUNkind	"""Frozen captive by the nights"""				160	3/4	EXCE-121	audio/STIM-193.wav	Daniel Hoke Hossey III	20250506					https://open.spotify.com/artist/1X5JBMNf6cgE6snRQX3fkK?si=4Anj9P0PR2eh8wobhwM4wQ
 STIM-195	B	Clean	We Came As Romans	"Views That Never Cease, to Keep Me From Myself"	"""I will wade through the worst of it all"""				160	4/4	EXCE-197	audio/STIM-194.wav	Daniel Hoke Hossey III	20250506					https://open.spotify.com/artist/1X5JBMNf6cgE6snRQX3fkK?si=4Anj9P0PR2eh8wobhwM4wQ
@@ -333,5 +334,4 @@ STIM-332	G	Growling_V	Dying Fetus	Obsolete Deterrence	"""that no god even cares 
 STIM-333	G	Growling_NV	Morbid Angel	The Fall of Idols	"""You swore to be the shelter"""				225	4/4	EXCE-044	audio/STIM-332.wav	Rachael Chafin	20250513			Female vocalist		
 STIM-334	G	Growling_V	Morbid Angel	The Fall of Idols	"""You swore to be the shelter"""				225	4/4	EXCE-044	audio/STIM-333.wav	Rachael Chafin	20250513			Female vocalist		
 STIM-335	G	Clean	Trivium	He Who Spawned the Furies	"""what is eating me"""				130	4/4	EXCE-097	audio/STIM-334.wav	Rachael Chafin	20250513			Female vocalist		
-STIM-336	G	Clean_FLAT	Trivium	He Who Spawned the Furies	"""what is eating me"""				130	4/4	EXCE-097	audio/STIM-335.wav	Rachael Chafin	20250513			Female vocalist		
-STIM-192	F	Growling_V	Incantation	Conquered God	"""Only to arise and prevail"""				142	6/8	EXCE-032	audio/STIM-192.wav	Ahad Farooqui	20250511			"no melodic version for STIM-143, this is a substitute"		https://open.spotify.com/artist/1g3TCyXjGgYTBLBUhSrOg5?si=OXM8TmRmRuSHRSUr5FV2Cw
+STIM-336	G	Clean_FLAT	Trivium	He Who Spawned the Furies	"""what is eating me"""				130	4/4	EXCE-097	audio/STIM-335.wav	Rachael Chafin	20250513			Female vocalist
