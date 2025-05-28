@@ -1,0 +1,1009 @@
+Stimuli_ID	Vocalist_ID	Technique	Artist	Song	Lyrics	Duration	Rhythm	Melody	Tempo	Time_signature	Original_Corresponding_Excerpt	WAV_Path	Credits	Session_date_YMD	logMel_Path	Spectral_Centroid	annotations	Age_at_recording	band_spotify_url
+STIM-001	A	Clean	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093	audio/STIM-001.wav	Donny	20250528					
+STIM-002	A	Clean_FLAT	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093	audio/STIM-002.wav	Donny	20250528					
+STIM-003	A	Screaming_NV	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093	audio/STIM-003.wav	Donny	20250528					
+STIM-004	A	Screaming_V	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093	audio/STIM-004.wav	Donny	20250528					
+STIM-005	A	Growling_NV	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093	audio/STIM-005.wav	Donny	20250528					
+STIM-006	A	Growling_V	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093	audio/STIM-006.wav	Donny	20250528					
+STIM-007	A	Clean	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056	audio/STIM-007.wav	Donny	20250528					
+STIM-008	A	Clean_FLAT	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056	audio/STIM-008.wav	Donny	20250528					
+STIM-009	A	Screaming_NV	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056	audio/STIM-009.wav	Donny	20250528					
+STIM-010	A	Screaming_V	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056	audio/STIM-010.wav	Donny	20250528					
+STIM-011	A	Growling_NV	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056	audio/STIM-011.wav	Donny	20250528					
+STIM-012	A	Growling_V	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056	audio/STIM-012.wav	Donny	20250528					
+STIM-013	A	Clean	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108	audio/STIM-013.wav	Donny	20250528					
+STIM-014	A	Clean_FLAT	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108	audio/STIM-014.wav	Donny	20250528					
+STIM-015	A	Screaming_NV	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108	audio/STIM-015.wav	Donny	20250528					
+STIM-016	A	Screaming_V	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108	audio/STIM-016.wav	Donny	20250528					
+STIM-017	A	Growling_NV	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108	audio/STIM-017.wav	Donny	20250528					
+STIM-018	A	Growling_V	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108	audio/STIM-018.wav	Donny	20250528					
+STIM-019	A	Clean	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124	audio/STIM-019.wav	Donny	20250528					
+STIM-020	A	Clean_FLAT	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124	audio/STIM-020.wav	Donny	20250528					
+STIM-021	A	Screaming_NV	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124	audio/STIM-021.wav	Donny	20250528					
+STIM-022	A	Screaming_V	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124	audio/STIM-022.wav	Donny	20250528					
+STIM-023	A	Growling_NV	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124	audio/STIM-023.wav	Donny	20250528					
+STIM-024	A	Growling_V	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124	audio/STIM-024.wav	Donny	20250528					
+STIM-025	A	Clean	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064	audio/STIM-025.wav	Donny	20250528					
+STIM-026	A	Clean_FLAT	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064	audio/STIM-026.wav	Donny	20250528					
+STIM-027	A	Screaming_NV	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064	audio/STIM-027.wav	Donny	20250528					
+STIM-028	A	Screaming_V	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064	audio/STIM-028.wav	Donny	20250528					
+STIM-029	A	Growling_NV	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064	audio/STIM-029.wav	Donny	20250528					
+STIM-030	A	Growling_V	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064	audio/STIM-030.wav	Donny	20250528					
+STIM-031	A	Clean	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155	audio/STIM-031.wav	Donny	20250528					
+STIM-032	A	Clean_FLAT	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155	audio/STIM-032.wav	Donny	20250528					
+STIM-033	A	Screaming_NV	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155	audio/STIM-033.wav	Donny	20250528					
+STIM-034	A	Screaming_V	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155	audio/STIM-034.wav	Donny	20250528					
+STIM-035	A	Growling_NV	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155	audio/STIM-035.wav	Donny	20250528					
+STIM-036	A	Growling_V	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155	audio/STIM-036.wav	Donny	20250528					
+STIM-037	A	Clean	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179	audio/STIM-037.wav	Donny	20250528					
+STIM-038	A	Clean_FLAT	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179	audio/STIM-038.wav	Donny	20250528					
+STIM-039	A	Screaming_NV	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179	audio/STIM-039.wav	Donny	20250528					
+STIM-040	A	Screaming_V	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179	audio/STIM-040.wav	Donny	20250528					
+STIM-041	A	Growling_NV	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179	audio/STIM-041.wav	Donny	20250528					
+STIM-042	A	Growling_V	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179	audio/STIM-042.wav	Donny	20250528					
+STIM-043	A	Clean	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087	audio/STIM-043.wav	Donny	20250528					
+STIM-044	A	Clean_FLAT	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087	audio/STIM-044.wav	Donny	20250528					
+STIM-045	A	Screaming_NV	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087	audio/STIM-045.wav	Donny	20250528					
+STIM-046	A	Screaming_V	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087	audio/STIM-046.wav	Donny	20250528					
+STIM-047	A	Growling_NV	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087	audio/STIM-047.wav	Donny	20250528					
+STIM-048	A	Growling_V	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087	audio/STIM-048.wav	Donny	20250528					
+STIM-049	A	Clean	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141	audio/STIM-049.wav	Donny	20250528					
+STIM-050	A	Clean_FLAT	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141	audio/STIM-050.wav	Donny	20250528					
+STIM-051	A	Screaming_NV	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141	audio/STIM-051.wav	Donny	20250528					
+STIM-052	A	Screaming_V	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141	audio/STIM-052.wav	Donny	20250528					
+STIM-053	A	Growling_NV	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141	audio/STIM-053.wav	Donny	20250528					
+STIM-054	A	Growling_V	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141	audio/STIM-054.wav	Donny	20250528					
+STIM-055	A	Clean	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042	audio/STIM-055.wav	Donny	20250528					
+STIM-056	A	Clean_FLAT	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042	audio/STIM-056.wav	Donny	20250528					
+STIM-057	A	Screaming_NV	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042	audio/STIM-057.wav	Donny	20250528					
+STIM-058	A	Screaming_V	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042	audio/STIM-058.wav	Donny	20250528					
+STIM-059	A	Growling_NV	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042	audio/STIM-059.wav	Donny	20250528					
+STIM-060	A	Growling_V	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042	audio/STIM-060.wav	Donny	20250528					
+STIM-061	A	Clean	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208	audio/STIM-061.wav	Donny	20250528					
+STIM-062	A	Clean_FLAT	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208	audio/STIM-062.wav	Donny	20250528					
+STIM-063	A	Screaming_NV	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208	audio/STIM-063.wav	Donny	20250528					
+STIM-064	A	Screaming_V	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208	audio/STIM-064.wav	Donny	20250528					
+STIM-065	A	Growling_NV	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208	audio/STIM-065.wav	Donny	20250528					
+STIM-066	A	Growling_V	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208	audio/STIM-066.wav	Donny	20250528					
+STIM-067	A	Clean	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184	audio/STIM-067.wav	Donny	20250528					
+STIM-068	A	Clean_FLAT	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184	audio/STIM-068.wav	Donny	20250528					
+STIM-069	A	Screaming_NV	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184	audio/STIM-069.wav	Donny	20250528					
+STIM-070	A	Screaming_V	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184	audio/STIM-070.wav	Donny	20250528					
+STIM-071	A	Growling_NV	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184	audio/STIM-071.wav	Donny	20250528					
+STIM-072	A	Growling_V	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184	audio/STIM-072.wav	Donny	20250528					
+STIM-073	A	Clean	Killswitch Engage	For You	"""For all you've done"""				90	6/8	EXCE-107	audio/STIM-073.wav	Donny	20250528					
+STIM-074	A	Clean_FLAT	Killswitch Engage	For You	"""For all you've done"""				90	6/8	EXCE-107	audio/STIM-074.wav	Donny	20250528					
+STIM-075	A	Screaming_NV	Killswitch Engage	For You	"""For all you've done"""				90	6/8	EXCE-107	audio/STIM-075.wav	Donny	20250528					
+STIM-076	A	Screaming_V	Killswitch Engage	For You	"""For all you've done"""				90	6/8	EXCE-107	audio/STIM-076.wav	Donny	20250528					
+STIM-077	A	Growling_NV	Killswitch Engage	For You	"""For all you've done"""				90	6/8	EXCE-107	audio/STIM-077.wav	Donny	20250528					
+STIM-078	A	Growling_V	Killswitch Engage	For You	"""For all you've done"""				90	6/8	EXCE-107	audio/STIM-078.wav	Donny	20250528					
+STIM-079	A	Clean	Northlane	Weightless	"""Guided by familiar sight"""				85	4/4	EXCE-177	audio/STIM-079.wav	Donny	20250528					
+STIM-080	A	Clean_FLAT	Northlane	Weightless	"""Guided by familiar sight"""				85	4/4	EXCE-177	audio/STIM-080.wav	Donny	20250528					
+STIM-081	A	Screaming_NV	Northlane	Weightless	"""Guided by familiar sight"""				85	4/4	EXCE-177	audio/STIM-081.wav	Donny	20250528					
+STIM-082	A	Screaming_V	Northlane	Weightless	"""Guided by familiar sight"""				85	4/4	EXCE-177	audio/STIM-082.wav	Donny	20250528					
+STIM-083	A	Growling_NV	Northlane	Weightless	"""Guided by familiar sight"""				85	4/4	EXCE-177	audio/STIM-083.wav	Donny	20250528					
+STIM-084	A	Growling_V	Northlane	Weightless	"""Guided by familiar sight"""				85	4/4	EXCE-177	audio/STIM-084.wav	Donny	20250528					
+STIM-085	A	Clean	Asking Alexandria	Empire	"""to just give up now I'm pushing on through"""				80	4/4	EXCE-109	audio/STIM-085.wav	Donny	20250528					
+STIM-086	A	Clean_FLAT	Asking Alexandria	Empire	"""to just give up now I'm pushing on through"""				80	4/4	EXCE-109	audio/STIM-086.wav	Donny	20250528					
+STIM-087	A	Screaming_NV	Asking Alexandria	Empire	"""to just give up now I'm pushing on through"""				80	4/4	EXCE-109	audio/STIM-087.wav	Donny	20250528					
+STIM-088	A	Screaming_V	Asking Alexandria	Empire	"""to just give up now I'm pushing on through"""				80	4/4	EXCE-109	audio/STIM-088.wav	Donny	20250528					
+STIM-089	A	Growling_NV	Asking Alexandria	Empire	"""to just give up now I'm pushing on through"""				80	4/4	EXCE-109	audio/STIM-089.wav	Donny	20250528					
+STIM-090	A	Growling_V	Asking Alexandria	Empire	"""to just give up now I'm pushing on through"""				80	4/4	EXCE-109	audio/STIM-090.wav	Donny	20250528					
+STIM-091	A	Clean	Asking Alexandria	I am One	"""I can't be left if I'm alone """				162	4/4	EXCE-110	audio/STIM-091.wav	Donny	20250528					
+STIM-092	A	Clean_FLAT	Asking Alexandria	I am One	"""I can't be left if I'm alone """				162	4/4	EXCE-110	audio/STIM-092.wav	Donny	20250528					
+STIM-093	A	Screaming_NV	Asking Alexandria	I am One	"""I can't be left if I'm alone """				162	4/4	EXCE-110	audio/STIM-093.wav	Donny	20250528					
+STIM-094	A	Screaming_V	Asking Alexandria	I am One	"""I can't be left if I'm alone """				162	4/4	EXCE-110	audio/STIM-094.wav	Donny	20250528					
+STIM-095	A	Growling_NV	Asking Alexandria	I am One	"""I can't be left if I'm alone """				162	4/4	EXCE-110	audio/STIM-095.wav	Donny	20250528					
+STIM-096	A	Growling_V	Asking Alexandria	I am One	"""I can't be left if I'm alone """				162	4/4	EXCE-110	audio/STIM-096.wav	Donny	20250528					
+STIM-097	A	Clean	Avenged Sevenfold	Thin and Thin	"""I'll be there for you"""				200	4/4	EXCE-060	audio/STIM-097.wav	Donny	20250528					
+STIM-098	A	Clean_FLAT	Avenged Sevenfold	Thin and Thin	"""I'll be there for you"""				200	4/4	EXCE-060	audio/STIM-098.wav	Donny	20250528					
+STIM-099	A	Screaming_NV	Avenged Sevenfold	Thin and Thin	"""I'll be there for you"""				200	4/4	EXCE-060	audio/STIM-099.wav	Donny	20250528					
+STIM-100	A	Screaming_V	Avenged Sevenfold	Thin and Thin	"""I'll be there for you"""				200	4/4	EXCE-060	audio/STIM-100.wav	Donny	20250528					
+STIM-101	A	Growling_NV	Avenged Sevenfold	Thin and Thin	"""I'll be there for you"""				200	4/4	EXCE-060	audio/STIM-101.wav	Donny	20250528					
+STIM-102	A	Growling_V	Avenged Sevenfold	Thin and Thin	"""I'll be there for you"""				200	4/4	EXCE-060	audio/STIM-102.wav	Donny	20250528					
+STIM-103	A	Clean	Architects	They'll be Hanging Us Tonight	"""They're gaining on us"""				153	3/4	EXCE-066	audio/STIM-103.wav	Donny	20250528					
+STIM-104	A	Clean_FLAT	Architects	They'll be Hanging Us Tonight	"""They're gaining on us"""				153	3/4	EXCE-066	audio/STIM-104.wav	Donny	20250528					
+STIM-105	A	Screaming_NV	Architects	They'll be Hanging Us Tonight	"""They're gaining on us"""				153	3/4	EXCE-066	audio/STIM-105.wav	Donny	20250528					
+STIM-106	A	Screaming_V	Architects	They'll be Hanging Us Tonight	"""They're gaining on us"""				153	3/4	EXCE-066	audio/STIM-106.wav	Donny	20250528					
+STIM-107	A	Growling_NV	Architects	They'll be Hanging Us Tonight	"""They're gaining on us"""				153	3/4	EXCE-066	audio/STIM-107.wav	Donny	20250528					
+STIM-108	A	Growling_V	Architects	They'll be Hanging Us Tonight	"""They're gaining on us"""				153	3/4	EXCE-066	audio/STIM-108.wav	Donny	20250528					
+STIM-109	A	Clean	Cradle of Filth	I Am the Thorn	"""Of Judas in the dozens"""				180	4/4	EXCE-081	audio/STIM-109.wav	Donny	20250528					
+STIM-110	A	Clean_FLAT	Cradle of Filth	I Am the Thorn	"""Of Judas in the dozens"""				180	4/4	EXCE-081	audio/STIM-110.wav	Donny	20250528					
+STIM-111	A	Screaming_NV	Cradle of Filth	I Am the Thorn	"""Of Judas in the dozens"""				180	4/4	EXCE-081	audio/STIM-111.wav	Donny	20250528					
+STIM-112	A	Screaming_V	Cradle of Filth	I Am the Thorn	"""Of Judas in the dozens"""				180	4/4	EXCE-081	audio/STIM-112.wav	Donny	20250528					
+STIM-113	A	Growling_NV	Cradle of Filth	I Am the Thorn	"""Of Judas in the dozens"""				180	4/4	EXCE-081	audio/STIM-113.wav	Donny	20250528					
+STIM-114	A	Growling_V	Cradle of Filth	I Am the Thorn	"""Of Judas in the dozens"""				180	4/4	EXCE-081	audio/STIM-114.wav	Donny	20250528					
+STIM-115	A	Clean	August Burns Red	Too Late for Roses	"""To soften her descent"""				160	4/4	EXCE-156	audio/STIM-115.wav	Donny	20250528					
+STIM-116	A	Clean_FLAT	August Burns Red	Too Late for Roses	"""To soften her descent"""				160	4/4	EXCE-156	audio/STIM-116.wav	Donny	20250528					
+STIM-117	A	Screaming_NV	August Burns Red	Too Late for Roses	"""To soften her descent"""				160	4/4	EXCE-156	audio/STIM-117.wav	Donny	20250528					
+STIM-118	A	Screaming_V	August Burns Red	Too Late for Roses	"""To soften her descent"""				160	4/4	EXCE-156	audio/STIM-118.wav	Donny	20250528					
+STIM-119	A	Growling_NV	August Burns Red	Too Late for Roses	"""To soften her descent"""				160	4/4	EXCE-156	audio/STIM-119.wav	Donny	20250528					
+STIM-120	A	Growling_V	August Burns Red	Too Late for Roses	"""To soften her descent"""				160	4/4	EXCE-156	audio/STIM-120.wav	Donny	20250528					
+STIM-121	A	Clean	Incantation	From Hollow Sands	"""We are your disease"""				118	4/4	EXCE-034	audio/STIM-121.wav	Donny	20250528					
+STIM-122	A	Clean_FLAT	Incantation	From Hollow Sands	"""We are your disease"""				118	4/4	EXCE-034	audio/STIM-122.wav	Donny	20250528					
+STIM-123	A	Screaming_NV	Incantation	From Hollow Sands	"""We are your disease"""				118	4/4	EXCE-034	audio/STIM-123.wav	Donny	20250528					
+STIM-124	A	Screaming_V	Incantation	From Hollow Sands	"""We are your disease"""				118	4/4	EXCE-034	audio/STIM-124.wav	Donny	20250528					
+STIM-125	A	Growling_NV	Incantation	From Hollow Sands	"""We are your disease"""				118	4/4	EXCE-034	audio/STIM-125.wav	Donny	20250528					
+STIM-126	A	Growling_V	Incantation	From Hollow Sands	"""We are your disease"""				118	4/4	EXCE-034	audio/STIM-126.wav	Donny	20250528					
+STIM-127	A	Clean	Chelsea Grin	Flood Lungs	"""A single light among the void"""				95	6/8	EXCE-088	audio/STIM-127.wav	Donny	20250528					
+STIM-128	A	Clean_FLAT	Chelsea Grin	Flood Lungs	"""A single light among the void"""				95	6/8	EXCE-088	audio/STIM-128.wav	Donny	20250528					
+STIM-129	A	Screaming_NV	Chelsea Grin	Flood Lungs	"""A single light among the void"""				95	6/8	EXCE-088	audio/STIM-129.wav	Donny	20250528					
+STIM-130	A	Screaming_V	Chelsea Grin	Flood Lungs	"""A single light among the void"""				95	6/8	EXCE-088	audio/STIM-130.wav	Donny	20250528					
+STIM-131	A	Growling_NV	Chelsea Grin	Flood Lungs	"""A single light among the void"""				95	6/8	EXCE-088	audio/STIM-131.wav	Donny	20250528					
+STIM-132	A	Growling_V	Chelsea Grin	Flood Lungs	"""A single light among the void"""				95	6/8	EXCE-088	audio/STIM-132.wav	Donny	20250528					
+STIM-133	A	Clean	Dying Fetus	We Are Your Enemy	"""let's spread the wealth among us"""				180	4/4	EXCE-019	audio/STIM-133.wav	Donny	20250528					
+STIM-134	A	Clean_FLAT	Dying Fetus	We Are Your Enemy	"""let's spread the wealth among us"""				180	4/4	EXCE-019	audio/STIM-134.wav	Donny	20250528					
+STIM-135	A	Screaming_NV	Dying Fetus	We Are Your Enemy	"""let's spread the wealth among us"""				180	4/4	EXCE-019	audio/STIM-135.wav	Donny	20250528					
+STIM-136	A	Screaming_V	Dying Fetus	We Are Your Enemy	"""let's spread the wealth among us"""				180	4/4	EXCE-019	audio/STIM-136.wav	Donny	20250528					
+STIM-137	A	Growling_NV	Dying Fetus	We Are Your Enemy	"""let's spread the wealth among us"""				180	4/4	EXCE-019	audio/STIM-137.wav	Donny	20250528					
+STIM-138	A	Growling_V	Dying Fetus	We Are Your Enemy	"""let's spread the wealth among us"""				180	4/4	EXCE-019	audio/STIM-138.wav	Donny	20250528					
+STIM-139	A	Clean	Carcass	Hepatic Tissue Fermentation	"""neural cells fataly quenched"""				220	4/4	EXCE-010	audio/STIM-139.wav	Donny	20250528					
+STIM-140	A	Clean_FLAT	Carcass	Hepatic Tissue Fermentation	"""neural cells fataly quenched"""				220	4/4	EXCE-010	audio/STIM-140.wav	Donny	20250528					
+STIM-141	A	Screaming_NV	Carcass	Hepatic Tissue Fermentation	"""neural cells fataly quenched"""				220	4/4	EXCE-010	audio/STIM-141.wav	Donny	20250528					
+STIM-142	A	Screaming_V	Carcass	Hepatic Tissue Fermentation	"""neural cells fataly quenched"""				220	4/4	EXCE-010	audio/STIM-142.wav	Donny	20250528					
+STIM-143	A	Growling_NV	Carcass	Hepatic Tissue Fermentation	"""neural cells fataly quenched"""				220	4/4	EXCE-010	audio/STIM-143.wav	Donny	20250528					
+STIM-144	A	Growling_V	Carcass	Hepatic Tissue Fermentation	"""neural cells fataly quenched"""				220	4/4	EXCE-010	audio/STIM-144.wav	Donny	20250528					
+STIM-145	B	Clean	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093	audio/STIM-145.wav	Geoffrey	20250529					
+STIM-146	B	Clean_FLAT	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093	audio/STIM-146.wav	Geoffrey	20250529					
+STIM-147	B	Screaming_NV	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093	audio/STIM-147.wav	Geoffrey	20250529					
+STIM-148	B	Screaming_V	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093	audio/STIM-148.wav	Geoffrey	20250529					
+STIM-149	B	Growling_NV	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093	audio/STIM-149.wav	Geoffrey	20250529					
+STIM-150	B	Growling_V	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093	audio/STIM-150.wav	Geoffrey	20250529					
+STIM-151	B	Clean	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056	audio/STIM-151.wav	Geoffrey	20250529					
+STIM-152	B	Clean_FLAT	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056	audio/STIM-152.wav	Geoffrey	20250529					
+STIM-153	B	Screaming_NV	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056	audio/STIM-153.wav	Geoffrey	20250529					
+STIM-154	B	Screaming_V	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056	audio/STIM-154.wav	Geoffrey	20250529					
+STIM-155	B	Growling_NV	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056	audio/STIM-155.wav	Geoffrey	20250529					
+STIM-156	B	Growling_V	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056	audio/STIM-156.wav	Geoffrey	20250529					
+STIM-157	B	Clean	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108	audio/STIM-157.wav	Geoffrey	20250529					
+STIM-158	B	Clean_FLAT	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108	audio/STIM-158.wav	Geoffrey	20250529					
+STIM-159	B	Screaming_NV	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108	audio/STIM-159.wav	Geoffrey	20250529					
+STIM-160	B	Screaming_V	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108	audio/STIM-160.wav	Geoffrey	20250529					
+STIM-161	B	Growling_NV	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108	audio/STIM-161.wav	Geoffrey	20250529					
+STIM-162	B	Growling_V	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108	audio/STIM-162.wav	Geoffrey	20250529					
+STIM-163	B	Clean	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124	audio/STIM-163.wav	Geoffrey	20250529					
+STIM-164	B	Clean_FLAT	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124	audio/STIM-164.wav	Geoffrey	20250529					
+STIM-165	B	Screaming_NV	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124	audio/STIM-165.wav	Geoffrey	20250529					
+STIM-166	B	Screaming_V	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124	audio/STIM-166.wav	Geoffrey	20250529					
+STIM-167	B	Growling_NV	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124	audio/STIM-167.wav	Geoffrey	20250529					
+STIM-168	B	Growling_V	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124	audio/STIM-168.wav	Geoffrey	20250529					
+STIM-169	B	Clean	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064	audio/STIM-169.wav	Geoffrey	20250529					
+STIM-170	B	Clean_FLAT	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064	audio/STIM-170.wav	Geoffrey	20250529					
+STIM-171	B	Screaming_NV	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064	audio/STIM-171.wav	Geoffrey	20250529					
+STIM-172	B	Screaming_V	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064	audio/STIM-172.wav	Geoffrey	20250529					
+STIM-173	B	Growling_NV	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064	audio/STIM-173.wav	Geoffrey	20250529					
+STIM-174	B	Growling_V	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064	audio/STIM-174.wav	Geoffrey	20250529					
+STIM-175	B	Clean	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155	audio/STIM-175.wav	Geoffrey	20250529					
+STIM-176	B	Clean_FLAT	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155	audio/STIM-176.wav	Geoffrey	20250529					
+STIM-177	B	Screaming_NV	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155	audio/STIM-177.wav	Geoffrey	20250529					
+STIM-178	B	Screaming_V	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155	audio/STIM-178.wav	Geoffrey	20250529					
+STIM-179	B	Growling_NV	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155	audio/STIM-179.wav	Geoffrey	20250529					
+STIM-180	B	Growling_V	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155	audio/STIM-180.wav	Geoffrey	20250529					
+STIM-181	B	Clean	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179	audio/STIM-181.wav	Geoffrey	20250529					
+STIM-182	B	Clean_FLAT	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179	audio/STIM-182.wav	Geoffrey	20250529					
+STIM-183	B	Screaming_NV	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179	audio/STIM-183.wav	Geoffrey	20250529					
+STIM-184	B	Screaming_V	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179	audio/STIM-184.wav	Geoffrey	20250529					
+STIM-185	B	Growling_NV	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179	audio/STIM-185.wav	Geoffrey	20250529					
+STIM-186	B	Growling_V	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179	audio/STIM-186.wav	Geoffrey	20250529					
+STIM-187	B	Clean	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087	audio/STIM-187.wav	Geoffrey	20250529					
+STIM-188	B	Clean_FLAT	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087	audio/STIM-188.wav	Geoffrey	20250529					
+STIM-189	B	Screaming_NV	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087	audio/STIM-189.wav	Geoffrey	20250529					
+STIM-190	B	Screaming_V	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087	audio/STIM-190.wav	Geoffrey	20250529					
+STIM-191	B	Growling_NV	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087	audio/STIM-191.wav	Geoffrey	20250529					
+STIM-192	B	Growling_V	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087	audio/STIM-192.wav	Geoffrey	20250529					
+STIM-193	B	Clean	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141	audio/STIM-192.wav	Geoffrey	20250529					
+STIM-194	B	Clean_FLAT	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141	audio/STIM-193.wav	Geoffrey	20250529					
+STIM-195	B	Screaming_NV	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141	audio/STIM-194.wav	Geoffrey	20250529					
+STIM-196	B	Screaming_V	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141	audio/STIM-195.wav	Geoffrey	20250529					
+STIM-197	B	Growling_NV	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141	audio/STIM-196.wav	Geoffrey	20250529					
+STIM-198	B	Growling_V	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141	audio/STIM-197.wav	Geoffrey	20250529					
+STIM-199	B	Clean	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042	audio/STIM-198.wav	Geoffrey	20250529					
+STIM-200	B	Clean_FLAT	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042	audio/STIM-199.wav	Geoffrey	20250529					
+STIM-201	B	Screaming_NV	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042	audio/STIM-200.wav	Geoffrey	20250529					
+STIM-202	B	Screaming_V	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042	audio/STIM-201.wav	Geoffrey	20250529					
+STIM-203	B	Growling_NV	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042	audio/STIM-202.wav	Geoffrey	20250529					
+STIM-204	B	Growling_V	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042	audio/STIM-203.wav	Geoffrey	20250529					
+STIM-205	B	Clean	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208	audio/STIM-204.wav	Geoffrey	20250529					
+STIM-206	B	Clean_FLAT	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208	audio/STIM-205.wav	Geoffrey	20250529					
+STIM-207	B	Screaming_NV	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208	audio/STIM-206.wav	Geoffrey	20250529					
+STIM-208	B	Screaming_V	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208	audio/STIM-207.wav	Geoffrey	20250529					
+STIM-209	B	Growling_NV	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208	audio/STIM-208.wav	Geoffrey	20250529					
+STIM-210	B	Growling_V	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208	audio/STIM-209.wav	Geoffrey	20250529					
+STIM-211	B	Clean	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184	audio/STIM-210.wav	Geoffrey	20250529					
+STIM-212	B	Clean_FLAT	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184	audio/STIM-211.wav	Geoffrey	20250529					
+STIM-213	B	Screaming_NV	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184	audio/STIM-212.wav	Geoffrey	20250529					
+STIM-214	B	Screaming_V	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184	audio/STIM-213.wav	Geoffrey	20250529					
+STIM-215	B	Growling_NV	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184	audio/STIM-214.wav	Geoffrey	20250529					
+STIM-216	B	Growling_V	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184	audio/STIM-215.wav	Geoffrey	20250529					
+STIM-217	B	Clean										audio/STIM-216.wav	Geoffrey	20250529					
+STIM-218	B	Clean_FLAT										audio/STIM-217.wav	Geoffrey	20250529					
+STIM-219	B	Screaming_NV										audio/STIM-218.wav	Geoffrey	20250529					
+STIM-220	B	Screaming_V										audio/STIM-219.wav	Geoffrey	20250529					
+STIM-221	B	Growling_NV										audio/STIM-220.wav	Geoffrey	20250529					
+STIM-222	B	Growling_V										audio/STIM-221.wav	Geoffrey	20250529					
+STIM-223	B	Clean										audio/STIM-222.wav	Geoffrey	20250529					
+STIM-224	B	Clean_FLAT										audio/STIM-223.wav	Geoffrey	20250529					
+STIM-225	B	Screaming_NV										audio/STIM-224.wav	Geoffrey	20250529					
+STIM-226	B	Screaming_V										audio/STIM-225.wav	Geoffrey	20250529					
+STIM-227	B	Growling_NV										audio/STIM-226.wav	Geoffrey	20250529					
+STIM-228	B	Growling_V										audio/STIM-227.wav	Geoffrey	20250529					
+STIM-229	B	Clean										audio/STIM-228.wav	Geoffrey	20250529					
+STIM-230	B	Clean_FLAT										audio/STIM-229.wav	Geoffrey	20250529					
+STIM-231	B	Screaming_NV										audio/STIM-230.wav	Geoffrey	20250529					
+STIM-232	B	Screaming_V										audio/STIM-231.wav	Geoffrey	20250529					
+STIM-233	B	Growling_NV										audio/STIM-232.wav	Geoffrey	20250529					
+STIM-234	B	Growling_V										audio/STIM-233.wav	Geoffrey	20250529					
+STIM-235	B	Clean										audio/STIM-234.wav	Geoffrey	20250529					
+STIM-236	B	Clean_FLAT										audio/STIM-235.wav	Geoffrey	20250529					
+STIM-237	B	Screaming_NV										audio/STIM-236.wav	Geoffrey	20250529					
+STIM-238	B	Screaming_V										audio/STIM-237.wav	Geoffrey	20250529					
+STIM-239	B	Growling_NV										audio/STIM-238.wav	Geoffrey	20250529					
+STIM-240	B	Growling_V										audio/STIM-239.wav	Geoffrey	20250529					
+STIM-241	B	Clean										audio/STIM-240.wav	Geoffrey	20250529					
+STIM-242	B	Clean_FLAT										audio/STIM-241.wav	Geoffrey	20250529					
+STIM-243	B	Screaming_NV										audio/STIM-242.wav	Geoffrey	20250529					
+STIM-244	B	Screaming_V										audio/STIM-243.wav	Geoffrey	20250529					
+STIM-245	B	Growling_NV										audio/STIM-244.wav	Geoffrey	20250529					
+STIM-246	B	Growling_V										audio/STIM-245.wav	Geoffrey	20250529					
+STIM-247	B	Clean										audio/STIM-246.wav	Geoffrey	20250529					
+STIM-248	B	Clean_FLAT										audio/STIM-247.wav	Geoffrey	20250529					
+STIM-249	B	Screaming_NV										audio/STIM-248.wav	Geoffrey	20250529					
+STIM-250	B	Screaming_V										audio/STIM-249.wav	Geoffrey	20250529					
+STIM-251	B	Growling_NV										audio/STIM-250.wav	Geoffrey	20250529					
+STIM-252	B	Growling_V										audio/STIM-251.wav	Geoffrey	20250529					
+STIM-253	B	Clean										audio/STIM-252.wav	Geoffrey	20250529					
+STIM-254	B	Clean_FLAT										audio/STIM-253.wav	Geoffrey	20250529					
+STIM-255	B	Screaming_NV										audio/STIM-254.wav	Geoffrey	20250529					
+STIM-256	B	Screaming_V										audio/STIM-255.wav	Geoffrey	20250529					
+STIM-257	B	Growling_NV										audio/STIM-256.wav	Geoffrey	20250529					
+STIM-258	B	Growling_V										audio/STIM-257.wav	Geoffrey	20250529					
+STIM-259	B	Clean										audio/STIM-258.wav	Geoffrey	20250529					
+STIM-260	B	Clean_FLAT										audio/STIM-259.wav	Geoffrey	20250529					
+STIM-261	B	Screaming_NV										audio/STIM-260.wav	Geoffrey	20250529					
+STIM-262	B	Screaming_V										audio/STIM-261.wav	Geoffrey	20250529					
+STIM-263	B	Growling_NV										audio/STIM-262.wav	Geoffrey	20250529					
+STIM-264	B	Growling_V										audio/STIM-263.wav	Geoffrey	20250529					
+STIM-265	B	Clean										audio/STIM-264.wav	Geoffrey	20250529					
+STIM-266	B	Clean_FLAT										audio/STIM-265.wav	Geoffrey	20250529					
+STIM-267	B	Screaming_NV										audio/STIM-266.wav	Geoffrey	20250529					
+STIM-268	B	Screaming_V										audio/STIM-267.wav	Geoffrey	20250529					
+STIM-269	B	Growling_NV										audio/STIM-268.wav	Geoffrey	20250529					
+STIM-270	B	Growling_V										audio/STIM-269.wav	Geoffrey	20250529					
+STIM-271	B	Clean										audio/STIM-270.wav	Geoffrey	20250529					
+STIM-272	B	Clean_FLAT										audio/STIM-271.wav	Geoffrey	20250529					
+STIM-273	B	Screaming_NV										audio/STIM-272.wav	Geoffrey	20250529					
+STIM-274	B	Screaming_V										audio/STIM-273.wav	Geoffrey	20250529					
+STIM-275	B	Growling_NV										audio/STIM-274.wav	Geoffrey	20250529					
+STIM-276	B	Growling_V										audio/STIM-275.wav	Geoffrey	20250529					
+STIM-277	B	Clean										audio/STIM-276.wav	Geoffrey	20250529					
+STIM-278	B	Clean_FLAT										audio/STIM-277.wav	Geoffrey	20250529					
+STIM-279	B	Screaming_NV										audio/STIM-278.wav	Geoffrey	20250529					
+STIM-280	B	Screaming_V										audio/STIM-279.wav	Geoffrey	20250529					
+STIM-281	B	Growling_NV										audio/STIM-280.wav	Geoffrey	20250529					
+STIM-282	B	Growling_V										audio/STIM-281.wav	Geoffrey	20250529					
+STIM-283	B	Clean										audio/STIM-282.wav	Geoffrey	20250529					
+STIM-284	B	Clean_FLAT										audio/STIM-283.wav	Geoffrey	20250529					
+STIM-285	B	Screaming_NV										audio/STIM-284.wav	Geoffrey	20250529					
+STIM-286	B	Screaming_V										audio/STIM-285.wav	Geoffrey	20250529					
+STIM-287	B	Growling_NV										audio/STIM-286.wav	Geoffrey	20250529					
+STIM-288	B	Growling_V										audio/STIM-287.wav	Geoffrey	20250529					
+STIM-289	C	Clean	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093	audio/STIM-288.wav	Jamie	20250530					
+STIM-290	C	Clean_FLAT	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093	audio/STIM-289.wav	Jamie	20250530					
+STIM-291	C	Screaming_NV	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093	audio/STIM-290.wav	Jamie	20250530					
+STIM-292	C	Screaming_V	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093	audio/STIM-291.wav	Jamie	20250530					
+STIM-293	C	Growling_NV	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093	audio/STIM-292.wav	Jamie	20250530					
+STIM-294	C	Growling_V	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093	audio/STIM-293.wav	Jamie	20250530					
+STIM-295	C	Clean	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056	audio/STIM-294.wav	Jamie	20250530					
+STIM-296	C	Clean_FLAT	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056	audio/STIM-295.wav	Jamie	20250530					
+STIM-297	C	Screaming_NV	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056	audio/STIM-296.wav	Jamie	20250530					
+STIM-298	C	Screaming_V	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056	audio/STIM-297.wav	Jamie	20250530					
+STIM-299	C	Growling_NV	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056	audio/STIM-298.wav	Jamie	20250530					
+STIM-300	C	Growling_V	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056	audio/STIM-299.wav	Jamie	20250530					
+STIM-301	C	Clean	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108	audio/STIM-300.wav	Jamie	20250530					
+STIM-302	C	Clean_FLAT	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108	audio/STIM-301.wav	Jamie	20250530					
+STIM-303	C	Screaming_NV	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108	audio/STIM-302.wav	Jamie	20250530					
+STIM-304	C	Screaming_V	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108	audio/STIM-303.wav	Jamie	20250530					
+STIM-305	C	Growling_NV	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108	audio/STIM-304.wav	Jamie	20250530					
+STIM-306	C	Growling_V	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108	audio/STIM-305.wav	Jamie	20250530					
+STIM-307	C	Clean	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124	audio/STIM-306.wav	Jamie	20250530					
+STIM-308	C	Clean_FLAT	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124	audio/STIM-307.wav	Jamie	20250530					
+STIM-309	C	Screaming_NV	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124	audio/STIM-308.wav	Jamie	20250530					
+STIM-310	C	Screaming_V	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124	audio/STIM-309.wav	Jamie	20250530					
+STIM-311	C	Growling_NV	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124	audio/STIM-310.wav	Jamie	20250530					
+STIM-312	C	Growling_V	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124	audio/STIM-311.wav	Jamie	20250530					
+STIM-313	C	Clean	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064	audio/STIM-312.wav	Jamie	20250530					
+STIM-314	C	Clean_FLAT	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064	audio/STIM-313.wav	Jamie	20250530					
+STIM-315	C	Screaming_NV	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064	audio/STIM-314.wav	Jamie	20250530					
+STIM-316	C	Screaming_V	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064	audio/STIM-315.wav	Jamie	20250530					
+STIM-317	C	Growling_NV	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064	audio/STIM-316.wav	Jamie	20250530					
+STIM-318	C	Growling_V	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064	audio/STIM-317.wav	Jamie	20250530					
+STIM-319	C	Clean	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155	audio/STIM-318.wav	Jamie	20250530					
+STIM-320	C	Clean_FLAT	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155	audio/STIM-319.wav	Jamie	20250530					
+STIM-321	C	Screaming_NV	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155	audio/STIM-320.wav	Jamie	20250530					
+STIM-322	C	Screaming_V	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155	audio/STIM-321.wav	Jamie	20250530					
+STIM-323	C	Growling_NV	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155	audio/STIM-322.wav	Jamie	20250530					
+STIM-324	C	Growling_V	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155	audio/STIM-323.wav	Jamie	20250530					
+STIM-325	C	Clean	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179	audio/STIM-324.wav	Jamie	20250530					
+STIM-326	C	Clean_FLAT	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179	audio/STIM-325.wav	Jamie	20250530					
+STIM-327	C	Screaming_NV	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179	audio/STIM-326.wav	Jamie	20250530					
+STIM-328	C	Screaming_V	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179	audio/STIM-327.wav	Jamie	20250530					
+STIM-329	C	Growling_NV	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179	audio/STIM-328.wav	Jamie	20250530					
+STIM-330	C	Growling_V	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179	audio/STIM-329.wav	Jamie	20250530					
+STIM-331	C	Clean	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087	audio/STIM-330.wav	Jamie	20250530					
+STIM-332	C	Clean_FLAT	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087	audio/STIM-331.wav	Jamie	20250530					
+STIM-333	C	Screaming_NV	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087	audio/STIM-332.wav	Jamie	20250530					
+STIM-334	C	Screaming_V	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087	audio/STIM-333.wav	Jamie	20250530					
+STIM-335	C	Growling_NV	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087	audio/STIM-334.wav	Jamie	20250530					
+STIM-336	C	Growling_V	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087	audio/STIM-335.wav	Jamie	20250530					
+STIM-337	C	Clean	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141		Jamie	20250530					
+STIM-338	C	Clean_FLAT	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141		Jamie	20250530					
+STIM-339	C	Screaming_NV	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141		Jamie	20250530					
+STIM-340	C	Screaming_V	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141		Jamie	20250530					
+STIM-341	C	Growling_NV	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141		Jamie	20250530					
+STIM-342	C	Growling_V	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141		Jamie	20250530					
+STIM-343	C	Clean	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042		Jamie	20250530					
+STIM-344	C	Clean_FLAT	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042		Jamie	20250530					
+STIM-345	C	Screaming_NV	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042		Jamie	20250530					
+STIM-346	C	Screaming_V	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042		Jamie	20250530					
+STIM-347	C	Growling_NV	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042		Jamie	20250530					
+STIM-348	C	Growling_V	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042		Jamie	20250530					
+STIM-349	C	Clean	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208		Jamie	20250530					
+STIM-350	C	Clean_FLAT	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208		Jamie	20250530					
+STIM-351	C	Screaming_NV	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208		Jamie	20250530					
+STIM-352	C	Screaming_V	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208		Jamie	20250530					
+STIM-353	C	Growling_NV	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208		Jamie	20250530					
+STIM-354	C	Growling_V	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208		Jamie	20250530					
+STIM-355	C	Clean	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184		Jamie	20250530					
+STIM-356	C	Clean_FLAT	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184		Jamie	20250530					
+STIM-357	C	Screaming_NV	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184		Jamie	20250530					
+STIM-358	C	Screaming_V	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184		Jamie	20250530					
+STIM-359	C	Growling_NV	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184		Jamie	20250530					
+STIM-360	C	Growling_V	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184		Jamie	20250530					
+STIM-361	C	Clean											Jamie	20250530					
+STIM-362	C	Clean_FLAT											Jamie	20250530					
+STIM-363	C	Screaming_NV											Jamie	20250530					
+STIM-364	C	Screaming_V											Jamie	20250530					
+STIM-365	C	Growling_NV											Jamie	20250530					
+STIM-366	C	Growling_V											Jamie	20250530					
+STIM-367	C	Clean											Jamie	20250530					
+STIM-368	C	Clean_FLAT											Jamie	20250530					
+STIM-369	C	Screaming_NV											Jamie	20250530					
+STIM-370	C	Screaming_V											Jamie	20250530					
+STIM-371	C	Growling_NV											Jamie	20250530					
+STIM-372	C	Growling_V											Jamie	20250530					
+STIM-373	C	Clean											Jamie	20250530					
+STIM-374	C	Clean_FLAT											Jamie	20250530					
+STIM-375	C	Screaming_NV											Jamie	20250530					
+STIM-376	C	Screaming_V											Jamie	20250530					
+STIM-377	C	Growling_NV											Jamie	20250530					
+STIM-378	C	Growling_V											Jamie	20250530					
+STIM-379	C	Clean											Jamie	20250530					
+STIM-380	C	Clean_FLAT											Jamie	20250530					
+STIM-381	C	Screaming_NV											Jamie	20250530					
+STIM-382	C	Screaming_V											Jamie	20250530					
+STIM-383	C	Growling_NV											Jamie	20250530					
+STIM-384	C	Growling_V											Jamie	20250530					
+STIM-385	C	Clean											Jamie	20250530					
+STIM-386	C	Clean_FLAT											Jamie	20250530					
+STIM-387	C	Screaming_NV											Jamie	20250530					
+STIM-388	C	Screaming_V											Jamie	20250530					
+STIM-389	C	Growling_NV											Jamie	20250530					
+STIM-390	C	Growling_V											Jamie	20250530					
+STIM-391	C	Clean											Jamie	20250530					
+STIM-392	C	Clean_FLAT											Jamie	20250530					
+STIM-393	C	Screaming_NV											Jamie	20250530					
+STIM-394	C	Screaming_V											Jamie	20250530					
+STIM-395	C	Growling_NV											Jamie	20250530					
+STIM-396	C	Growling_V											Jamie	20250530					
+STIM-397	C	Clean											Jamie	20250530					
+STIM-398	C	Clean_FLAT											Jamie	20250530					
+STIM-399	C	Screaming_NV											Jamie	20250530					
+STIM-400	C	Screaming_V											Jamie	20250530					
+STIM-401	C	Growling_NV											Jamie	20250530					
+STIM-402	C	Growling_V											Jamie	20250530					
+STIM-403	C	Clean											Jamie	20250530					
+STIM-404	C	Clean_FLAT											Jamie	20250530					
+STIM-405	C	Screaming_NV											Jamie	20250530					
+STIM-406	C	Screaming_V											Jamie	20250530					
+STIM-407	C	Growling_NV											Jamie	20250530					
+STIM-408	C	Growling_V											Jamie	20250530					
+STIM-409	C	Clean											Jamie	20250530					
+STIM-410	C	Clean_FLAT											Jamie	20250530					
+STIM-411	C	Screaming_NV											Jamie	20250530					
+STIM-412	C	Screaming_V											Jamie	20250530					
+STIM-413	C	Growling_NV											Jamie	20250530					
+STIM-414	C	Growling_V											Jamie	20250530					
+STIM-415	C	Clean											Jamie	20250530					
+STIM-416	C	Clean_FLAT											Jamie	20250530					
+STIM-417	C	Screaming_NV											Jamie	20250530					
+STIM-418	C	Screaming_V											Jamie	20250530					
+STIM-419	C	Growling_NV											Jamie	20250530					
+STIM-420	C	Growling_V											Jamie	20250530					
+STIM-421	C	Clean											Jamie	20250530					
+STIM-422	C	Clean_FLAT											Jamie	20250530					
+STIM-423	C	Screaming_NV											Jamie	20250530					
+STIM-424	C	Screaming_V											Jamie	20250530					
+STIM-425	C	Growling_NV											Jamie	20250530					
+STIM-426	C	Growling_V											Jamie	20250530					
+STIM-427	C	Clean											Jamie	20250530					
+STIM-428	C	Clean_FLAT											Jamie	20250530					
+STIM-429	C	Screaming_NV											Jamie	20250530					
+STIM-430	C	Screaming_V											Jamie	20250530					
+STIM-431	C	Growling_NV											Jamie	20250530					
+STIM-432	C	Growling_V											Jamie	20250530					
+STIM-433	D	Clean	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093		Hunter	20250531					
+STIM-434	D	Clean_FLAT	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093		Hunter	20250531					
+STIM-435	D	Screaming_NV	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093		Hunter	20250531					
+STIM-436	D	Screaming_V	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093		Hunter	20250531					
+STIM-437	D	Growling_NV	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093		Hunter	20250531					
+STIM-438	D	Growling_V	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093		Hunter	20250531					
+STIM-439	D	Clean	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056		Hunter	20250531					
+STIM-440	D	Clean_FLAT	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056		Hunter	20250531					
+STIM-441	D	Screaming_NV	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056		Hunter	20250531					
+STIM-442	D	Screaming_V	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056		Hunter	20250531					
+STIM-443	D	Growling_NV	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056		Hunter	20250531					
+STIM-444	D	Growling_V	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056		Hunter	20250531					
+STIM-445	D	Clean	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108		Hunter	20250531					
+STIM-446	D	Clean_FLAT	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108		Hunter	20250531					
+STIM-447	D	Screaming_NV	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108		Hunter	20250531					
+STIM-448	D	Screaming_V	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108		Hunter	20250531					
+STIM-449	D	Growling_NV	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108		Hunter	20250531					
+STIM-450	D	Growling_V	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108		Hunter	20250531					
+STIM-451	D	Clean	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124		Hunter	20250531					
+STIM-452	D	Clean_FLAT	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124		Hunter	20250531					
+STIM-453	D	Screaming_NV	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124		Hunter	20250531					
+STIM-454	D	Screaming_V	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124		Hunter	20250531					
+STIM-455	D	Growling_NV	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124		Hunter	20250531					
+STIM-456	D	Growling_V	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124		Hunter	20250531					
+STIM-457	D	Clean	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064		Hunter	20250531					
+STIM-458	D	Clean_FLAT	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064		Hunter	20250531					
+STIM-459	D	Screaming_NV	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064		Hunter	20250531					
+STIM-460	D	Screaming_V	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064		Hunter	20250531					
+STIM-461	D	Growling_NV	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064		Hunter	20250531					
+STIM-462	D	Growling_V	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064		Hunter	20250531					
+STIM-463	D	Clean	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155		Hunter	20250531					
+STIM-464	D	Clean_FLAT	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155		Hunter	20250531					
+STIM-465	D	Screaming_NV	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155		Hunter	20250531					
+STIM-466	D	Screaming_V	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155		Hunter	20250531					
+STIM-467	D	Growling_NV	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155		Hunter	20250531					
+STIM-468	D	Growling_V	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155		Hunter	20250531					
+STIM-469	D	Clean	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179		Hunter	20250531					
+STIM-470	D	Clean_FLAT	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179		Hunter	20250531					
+STIM-471	D	Screaming_NV	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179		Hunter	20250531					
+STIM-472	D	Screaming_V	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179		Hunter	20250531					
+STIM-473	D	Growling_NV	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179		Hunter	20250531					
+STIM-474	D	Growling_V	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179		Hunter	20250531					
+STIM-475	D	Clean	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087		Hunter	20250531					
+STIM-476	D	Clean_FLAT	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087		Hunter	20250531					
+STIM-477	D	Screaming_NV	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087		Hunter	20250531					
+STIM-478	D	Screaming_V	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087		Hunter	20250531					
+STIM-479	D	Growling_NV	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087		Hunter	20250531					
+STIM-480	D	Growling_V	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087		Hunter	20250531					
+STIM-481	D	Clean	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141		Hunter	20250531					
+STIM-482	D	Clean_FLAT	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141		Hunter	20250531					
+STIM-483	D	Screaming_NV	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141		Hunter	20250531					
+STIM-484	D	Screaming_V	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141		Hunter	20250531					
+STIM-485	D	Growling_NV	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141		Hunter	20250531					
+STIM-486	D	Growling_V	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141		Hunter	20250531					
+STIM-487	D	Clean	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042		Hunter	20250531					
+STIM-488	D	Clean_FLAT	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042		Hunter	20250531					
+STIM-489	D	Screaming_NV	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042		Hunter	20250531					
+STIM-490	D	Screaming_V	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042		Hunter	20250531					
+STIM-491	D	Growling_NV	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042		Hunter	20250531					
+STIM-492	D	Growling_V	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042		Hunter	20250531					
+STIM-493	D	Clean	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208		Hunter	20250531					
+STIM-494	D	Clean_FLAT	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208		Hunter	20250531					
+STIM-495	D	Screaming_NV	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208		Hunter	20250531					
+STIM-496	D	Screaming_V	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208		Hunter	20250531					
+STIM-497	D	Growling_NV	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208		Hunter	20250531					
+STIM-498	D	Growling_V	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208		Hunter	20250531					
+STIM-499	D	Clean	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184		Hunter	20250531					
+STIM-500	D	Clean_FLAT	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184		Hunter	20250531					
+STIM-501	D	Screaming_NV	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184		Hunter	20250531					
+STIM-502	D	Screaming_V	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184		Hunter	20250531					
+STIM-503	D	Growling_NV	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184		Hunter	20250531					
+STIM-504	D	Growling_V	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184		Hunter	20250531					
+STIM-505	D	Clean											Hunter	20250531					
+STIM-506	D	Clean_FLAT											Hunter	20250531					
+STIM-507	D	Screaming_NV											Hunter	20250531					
+STIM-508	D	Screaming_V											Hunter	20250531					
+STIM-509	D	Growling_NV											Hunter	20250531					
+STIM-510	D	Growling_V											Hunter	20250531					
+STIM-511	D	Clean											Hunter	20250531					
+STIM-512	D	Clean_FLAT											Hunter	20250531					
+STIM-513	D	Screaming_NV											Hunter	20250531					
+STIM-514	D	Screaming_V											Hunter	20250531					
+STIM-515	D	Growling_NV											Hunter	20250531					
+STIM-516	D	Growling_V											Hunter	20250531					
+STIM-517	D	Clean											Hunter	20250531					
+STIM-518	D	Clean_FLAT											Hunter	20250531					
+STIM-519	D	Screaming_NV											Hunter	20250531					
+STIM-520	D	Screaming_V											Hunter	20250531					
+STIM-521	D	Growling_NV											Hunter	20250531					
+STIM-522	D	Growling_V											Hunter	20250531					
+STIM-523	D	Clean											Hunter	20250531					
+STIM-524	D	Clean_FLAT											Hunter	20250531					
+STIM-525	D	Screaming_NV											Hunter	20250531					
+STIM-526	D	Screaming_V											Hunter	20250531					
+STIM-527	D	Growling_NV											Hunter	20250531					
+STIM-528	D	Growling_V											Hunter	20250531					
+STIM-529	D	Clean											Hunter	20250531					
+STIM-530	D	Clean_FLAT											Hunter	20250531					
+STIM-531	D	Screaming_NV											Hunter	20250531					
+STIM-532	D	Screaming_V											Hunter	20250531					
+STIM-533	D	Growling_NV											Hunter	20250531					
+STIM-534	D	Growling_V											Hunter	20250531					
+STIM-535	D	Clean											Hunter	20250531					
+STIM-536	D	Clean_FLAT											Hunter	20250531					
+STIM-537	D	Screaming_NV											Hunter	20250531					
+STIM-538	D	Screaming_V											Hunter	20250531					
+STIM-539	D	Growling_NV											Hunter	20250531					
+STIM-540	D	Growling_V											Hunter	20250531					
+STIM-541	D	Clean											Hunter	20250531					
+STIM-542	D	Clean_FLAT											Hunter	20250531					
+STIM-543	D	Screaming_NV											Hunter	20250531					
+STIM-544	D	Screaming_V											Hunter	20250531					
+STIM-545	D	Growling_NV											Hunter	20250531					
+STIM-546	D	Growling_V											Hunter	20250531					
+STIM-547	D	Clean											Hunter	20250531					
+STIM-548	D	Clean_FLAT											Hunter	20250531					
+STIM-549	D	Screaming_NV											Hunter	20250531					
+STIM-550	D	Screaming_V											Hunter	20250531					
+STIM-551	D	Growling_NV											Hunter	20250531					
+STIM-552	D	Growling_V											Hunter	20250531					
+STIM-553	D	Clean											Hunter	20250531					
+STIM-554	D	Clean_FLAT											Hunter	20250531					
+STIM-555	D	Screaming_NV											Hunter	20250531					
+STIM-556	D	Screaming_V											Hunter	20250531					
+STIM-557	D	Growling_NV											Hunter	20250531					
+STIM-558	D	Growling_V											Hunter	20250531					
+STIM-559	D	Clean											Hunter	20250531					
+STIM-560	D	Clean_FLAT											Hunter	20250531					
+STIM-561	D	Screaming_NV											Hunter	20250531					
+STIM-562	D	Screaming_V											Hunter	20250531					
+STIM-563	D	Growling_NV											Hunter	20250531					
+STIM-564	D	Growling_V											Hunter	20250531					
+STIM-565	D	Clean											Hunter	20250531					
+STIM-566	D	Clean_FLAT											Hunter	20250531					
+STIM-567	D	Screaming_NV											Hunter	20250531					
+STIM-568	D	Screaming_V											Hunter	20250531					
+STIM-569	D	Growling_NV											Hunter	20250531					
+STIM-570	D	Growling_V											Hunter	20250531					
+STIM-571	D	Clean											Hunter	20250531					
+STIM-572	D	Clean_FLAT											Hunter	20250531					
+STIM-573	D	Screaming_NV											Hunter	20250531					
+STIM-574	D	Screaming_V											Hunter	20250531					
+STIM-575	D	Growling_NV											Hunter	20250531					
+STIM-576	D	Growling_V											Hunter	20250531					
+STIM-577	E	Clean	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093		Izzy						
+STIM-578	E	Clean_FLAT	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093		Izzy						
+STIM-579	E	Screaming_NV	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093		Izzy						
+STIM-580	E	Screaming_V	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093		Izzy						
+STIM-581	E	Growling_NV	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093		Izzy						
+STIM-582	E	Growling_V	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093		Izzy						
+STIM-583	E	Clean	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056		Izzy						
+STIM-584	E	Clean_FLAT	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056		Izzy						
+STIM-585	E	Screaming_NV	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056		Izzy						
+STIM-586	E	Screaming_V	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056		Izzy						
+STIM-587	E	Growling_NV	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056		Izzy						
+STIM-588	E	Growling_V	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056		Izzy						
+STIM-589	E	Clean	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108		Izzy						
+STIM-590	E	Clean_FLAT	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108		Izzy						
+STIM-591	E	Screaming_NV	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108		Izzy						
+STIM-592	E	Screaming_V	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108		Izzy						
+STIM-593	E	Growling_NV	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108		Izzy						
+STIM-594	E	Growling_V	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108		Izzy						
+STIM-595	E	Clean	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124		Izzy						
+STIM-596	E	Clean_FLAT	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124		Izzy						
+STIM-597	E	Screaming_NV	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124		Izzy						
+STIM-598	E	Screaming_V	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124		Izzy						
+STIM-599	E	Growling_NV	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124		Izzy						
+STIM-600	E	Growling_V	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124		Izzy						
+STIM-601	E	Clean	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064		Izzy						
+STIM-602	E	Clean_FLAT	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064		Izzy						
+STIM-603	E	Screaming_NV	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064		Izzy						
+STIM-604	E	Screaming_V	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064		Izzy						
+STIM-605	E	Growling_NV	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064		Izzy						
+STIM-606	E	Growling_V	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064		Izzy						
+STIM-607	E	Clean	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155		Izzy						
+STIM-608	E	Clean_FLAT	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155		Izzy						
+STIM-609	E	Screaming_NV	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155		Izzy						
+STIM-610	E	Screaming_V	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155		Izzy						
+STIM-611	E	Growling_NV	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155		Izzy						
+STIM-612	E	Growling_V	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155		Izzy						
+STIM-613	E	Clean	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179		Izzy						
+STIM-614	E	Clean_FLAT	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179		Izzy						
+STIM-615	E	Screaming_NV	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179		Izzy						
+STIM-616	E	Screaming_V	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179		Izzy						
+STIM-617	E	Growling_NV	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179		Izzy						
+STIM-618	E	Growling_V	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179		Izzy						
+STIM-619	E	Clean	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087		Izzy						
+STIM-620	E	Clean_FLAT	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087		Izzy						
+STIM-621	E	Screaming_NV	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087		Izzy						
+STIM-622	E	Screaming_V	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087		Izzy						
+STIM-623	E	Growling_NV	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087		Izzy						
+STIM-624	E	Growling_V	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087		Izzy						
+STIM-625	E	Clean	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141		Izzy						
+STIM-626	E	Clean_FLAT	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141		Izzy						
+STIM-627	E	Screaming_NV	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141		Izzy						
+STIM-628	E	Screaming_V	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141		Izzy						
+STIM-629	E	Growling_NV	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141		Izzy						
+STIM-630	E	Growling_V	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141		Izzy						
+STIM-631	E	Clean	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042		Izzy						
+STIM-632	E	Clean_FLAT	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042		Izzy						
+STIM-633	E	Screaming_NV	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042		Izzy						
+STIM-634	E	Screaming_V	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042		Izzy						
+STIM-635	E	Growling_NV	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042		Izzy						
+STIM-636	E	Growling_V	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042		Izzy						
+STIM-637	E	Clean	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208		Izzy						
+STIM-638	E	Clean_FLAT	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208		Izzy						
+STIM-639	E	Screaming_NV	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208		Izzy						
+STIM-640	E	Screaming_V	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208		Izzy						
+STIM-641	E	Growling_NV	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208		Izzy						
+STIM-642	E	Growling_V	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208		Izzy						
+STIM-643	E	Clean	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184		Izzy						
+STIM-644	E	Clean_FLAT	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184		Izzy						
+STIM-645	E	Screaming_NV	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184		Izzy						
+STIM-646	E	Screaming_V	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184		Izzy						
+STIM-647	E	Growling_NV	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184		Izzy						
+STIM-648	E	Growling_V	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184		Izzy						
+STIM-649	E	Clean											Izzy						
+STIM-650	E	Clean_FLAT											Izzy						
+STIM-651	E	Screaming_NV											Izzy						
+STIM-652	E	Screaming_V											Izzy						
+STIM-653	E	Growling_NV											Izzy						
+STIM-654	E	Growling_V											Izzy						
+STIM-655	E	Clean											Izzy						
+STIM-656	E	Clean_FLAT											Izzy						
+STIM-657	E	Screaming_NV											Izzy						
+STIM-658	E	Screaming_V											Izzy						
+STIM-659	E	Growling_NV											Izzy						
+STIM-660	E	Growling_V											Izzy						
+STIM-661	E	Clean											Izzy						
+STIM-662	E	Clean_FLAT											Izzy						
+STIM-663	E	Screaming_NV											Izzy						
+STIM-664	E	Screaming_V											Izzy						
+STIM-665	E	Growling_NV											Izzy						
+STIM-666	E	Growling_V											Izzy						
+STIM-667	E	Clean											Izzy						
+STIM-668	E	Clean_FLAT											Izzy						
+STIM-669	E	Screaming_NV											Izzy						
+STIM-670	E	Screaming_V											Izzy						
+STIM-671	E	Growling_NV											Izzy						
+STIM-672	E	Growling_V											Izzy						
+STIM-673	E	Clean											Izzy						
+STIM-674	E	Clean_FLAT											Izzy						
+STIM-675	E	Screaming_NV											Izzy						
+STIM-676	E	Screaming_V											Izzy						
+STIM-677	E	Growling_NV											Izzy						
+STIM-678	E	Growling_V											Izzy						
+STIM-679	E	Clean											Izzy						
+STIM-680	E	Clean_FLAT											Izzy						
+STIM-681	E	Screaming_NV											Izzy						
+STIM-682	E	Screaming_V											Izzy						
+STIM-683	E	Growling_NV											Izzy						
+STIM-684	E	Growling_V											Izzy						
+STIM-685	E	Clean											Izzy						
+STIM-686	E	Clean_FLAT											Izzy						
+STIM-687	E	Screaming_NV											Izzy						
+STIM-688	E	Screaming_V											Izzy						
+STIM-689	E	Growling_NV											Izzy						
+STIM-690	E	Growling_V											Izzy						
+STIM-691	E	Clean											Izzy						
+STIM-692	E	Clean_FLAT											Izzy						
+STIM-693	E	Screaming_NV											Izzy						
+STIM-694	E	Screaming_V											Izzy						
+STIM-695	E	Growling_NV											Izzy						
+STIM-696	E	Growling_V											Izzy						
+STIM-697	E	Clean											Izzy						
+STIM-698	E	Clean_FLAT											Izzy						
+STIM-699	E	Screaming_NV											Izzy						
+STIM-700	E	Screaming_V											Izzy						
+STIM-701	E	Growling_NV											Izzy						
+STIM-702	E	Growling_V											Izzy						
+STIM-703	E	Clean											Izzy						
+STIM-704	E	Clean_FLAT											Izzy						
+STIM-705	E	Screaming_NV											Izzy						
+STIM-706	E	Screaming_V											Izzy						
+STIM-707	E	Growling_NV											Izzy						
+STIM-708	E	Growling_V											Izzy						
+STIM-709	E	Clean											Izzy						
+STIM-710	E	Clean_FLAT											Izzy						
+STIM-711	E	Screaming_NV											Izzy						
+STIM-712	E	Screaming_V											Izzy						
+STIM-713	E	Growling_NV											Izzy						
+STIM-714	E	Growling_V											Izzy						
+STIM-715	E	Clean											Izzy						
+STIM-716	E	Clean_FLAT											Izzy						
+STIM-717	E	Screaming_NV											Izzy						
+STIM-718	E	Screaming_V											Izzy						
+STIM-719	E	Growling_NV											Izzy						
+STIM-720	E	Growling_V											Izzy						
+STIM-721	F	Clean	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093								
+STIM-722	F	Clean_FLAT	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093								
+STIM-723	F	Screaming_NV	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093								
+STIM-724	F	Screaming_V	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093								
+STIM-725	F	Growling_NV	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093								
+STIM-726	F	Growling_V	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093								
+STIM-727	F	Clean	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056								
+STIM-728	F	Clean_FLAT	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056								
+STIM-729	F	Screaming_NV	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056								
+STIM-730	F	Screaming_V	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056								
+STIM-731	F	Growling_NV	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056								
+STIM-732	F	Growling_V	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056								
+STIM-733	F	Clean	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108								
+STIM-734	F	Clean_FLAT	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108								
+STIM-735	F	Screaming_NV	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108								
+STIM-736	F	Screaming_V	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108								
+STIM-737	F	Growling_NV	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108								
+STIM-738	F	Growling_V	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108								
+STIM-739	F	Clean	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124								
+STIM-740	F	Clean_FLAT	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124								
+STIM-741	F	Screaming_NV	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124								
+STIM-742	F	Screaming_V	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124								
+STIM-743	F	Growling_NV	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124								
+STIM-744	F	Growling_V	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124								
+STIM-745	F	Clean	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064								
+STIM-746	F	Clean_FLAT	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064								
+STIM-747	F	Screaming_NV	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064								
+STIM-748	F	Screaming_V	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064								
+STIM-749	F	Growling_NV	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064								
+STIM-750	F	Growling_V	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064								
+STIM-751	F	Clean	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155								
+STIM-752	F	Clean_FLAT	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155								
+STIM-753	F	Screaming_NV	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155								
+STIM-754	F	Screaming_V	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155								
+STIM-755	F	Growling_NV	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155								
+STIM-756	F	Growling_V	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155								
+STIM-757	F	Clean	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179								
+STIM-758	F	Clean_FLAT	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179								
+	F	Screaming_NV	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179								
+	F	Screaming_V	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179								
+	F	Growling_NV	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179								
+	F	Growling_V	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179								
+	F	Clean	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087								
+	F	Clean_FLAT	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087								
+	F	Screaming_NV	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087								
+	F	Screaming_V	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087								
+	F	Growling_NV	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087								
+	F	Growling_V	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087								
+	F	Clean	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141								
+	F	Clean_FLAT	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141								
+	F	Screaming_NV	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141								
+	F	Screaming_V	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141								
+	F	Growling_NV	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141								
+	F	Growling_V	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141								
+	F	Clean	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042								
+	F	Clean_FLAT	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042								
+	F	Screaming_NV	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042								
+	F	Screaming_V	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042								
+	F	Growling_NV	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042								
+	F	Growling_V	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042								
+	F	Clean	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208								
+	F	Clean_FLAT	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208								
+	F	Screaming_NV	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208								
+	F	Screaming_V	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208								
+	F	Growling_NV	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208								
+	F	Growling_V	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208								
+	F	Clean	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184								
+	F	Clean_FLAT	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184								
+	F	Screaming_NV	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184								
+	F	Screaming_V	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184								
+	F	Growling_NV	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184								
+	F	Growling_V	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184								
+	F	Clean																	
+	F	Clean_FLAT																	
+	F	Screaming_NV																	
+	F	Screaming_V																	
+	F	Growling_NV																	
+	F	Growling_V																	
+	F	Clean																	
+	F	Clean_FLAT																	
+	F	Screaming_NV																	
+	F	Screaming_V																	
+	F	Growling_NV																	
+	F	Growling_V																	
+	F	Clean																	
+	F	Clean_FLAT																	
+	F	Screaming_NV																	
+	F	Screaming_V																	
+	F	Growling_NV																	
+	F	Growling_V																	
+	F	Clean																	
+	F	Clean_FLAT																	
+	F	Screaming_NV																	
+	F	Screaming_V																	
+	F	Growling_NV																	
+	F	Growling_V																	
+	F	Clean																	
+	F	Clean_FLAT																	
+	F	Screaming_NV																	
+	F	Screaming_V																	
+	F	Growling_NV																	
+	F	Growling_V																	
+	F	Clean																	
+	F	Clean_FLAT																	
+	F	Screaming_NV																	
+	F	Screaming_V																	
+	F	Growling_NV																	
+	F	Growling_V																	
+	F	Clean																	
+	F	Clean_FLAT																	
+	F	Screaming_NV																	
+	F	Screaming_V																	
+	F	Growling_NV																	
+	F	Growling_V																	
+	F	Clean																	
+	F	Clean_FLAT																	
+	F	Screaming_NV																	
+	F	Screaming_V																	
+	F	Growling_NV																	
+	F	Growling_V																	
+	F	Clean																	
+	F	Clean_FLAT																	
+	F	Screaming_NV																	
+	F	Screaming_V																	
+	F	Growling_NV																	
+	F	Growling_V																	
+	F	Clean																	
+	F	Clean_FLAT																	
+	F	Screaming_NV																	
+	F	Screaming_V																	
+	F	Growling_NV																	
+	F	Growling_V																	
+	F	Clean																	
+	F	Clean_FLAT																	
+	F	Screaming_NV																	
+	F	Screaming_V																	
+	F	Growling_NV																	
+	F	Growling_V																	
+	F	Clean																	
+	F	Clean_FLAT																	
+	F	Screaming_NV																	
+	F	Screaming_V																	
+	F	Growling_NV																	
+	F	Growling_V																	
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			

@@ -1,28 +1,28 @@
 Stimuli_ID	Vocalist_ID	Technique	Artist	Song	Lyrics	Duration	Rhythm	Melody	Tempo	Time_signature	Original_Corresponding_Excerpt	WAV_Path	Credits	Session_date_YMD	logMel_Path	Spectral_Centroid	annotations	Age_at_recording	band_spotify_url
-STIM-001	A	Clean	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093	audio/STIM-001.wav	Patrick Smith	20250502					
-STIM-002	A	Clean_FLAT	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093	audio/STIM-002.wav	Patrick Smith	20250502					
-STIM-003	A	Clean	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056	audio/STIM-003.wav	Patrick Smith	20250502					
-STIM-004	A	Clean_FLAT	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056	audio/STIM-004.wav	Patrick Smith	20250502					
-STIM-005	A	Clean	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108	audio/STIM-005.wav	Patrick Smith	20250502					
-STIM-006	A	Clean_FLAT	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108	audio/STIM-006.wav	Patrick Smith	20250502					
-STIM-007	A	Clean	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124	audio/STIM-007.wav	Patrick Smith	20250502					
-STIM-008	A	Clean_FLAT	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124	audio/STIM-008.wav	Patrick Smith	20250502					
-STIM-009	A	Screaming_NV	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064	audio/STIM-009.wav	Patrick Smith	20250502					
-STIM-010	A	Screaming_V	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064	audio/STIM-010.wav	Patrick Smith	20250502					
-STIM-011	A	Screaming_NV	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155	audio/STIM-011.wav	Patrick Smith	20250502					
-STIM-012	A	Screaming_V	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155	audio/STIM-012.wav	Patrick Smith	20250502					
-STIM-013	A	Screaming_NV	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179	audio/STIM-013.wav	Patrick Smith	20250502					
-STIM-014	A	Screaming_V	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179	audio/STIM-014.wav	Patrick Smith	20250502					
-STIM-015	A	Screaming_NV	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087	audio/STIM-015.wav	Patrick Smith	20250502					
-STIM-016	A	Screaming_V	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087	audio/STIM-016.wav	Patrick Smith	20250502					
-STIM-017	A	Growling_NV	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141	audio/STIM-017.wav	Patrick Smith	20250502					
-STIM-018	A	Growling_V	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141	audio/STIM-018.wav	Patrick Smith	20250502					
-STIM-019	A	Growling_NV	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042	audio/STIM-019.wav	Patrick Smith	20250502					
-STIM-020	A	Growling_V	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042	audio/STIM-020.wav	Patrick Smith	20250502					
-STIM-021	A	Growling_NV	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208	audio/STIM-021.wav	Patrick Smith	20250502					
-STIM-022	A	Growling_V	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208	audio/STIM-022.wav	Patrick Smith	20250502					
-STIM-023	A	Growling_NV	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184	audio/STIM-023.wav	Patrick Smith	20250502					
-STIM-024	A	Growling_V	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184	audio/STIM-024.wav	Patrick Smith	20250502					
+STIM-001	A	Clean	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093	audio/STIM-001.wav	Izzy Vincent	20250525					
+STIM-002	A	Clean_FLAT	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093	audio/STIM-002.wav	Izzy Vincent	20250525					
+STIM-003	A	Clean	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056	audio/STIM-003.wav	Izzy Vincent	20250525					
+STIM-004	A	Clean_FLAT	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056	audio/STIM-004.wav	Izzy Vincent	20250525					
+STIM-005	A	Clean	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108	audio/STIM-005.wav	Izzy Vincent	20250525					
+STIM-006	A	Clean_FLAT	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108	audio/STIM-006.wav	Izzy Vincent	20250525					
+STIM-007	A	Clean	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124	audio/STIM-007.wav	Izzy Vincent	20250525					
+STIM-008	A	Clean_FLAT	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124	audio/STIM-008.wav	Izzy Vincent	20250525					
+STIM-009	A	Screaming_NV	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064	audio/STIM-009.wav	Izzy Vincent	20250525					
+STIM-010	A	Screaming_V	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064	audio/STIM-010.wav	Izzy Vincent	20250525					
+STIM-011	A	Screaming_NV	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155	audio/STIM-011.wav	Izzy Vincent	20250525					
+STIM-012	A	Screaming_V	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155	audio/STIM-012.wav	Izzy Vincent	20250525					
+STIM-013	A	Screaming_NV	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179	audio/STIM-013.wav	Izzy Vincent	20250525					
+STIM-014	A	Screaming_V	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179	audio/STIM-014.wav	Izzy Vincent	20250525					
+STIM-015	A	Screaming_NV	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087	audio/STIM-015.wav	Izzy Vincent	20250525					
+STIM-016	A	Screaming_V	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087	audio/STIM-016.wav	Izzy Vincent	20250525					
+STIM-017	A	Growling_NV	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141	audio/STIM-017.wav	Izzy Vincent	20250525					
+STIM-018	A	Growling_V	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141	audio/STIM-018.wav	Izzy Vincent	20250525					
+STIM-019	A	Growling_NV	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042	audio/STIM-019.wav	Izzy Vincent	20250525					
+STIM-020	A	Growling_V	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042	audio/STIM-020.wav	Izzy Vincent	20250525					
+STIM-021	A	Growling_NV	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208	audio/STIM-021.wav	Izzy Vincent	20250525					
+STIM-022	A	Growling_V	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208	audio/STIM-022.wav	Izzy Vincent	20250525					
+STIM-023	A	Growling_NV	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184	audio/STIM-023.wav	Izzy Vincent	20250525					
+STIM-024	A	Growling_V	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184	audio/STIM-024.wav	Izzy Vincent	20250525					
 STIM-025	B	Clean	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093	audio/STIM-025.wav	Daniel Hoke Hossey III	20250506					https://open.spotify.com/artist/1X5JBMNf6cgE6snRQX3fkK?si=4Anj9P0PR2eh8wobhwM4wQ
 STIM-026	B	Clean_FLAT	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093	audio/STIM-026.wav	Daniel Hoke Hossey III	20250506					https://open.spotify.com/artist/1X5JBMNf6cgE6snRQX3fkK?si=4Anj9P0PR2eh8wobhwM4wQ
 STIM-027	B	Clean	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056	audio/STIM-027.wav	Daniel Hoke Hossey III	20250506					https://open.spotify.com/artist/1X5JBMNf6cgE6snRQX3fkK?si=4Anj9P0PR2eh8wobhwM4wQ
@@ -166,30 +166,30 @@ STIM-164	G	Growling_NV	Whitechapel	Dwell in the Shadows	"""This blade cuts deepe
 STIM-165	G	Growling_V	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208	audio/STIM-165.wav	Rachael Chafin	20250513			Female vocalist		
 STIM-166	G	Growling_NV	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184	audio/STIM-166.wav	Rachael Chafin	20250513			Female vocalist		
 STIM-167	G	Growling_V	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184	audio/STIM-167.wav	Rachael Chafin	20250513			Female vocalist		
-STIM-168	A	Clean	Asking Alexandria	Holding On To Something More	"""I hear the screams inside these walls"""				180	4/4	EXCE-116	audio/STIM-168.wav	Patrick Smith	20250502					
-STIM-169	A	Clean_FLAT	Asking Alexandria	Holding On To Something More	"""I hear the screams inside these walls"""				180	4/4	EXCE-116	audio/STIM-169.wav	Patrick Smith	20250502					
-STIM-170	A	Clean	Protest the Hero	A Life Embossed	"""I'm proud of every pit bull"""				140	4/4	EXCE-128	audio/STIM-170.wav	Patrick Smith	20250502					
-STIM-171	A	Clean_FLAT	Protest the Hero	A Life Embossed	"""I'm proud of every pit bull"""				140	4/4	EXCE-128	audio/STIM-171.wav	Patrick Smith	20250502					
-STIM-172	A	Clean	Northlane	Ra	"""There's a desert in my head"""				90	4/4	EXCE-175	audio/STIM-172.wav	Patrick Smith	20250502					
-STIM-173	A	Clean_FLAT	Northlane	Ra	"""There's a desert in my head"""				90	4/4	EXCE-175	audio/STIM-173.wav	Patrick Smith	20250502					
-STIM-174	A	Clean	DragonForce	A Flame for Freedom	"""Life brings hope for us all"""				130	4/4	EXCE-189	audio/STIM-174.wav	Patrick Smith	20250502					
-STIM-175	A	Clean_FLAT	DragonForce	A Flame for Freedom	"""Life brings hope for us all"""				130	4/4	EXCE-189	audio/STIM-175.wav	Patrick Smith	20250502					
-STIM-176	A	Screaming_NV	Suicide Silence	Something Invisible	"""something fucking invisible"""				123	4/4	EXCE-050	audio/STIM-176.wav	Patrick Smith	20250502					
-STIM-177	A	Screaming_V	Suicide Silence	Something Invisible	"""something fucking invisible"""				123	4/4	EXCE-050	audio/STIM-177.wav	Patrick Smith	20250502					
-STIM-178	A	Screaming_NV	Cradle of Filth	Malignant Perfection	"""Temple praise the brazen goddess"""				136	4/4	EXCE-073	audio/STIM-178.wav	Patrick Smith	20250502					
-STIM-179	A	Screaming_V	Cradle of Filth	Malignant Perfection	"""Temple praise the brazen goddess"""				136	4/4	EXCE-073	audio/STIM-179.wav	Patrick Smith	20250502					
-STIM-180	A	Screaming_NV	Parkway Drive	Set To Destroy	"""this is the end of days"""				220	4/4	EXCE-166	audio/STIM-180.wav	Patrick Smith	20250502					
-STIM-181	A	Screaming_V	Parkway Drive	Set To Destroy	"""this is the end of days"""				220	4/4	EXCE-166	audio/STIM-181.wav	Patrick Smith	20250502					
-STIM-182	A	Screaming_NV	The Black Dahlia Murder	The Fog	"""To think we toasted rye"""				150	4/4	EXCE-182	audio/STIM-182.wav	Patrick Smith	20250502					
-STIM-183	A	Screaming_V	The Black Dahlia Murder	The Fog	"""To think we toasted rye"""				150	4/4	EXCE-182	audio/STIM-183.wav	Patrick Smith	20250502					
-STIM-184	A	Growling_NV	Job for a Cowboy	Coalescing Prophecy	"""Have left behind the sign of the cross"""				240	4/4	EXCE-148	audio/STIM-184.wav	Patrick Smith	20250502					
-STIM-185	A	Growling_V	Job for a Cowboy	Coalescing Prophecy	"""Have left behind the sign of the cross"""				240	4/4	EXCE-148	audio/STIM-185.wav	Patrick Smith	20250502					
-STIM-186	A	Growling_NV	The Faceless	Ghost of a Stranger	"""what I have become"""				210	4/4	EXCE-202	audio/STIM-186.wav	Patrick Smith	20250502					
-STIM-187	A	Growling_V	The Faceless	Ghost of a Stranger	"""what I have become"""				210	4/4	EXCE-202	audio/STIM-187.wav	Patrick Smith	20250502					
-STIM-188	A	Growling_NV	Cannibal Corpse	Puncture Wound Massacre	"""Hate for them still drives my rage"""				143	4/4	EXCE-006	audio/STIM-188.wav	Patrick Smith	20250502					
-STIM-189	A	Growling_V	Cannibal Corpse	Puncture Wound Massacre	"""Hate for them still drives my rage"""				143	4/4	EXCE-006	audio/STIM-189.wav	Patrick Smith	20250502					
-STIM-190	A	Growling_NV	Whitechapel	Faces	"""The faces of justice"""				220	4/4	EXCE-139	audio/STIM-190.wav	Patrick Smith	20250502					
-STIM-191	A	Growling_V	Whitechapel	Faces	"""The faces of justice"""				220	4/4	EXCE-139	audio/STIM-191.wav	Patrick Smith	20250502					
+STIM-168	A	Clean	Asking Alexandria	Holding On To Something More	"""I hear the screams inside these walls"""				180	4/4	EXCE-116	audio/STIM-168.wav	Izzy Vincent	20250525					
+STIM-169	A	Clean_FLAT	Asking Alexandria	Holding On To Something More	"""I hear the screams inside these walls"""				180	4/4	EXCE-116	audio/STIM-169.wav	Izzy Vincent	20250525					
+STIM-170	A	Clean	Protest the Hero	A Life Embossed	"""I'm proud of every pit bull"""				140	4/4	EXCE-128	audio/STIM-170.wav	Izzy Vincent	20250525					
+STIM-171	A	Clean_FLAT	Protest the Hero	A Life Embossed	"""I'm proud of every pit bull"""				140	4/4	EXCE-128	audio/STIM-171.wav	Izzy Vincent	20250525					
+STIM-172	A	Clean	Northlane	Ra	"""There's a desert in my head"""				90	4/4	EXCE-175	audio/STIM-172.wav	Izzy Vincent	20250525					
+STIM-173	A	Clean_FLAT	Northlane	Ra	"""There's a desert in my head"""				90	4/4	EXCE-175	audio/STIM-173.wav	Izzy Vincent	20250525					
+STIM-174	A	Clean	DragonForce	A Flame for Freedom	"""Life brings hope for us all"""				130	4/4	EXCE-189	audio/STIM-174.wav	Izzy Vincent	20250525					
+STIM-175	A	Clean_FLAT	DragonForce	A Flame for Freedom	"""Life brings hope for us all"""				130	4/4	EXCE-189	audio/STIM-175.wav	Izzy Vincent	20250525					
+STIM-176	A	Screaming_NV	Suicide Silence	Something Invisible	"""something fucking invisible"""				123	4/4	EXCE-050	audio/STIM-176.wav	Izzy Vincent	20250525					
+STIM-177	A	Screaming_V	Suicide Silence	Something Invisible	"""something fucking invisible"""				123	4/4	EXCE-050	audio/STIM-177.wav	Izzy Vincent	20250525					
+STIM-178	A	Screaming_NV	Cradle of Filth	Malignant Perfection	"""Temple praise the brazen goddess"""				136	4/4	EXCE-073	audio/STIM-178.wav	Izzy Vincent	20250525					
+STIM-179	A	Screaming_V	Cradle of Filth	Malignant Perfection	"""Temple praise the brazen goddess"""				136	4/4	EXCE-073	audio/STIM-179.wav	Izzy Vincent	20250525					
+STIM-180	A	Screaming_NV	Parkway Drive	Set To Destroy	"""this is the end of days"""				220	4/4	EXCE-166	audio/STIM-180.wav	Izzy Vincent	20250525					
+STIM-181	A	Screaming_V	Parkway Drive	Set To Destroy	"""this is the end of days"""				220	4/4	EXCE-166	audio/STIM-181.wav	Izzy Vincent	20250525					
+STIM-182	A	Screaming_NV	The Black Dahlia Murder	The Fog	"""To think we toasted rye"""				150	4/4	EXCE-182	audio/STIM-182.wav	Izzy Vincent	20250525					
+STIM-183	A	Screaming_V	The Black Dahlia Murder	The Fog	"""To think we toasted rye"""				150	4/4	EXCE-182	audio/STIM-183.wav	Izzy Vincent	20250525					
+STIM-184	A	Growling_NV	Job for a Cowboy	Coalescing Prophecy	"""Have left behind the sign of the cross"""				240	4/4	EXCE-148	audio/STIM-184.wav	Izzy Vincent	20250525					
+STIM-185	A	Growling_V	Job for a Cowboy	Coalescing Prophecy	"""Have left behind the sign of the cross"""				240	4/4	EXCE-148	audio/STIM-185.wav	Izzy Vincent	20250525					
+STIM-186	A	Growling_NV	The Faceless	Ghost of a Stranger	"""what I have become"""				210	4/4	EXCE-202	audio/STIM-186.wav	Izzy Vincent	20250525					
+STIM-187	A	Growling_V	The Faceless	Ghost of a Stranger	"""what I have become"""				210	4/4	EXCE-202	audio/STIM-187.wav	Izzy Vincent	20250525					
+STIM-188	A	Growling_NV	Cannibal Corpse	Puncture Wound Massacre	"""Hate for them still drives my rage"""				143	4/4	EXCE-006	audio/STIM-188.wav	Izzy Vincent	20250525					
+STIM-189	A	Growling_V	Cannibal Corpse	Puncture Wound Massacre	"""Hate for them still drives my rage"""				143	4/4	EXCE-006	audio/STIM-189.wav	Izzy Vincent	20250525					
+STIM-190	A	Growling_NV	Whitechapel	Faces	"""The faces of justice"""				220	4/4	EXCE-139	audio/STIM-190.wav	Izzy Vincent	20250525					
+STIM-191	A	Growling_V	Whitechapel	Faces	"""The faces of justice"""				220	4/4	EXCE-139	audio/STIM-191.wav	Izzy Vincent	20250525					
 STIM-192	F	Growling_V	Incantation	Conquered God	"""Only to arise and prevail"""				142	6/8	EXCE-032	audio/STIM-192.wav	Ahad Farooqui	20250511			"no melodic version for STIM-143, this is a substitute"		https://open.spotify.com/artist/1g3TCyXjGgYTBLBUhSrOg5?si=OXM8TmRmRuSHRSUr5FV2Cw
 STIM-193	B	Clean	Metallica	ManUNkind	"""Frozen captive by the nights"""				160	3/4	EXCE-121	audio/STIM-192.wav	Daniel Hoke Hossey III	20250506					https://open.spotify.com/artist/1X5JBMNf6cgE6snRQX3fkK?si=4Anj9P0PR2eh8wobhwM4wQ
 STIM-194	B	Clean_FLAT	Metallica	ManUNkind	"""Frozen captive by the nights"""				160	3/4	EXCE-121	audio/STIM-193.wav	Daniel Hoke Hossey III	20250506					https://open.spotify.com/artist/1X5JBMNf6cgE6snRQX3fkK?si=4Anj9P0PR2eh8wobhwM4wQ
