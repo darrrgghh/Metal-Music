@@ -7,3 +7,4 @@ build/
 unpopularity.py
 stats1
 extra/
+/databases/metal_vox/table_editor.py
