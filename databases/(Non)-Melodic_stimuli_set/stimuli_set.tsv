@@ -383,3 +383,100 @@ STIM-381	K	Growling_NV	Dying Fetus	We Are Your Enemy	"""let's spread the wealth 
 STIM-382	K	Growling_V	Dying Fetus	We Are Your Enemy	"""let's spread the wealth among us"""				180	4/4	EXCE-019	audio/STIM-382.wav	Geoffrey Uhal	20250529					
 STIM-383	K	Growling_NV	Carcass	Hepatic Tissue Fermentation	"""neural cells fataly quenched"""				220	4/4	EXCE-010	audio/STIM-383.wav	Geoffrey Uhal	20250529					
 STIM-384	K	Growling_V	Carcass	Hepatic Tissue Fermentation	"""neural cells fataly quenched"""				220	4/4	EXCE-010	audio/STIM-384.wav	Geoffrey Uhal	20250529					
+STIM-385	N	Clean	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093		Autumn Mouzon	20250531			Female vocalist		
+STIM-386	N	Clean_FLAT	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093		Autumn Mouzon	20250531			Female vocalist		
+STIM-387	N	Clean	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056		Autumn Mouzon	20250531			Female vocalist		
+STIM-388	N	Clean_FLAT	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056		Autumn Mouzon	20250531			Female vocalist		
+STIM-389	N	Clean	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108		Autumn Mouzon	20250531			Female vocalist		
+STIM-390	N	Clean_FLAT	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108		Autumn Mouzon	20250531			Female vocalist		
+STIM-391	N	Clean	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124		Autumn Mouzon	20250531			Female vocalist		
+STIM-392	N	Clean_FLAT	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124		Autumn Mouzon	20250531			Female vocalist		
+STIM-393	N	Screaming_NV	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064		Autumn Mouzon	20250531			Female vocalist		
+STIM-394	N	Screaming_V	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064		Autumn Mouzon	20250531			Female vocalist		
+STIM-395	N	Screaming_NV	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155		Autumn Mouzon	20250531			Female vocalist		
+STIM-396	N	Screaming_V	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155		Autumn Mouzon	20250531			Female vocalist		
+STIM-397	N	Screaming_NV	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179		Autumn Mouzon	20250531			Female vocalist		
+STIM-398	N	Screaming_V	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179		Autumn Mouzon	20250531			Female vocalist		
+STIM-399	N	Screaming_NV	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087		Autumn Mouzon	20250531			Female vocalist		
+STIM-400	N	Screaming_V	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087		Autumn Mouzon	20250531			Female vocalist		
+STIM-401	N	Growling_NV	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141		Autumn Mouzon	20250531			Female vocalist		
+STIM-402	N	Growling_V	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141		Autumn Mouzon	20250531			Female vocalist		
+STIM-403	N	Growling_NV	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042		Autumn Mouzon	20250531			Female vocalist		
+STIM-404	N	Growling_V	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042		Autumn Mouzon	20250531			Female vocalist		
+STIM-405	N	Growling_NV	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208		Autumn Mouzon	20250531			Female vocalist		
+STIM-406	N	Growling_V	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208		Autumn Mouzon	20250531			Female vocalist		
+STIM-407	N	Growling_NV	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184		Autumn Mouzon	20250531			Female vocalist		
+STIM-408	N	Growling_V	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184		Autumn Mouzon	20250531			Female vocalist		
+STIM-409	N	Clean	DragonForce	In a Skyforged Dream	"""The time has come to leave the past behind"""				200	4/4	EXCE-193		Autumn Mouzon	20250531			Female vocalist		
+STIM-410	N	Clean_FLAT	DragonForce	In a Skyforged Dream	"""The time has come to leave the past behind"""				200	4/4	EXCE-193		Autumn Mouzon	20250531			Female vocalist		
+STIM-411	N	Clean	DragonForce	Remembrance Day	"""Into the great battle we ride"""				125	6/8	EXCE-194		Autumn Mouzon	20250531			Female vocalist		
+STIM-412	N	Clean_FLAT	DragonForce	Remembrance Day	"""Into the great battle we ride"""				125	6/8	EXCE-194		Autumn Mouzon	20250531			Female vocalist		
+STIM-413	N	Clean	Killswitch Engage	World Ablaze	"""We alone remain"""				150	6/8	EXCE-105		Autumn Mouzon	20250531			Female vocalist		
+STIM-414	N	Clean_FLAT	Killswitch Engage	World Ablaze	"""We alone remain"""				150	6/8	EXCE-105		Autumn Mouzon	20250531			Female vocalist		
+STIM-415	N	Clean	Asking Alexandria	Let The Dead Take Me	"""Cleanse my pain, let the blood run free"""				150	4/4	EXCE-117		Autumn Mouzon	20250531			Female vocalist		
+STIM-416	N	Clean_FLAT	Asking Alexandria	Let The Dead Take Me	"""Cleanse my pain, let the blood run free"""				150	4/4	EXCE-117		Autumn Mouzon	20250531			Female vocalist		
+STIM-417	N	Screaming_NV	Chelsea Grin	Mourning Hymn	"""Cast into unknown"""				112	4/4	EXCE-089		Autumn Mouzon	20250531			Female vocalist		
+STIM-418	N	Screaming_V	Chelsea Grin	Mourning Hymn	"""Cast into unknown"""				112	4/4	EXCE-089		Autumn Mouzon	20250531			Female vocalist		
+STIM-419	N	Screaming_NV	August Burns Red	A Wish Full of Dreams	"""And restore the foundation"""				165	4/4	EXCE-154		Autumn Mouzon	20250531			Female vocalist		
+STIM-420	N	Screaming_V	August Burns Red	A Wish Full of Dreams	"""And restore the foundation"""				165	4/4	EXCE-154		Autumn Mouzon	20250531			Female vocalist		
+STIM-421	N	Screaming_NV	Parkway Drive	Sleight of Hand	"""That could love this world"""				130	4/4	EXCE-171		Autumn Mouzon	20250531			Female vocalist		
+STIM-422	N	Screaming_V	Parkway Drive	Sleight of Hand	"""That could love this world"""				130	4/4	EXCE-171		Autumn Mouzon	20250531			Female vocalist		
+STIM-423	N	Screaming_NV	The Black Dahlia Murder	The Leather Apron's Scorn	"""Lock your doors and hide"""				150	4/4	EXCE-185		Autumn Mouzon	20250531			Female vocalist		
+STIM-424	N	Screaming_V	The Black Dahlia Murder	The Leather Apron's Scorn	"""Lock your doors and hide"""				150	4/4	EXCE-185		Autumn Mouzon	20250531			Female vocalist		
+STIM-425	N	Growling_NV	Incantation	Thorns Of Everlasting Persecution	"""Crumbled sanctuaries"""				88	4/4	EXCE-030		Autumn Mouzon	20250531			Female vocalist		
+STIM-426	N	Growling_V	Incantation	Thorns Of Everlasting Persecution	"""Crumbled sanctuaries"""				88	4/4	EXCE-030		Autumn Mouzon	20250531			Female vocalist		
+STIM-427	N	Growling_NV	Incantation	Haruspex	"""the fleshy confines of humanity"""				158	6/8	EXCE-035		Autumn Mouzon	20250531			Female vocalist		
+STIM-428	N	Growling_V	Incantation	Haruspex	"""the fleshy confines of humanity"""				158	6/8	EXCE-035		Autumn Mouzon	20250531			Female vocalist		
+STIM-429	N	Growling_NV	Job for a Cowboy	Lords Of Chaos	"""All damned at the dawning of life"""				125	4/4	EXCE-147		Autumn Mouzon	20250531			Female vocalist		
+STIM-430	N	Growling_V	Job for a Cowboy	Lords Of Chaos	"""All damned at the dawning of life"""				125	4/4	EXCE-147		Autumn Mouzon	20250531			Female vocalist		
+STIM-431	N	Growling_NV	Whitechapel	Prayer of Mockery	"""My patience is wearing thin"""				170	4/4	EXCE-138		Autumn Mouzon	20250531			Female vocalist		
+STIM-432	N	Growling_V	Whitechapel	Prayer of Mockery	"""My patience is wearing thin"""				170	4/4	EXCE-138		Autumn Mouzon	20250531			Female vocalist		
+STIM-433	O	Clean	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093		Hunter	20250601					
+STIM-434	O	Clean_FLAT	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""				105	4/4	EXCE-093		Hunter	20250601					
+STIM-435	O	Clean	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056		Hunter	20250601					
+STIM-436	O	Clean_FLAT	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""				135	4/4	EXCE-056		Hunter	20250601					
+STIM-437	O	Clean	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108		Hunter	20250601					
+STIM-438	O	Clean_FLAT	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""				110	4/4	EXCE-108		Hunter	20250601					
+STIM-439	O	Clean	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124		Hunter	20250601					
+STIM-440	O	Clean_FLAT	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""				110	4/4	EXCE-124		Hunter	20250601					
+STIM-441	O	Screaming_NV	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064		Hunter	20250601					
+STIM-442	O	Screaming_V	Architects	A Portrait for the Deceased	"""Then come and drown with me"""				161	4/4	EXCE-064		Hunter	20250601					
+STIM-443	O	Screaming_NV	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155		Hunter	20250601					
+STIM-444	O	Screaming_V	August Burns Red	The Reflective Property	"""A brief wind is swept through"""				180	4/4	EXCE-155		Hunter	20250601					
+STIM-445	O	Screaming_NV	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179		Hunter	20250601					
+STIM-446	O	Screaming_V	Northlane	Metamorphosis	"""And I will overcome this suffering"""				140	4/4	EXCE-179		Hunter	20250601					
+STIM-447	O	Screaming_NV	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087		Hunter	20250601					
+STIM-448	O	Screaming_V	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""				115	4/4	EXCE-087		Hunter	20250601					
+STIM-449	O	Growling_NV	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141		Hunter	20250601					
+STIM-450	O	Growling_V	Whitechapel	The Night Remains	"""Rid yourself and never return"""				155	4/4	EXCE-141		Hunter	20250601					
+STIM-451	O	Growling_NV	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042		Hunter	20250601					
+STIM-452	O	Growling_V	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""				140	3/4	EXCE-042		Hunter	20250601					
+STIM-453	O	Growling_NV	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208		Hunter	20250601					
+STIM-454	O	Growling_V	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""				95	4/4	EXCE-208		Hunter	20250601					
+STIM-455	O	Growling_NV	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184		Hunter	20250601					
+STIM-456	O	Growling_V	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""				110	4/4	EXCE-184		Hunter	20250601					
+STIM-457	O	Clean	Asking Alexandria	Room 138	"""How did you forgive me?"""				180	4/4	EXCE-111		Hunter	20250601					
+STIM-458	O	Clean_FLAT	Asking Alexandria	Room 138	"""How did you forgive me?"""				180	4/4	EXCE-111		Hunter	20250601					
+STIM-459	O	Clean	Killswitch Engage	The Call	"""Leave behind this shell of flesh"""				110	4/4	EXCE-100		Hunter	20250601					
+STIM-460	O	Clean_FLAT	Killswitch Engage	The Call	"""Leave behind this shell of flesh"""				110	4/4	EXCE-100		Hunter	20250601					
+STIM-461	O	Clean	Northlane	Paragon	"""there are no fighters"""				130	4/4	EXCE-172		Hunter	20250601					
+STIM-462	O	Clean_FLAT	Northlane	Paragon	"""there are no fighters"""				130	4/4	EXCE-172		Hunter	20250601					
+STIM-463	O	Clean	DragonForce	The Fire Still Burns	"""Til' we touch the horizon beyond"""				200	4/4	EXCE-192		Hunter	20250601					
+STIM-464	O	Clean_FLAT	DragonForce	The Fire Still Burns	"""Til' we touch the horizon beyond"""				200	4/4	EXCE-192		Hunter	20250601					
+STIM-465	O	Screaming_NV	Killswitch Engage	Time Will Not Remain	"""These are the days"""				189	3/4	EXCE-102		Hunter	20250601					
+STIM-466	O	Screaming_V	Killswitch Engage	Time Will Not Remain	"""These are the days"""				189	3/4	EXCE-102		Hunter	20250601					
+STIM-467	O	Screaming_NV	Avenged Sevenfold	Breaking Their Hold	"""To keep you down behind your back"""				190	4/4	EXCE-058		Hunter	20250601					
+STIM-468	O	Screaming_V	Avenged Sevenfold	Breaking Their Hold	"""To keep you down behind your back"""				190	4/4	EXCE-058		Hunter	20250601					
+STIM-469	O	Screaming_NV	Architects	The Blues	"""I've had to work for everything"""				120	4/4	EXCE-070		Hunter	20250601					
+STIM-470	O	Screaming_V	Architects	The Blues	"""I've had to work for everything"""				120	4/4	EXCE-070		Hunter	20250601					
+STIM-471	O	Screaming_NV	Architects	The Darkest Tomb	"""I know you won't miss"""				160	7/4	EXCE-065		Hunter	20250601					
+STIM-472	O	Screaming_V	Architects	The Darkest Tomb	"""I know you won't miss"""				160	7/4	EXCE-065		Hunter	20250601					
+STIM-473	O	Growling_NV	Job for a Cowboy	Coalescing Prophecy	"""Have left behind the sign of the cross"""				240	4/4	EXCE-148		Hunter	20250601					
+STIM-474	O	Growling_V	Job for a Cowboy	Coalescing Prophecy	"""Have left behind the sign of the cross"""				240	4/4	EXCE-148		Hunter	20250601					
+STIM-475	O	Growling_NV	The Faceless	Ghost of a Stranger	"""what I have become"""				210	4/4	EXCE-202		Hunter	20250601					
+STIM-476	O	Growling_V	The Faceless	Ghost of a Stranger	"""what I have become"""				210	4/4	EXCE-202		Hunter	20250601					
+STIM-477	O	Growling_NV	Cannibal Corpse	Puncture Wound Massacre	"""Hate for them still drives my rage"""				143	4/4	EXCE-006		Hunter	20250601					
+STIM-478	O	Growling_V	Cannibal Corpse	Puncture Wound Massacre	"""Hate for them still drives my rage"""				143	4/4	EXCE-006		Hunter	20250601					
+STIM-479	O	Growling_NV	Whitechapel	Faces	"""The faces of justice"""				220	4/4	EXCE-139		Hunter	20250601					
+STIM-480	O	Growling_V	Whitechapel	Faces	"""The faces of justice"""				220	4/4	EXCE-139		Hunter	20250601					
+																			
