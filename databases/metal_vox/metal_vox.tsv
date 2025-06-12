@@ -456,7 +456,7 @@ VOX-454	J	Screaming_V	Metallica	Crown of Barbed Wire	"""This rusted empire I own
 VOX-455	J	Growling_NV	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-455.wav	Donny Payne	20250602			Male	23		
 VOX-456	J	Growling_V	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-456.wav	Donny Payne	20250602			Male	23		
 VOX-457	J	Clean	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-457.wav	Donny Payne	20250602			Male	23		
-VOX-458	J	Clean_FLAT	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-458.wav	Donny Payne	20250602			Male	23		
+VOX-458	 	Clean_FLAT	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-458.wav	Donny Payne	20250602			Male	23		
 VOX-459	J	Screaming_NV	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-459.wav	Donny Payne	20250602			Male	23		
 VOX-460	J	Screaming_V	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-460.wav	Donny Payne	20250602			Male	23		
 VOX-461	J	Growling_NV	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-461.wav	Donny Payne	20250602			Male	23		
@@ -719,291 +719,291 @@ VOX-717	C	Screaming_NV	Cannibal Corpse	Sanded Faceless	"""Tedious rasping, Pains
 VOX-718	C	Screaming_V	Cannibal Corpse	Sanded Faceless	"""Tedious rasping, Painstakingly grate the skin"""		180	6/8	EXCE-001	audio/VOX-718.wav	Nathan Bagwell Jr.	20250610			Male		https://open.spotify.com/artist/0mAFtuhEzuJs2ouYJ0Lqo7?si=atMso54jTtyvtr7rBUDF8Q	
 VOX-719	C	Growling_NV	Cannibal Corpse	Sanded Faceless	"""Tedious rasping, Painstakingly grate the skin"""		180	6/8	EXCE-001	audio/VOX-719.wav	Nathan Bagwell Jr.	20250610			Male		https://open.spotify.com/artist/0mAFtuhEzuJs2ouYJ0Lqo7?si=atMso54jTtyvtr7rBUDF8Q	
 VOX-720	C	Growling_V	Cannibal Corpse	Sanded Faceless	"""Tedious rasping, Painstakingly grate the skin"""		180	6/8	EXCE-001	audio/VOX-720.wav	Nathan Bagwell Jr.	20250610			Male		https://open.spotify.com/artist/0mAFtuhEzuJs2ouYJ0Lqo7?si=atMso54jTtyvtr7rBUDF8Q	
-VOX-721	A	Clean	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-721.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-722	A	Clean_FLAT	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-722.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-723	A	Screaming_NV	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-723.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-724	A	Screaming_V	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-724.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-725	A	Growling_NV	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-725.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-726	A	Growling_V	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-726.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-727	A	Clean	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-727.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-728	A	Clean_FLAT	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-728.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-729	A	Screaming_NV	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-729.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-730	A	Screaming_V	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-730.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-731	A	Growling_NV	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-731.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-732	A	Growling_V	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-732.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-733	A	Clean	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-733.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-734	A	Clean_FLAT	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-734.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-735	A	Screaming_NV	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-735.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-736	A	Screaming_V	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-736.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-737	A	Growling_NV	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-737.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-738	A	Growling_V	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-738.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-739	A	Clean	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-739.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-740	A	Clean_FLAT	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-740.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-741	A	Screaming_NV	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-741.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-742	A	Screaming_V	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-742.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-743	A	Growling_NV	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-743.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-744	A	Growling_V	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-744.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-745	A	Clean	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-745.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-746	A	Clean_FLAT	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-746.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-747	A	Screaming_NV	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-747.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-748	A	Screaming_V	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-748.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-749	A	Growling_NV	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-749.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-750	A	Growling_V	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-750.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-751	A	Clean	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-751.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-752	A	Clean_FLAT	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-752.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-753	A	Screaming_NV	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-753.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-754	A	Screaming_V	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-754.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-755	A	Growling_NV	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-755.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-756	A	Growling_V	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-756.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-757	A	Clean	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-757.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-758	A	Clean_FLAT	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-758.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-759	A	Screaming_NV	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-759.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-760	A	Screaming_V	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-760.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-761	A	Growling_NV	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-761.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-762	A	Growling_V	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-762.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-763	A	Clean	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-763.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-764	A	Clean_FLAT	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-764.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-765	A	Screaming_NV	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-765.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-766	A	Screaming_V	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-766.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-767	A	Growling_NV	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-767.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-768	A	Growling_V	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-768.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-769	A	Clean	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-769.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-770	A	Clean_FLAT	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-770.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-771	A	Screaming_NV	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-771.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-772	A	Screaming_V	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-772.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-773	A	Growling_NV	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-773.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-774	A	Growling_V	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-774.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-775	A	Clean	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-775.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-776	A	Clean_FLAT	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-776.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-777	A	Screaming_NV	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-777.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-778	A	Screaming_V	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-778.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-779	A	Growling_NV	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-779.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-780	A	Growling_V	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-780.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-781	A	Clean	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-781.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-782	A	Clean_FLAT	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-782.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-783	A	Screaming_NV	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-783.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-784	A	Screaming_V	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-784.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-785	A	Growling_NV	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-785.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-786	A	Growling_V	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-786.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-787	A	Clean	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-787.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-788	A	Clean_FLAT	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-788.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-789	A	Screaming_NV	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-789.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-790	A	Screaming_V	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-790.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-791	A	Growling_NV	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-791.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-792	A	Growling_V	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-792.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-793	A	Clean								audio/VOX-793.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-794	A	Clean_FLAT								audio/VOX-794.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-795	A	Screaming_NV								audio/VOX-795.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-796	A	Screaming_V								audio/VOX-796.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-797	A	Growling_NV								audio/VOX-797.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-798	A	Growling_V								audio/VOX-798.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-799	A	Clean								audio/VOX-799.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-800	A	Clean_FLAT								audio/VOX-800.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-801	A	Screaming_NV								audio/VOX-801.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-802	A	Screaming_V								audio/VOX-802.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-803	A	Growling_NV								audio/VOX-803.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-804	A	Growling_V								audio/VOX-804.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-805	A	Clean								audio/VOX-805.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-806	A	Clean_FLAT								audio/VOX-806.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-807	A	Screaming_NV								audio/VOX-807.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-808	A	Screaming_V								audio/VOX-808.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-809	A	Growling_NV								audio/VOX-809.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-810	A	Growling_V								audio/VOX-810.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-811	A	Clean								audio/VOX-811.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-812	A	Clean_FLAT								audio/VOX-812.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-813	A	Screaming_NV								audio/VOX-813.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-814	A	Screaming_V								audio/VOX-814.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-815	A	Growling_NV								audio/VOX-815.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-816	A	Growling_V								audio/VOX-816.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-817	A	Clean								audio/VOX-817.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-818	A	Clean_FLAT								audio/VOX-818.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-819	A	Screaming_NV								audio/VOX-819.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-820	A	Screaming_V								audio/VOX-820.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-821	A	Growling_NV								audio/VOX-821.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-822	A	Growling_V								audio/VOX-822.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-823	A	Clean								audio/VOX-823.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-824	A	Clean_FLAT								audio/VOX-824.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-825	A	Screaming_NV								audio/VOX-825.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-826	A	Screaming_V								audio/VOX-826.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-827	A	Growling_NV								audio/VOX-827.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-828	A	Growling_V								audio/VOX-828.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-829	A	Clean								audio/VOX-829.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-830	A	Clean_FLAT								audio/VOX-830.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-831	A	Screaming_NV								audio/VOX-831.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-832	A	Screaming_V								audio/VOX-832.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-833	A	Growling_NV								audio/VOX-833.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-834	A	Growling_V								audio/VOX-834.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-835	A	Clean								audio/VOX-835.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-836	A	Clean_FLAT								audio/VOX-836.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-837	A	Screaming_NV								audio/VOX-837.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-838	A	Screaming_V								audio/VOX-838.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-839	A	Growling_NV								audio/VOX-839.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-840	A	Growling_V								audio/VOX-840.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-841	A	Clean								audio/VOX-841.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-842	A	Clean_FLAT								audio/VOX-842.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-843	A	Screaming_NV								audio/VOX-843.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-844	A	Screaming_V								audio/VOX-844.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-845	A	Growling_NV								audio/VOX-845.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-846	A	Growling_V								audio/VOX-846.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-847	A	Clean								audio/VOX-847.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-848	A	Clean_FLAT								audio/VOX-848.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-849	A	Screaming_NV								audio/VOX-849.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-850	A	Screaming_V								audio/VOX-850.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-851	A	Growling_NV								audio/VOX-851.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-852	A	Growling_V								audio/VOX-852.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-853	A	Clean								audio/VOX-853.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-854	A	Clean_FLAT								audio/VOX-854.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-855	A	Screaming_NV								audio/VOX-855.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-856	A	Screaming_V								audio/VOX-856.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-857	A	Growling_NV								audio/VOX-857.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-858	A	Growling_V								audio/VOX-858.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-859	A	Clean								audio/VOX-859.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-860	A	Clean_FLAT								audio/VOX-860.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-861	A	Screaming_NV								audio/VOX-861.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-862	A	Screaming_V								audio/VOX-862.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-863	A	Growling_NV								audio/VOX-863.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-864	A	Growling_V								audio/VOX-864.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-865		Clean	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-865.wav								
-VOX-866		Clean_FLAT	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-866.wav								
-VOX-867		Screaming_NV	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-867.wav								
-VOX-868		Screaming_V	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-868.wav								
-VOX-869		Growling_NV	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-869.wav								
-VOX-870		Growling_V	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-870.wav								
-VOX-871		Clean	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-871.wav								
-VOX-872		Clean_FLAT	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-872.wav								
-VOX-873		Screaming_NV	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-873.wav								
-VOX-874		Screaming_V	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-874.wav								
-VOX-875		Growling_NV	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-875.wav								
-VOX-876		Growling_V	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-876.wav								
-VOX-877		Clean	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-877.wav								
-VOX-878		Clean_FLAT	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-878.wav								
-VOX-879		Screaming_NV	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-879.wav								
-VOX-880		Screaming_V	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-880.wav								
-VOX-881		Growling_NV	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-881.wav								
-VOX-882		Growling_V	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-882.wav								
-VOX-883		Clean	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-883.wav								
-VOX-884		Clean_FLAT	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-884.wav								
-VOX-885		Screaming_NV	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-885.wav								
-VOX-886		Screaming_V	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-886.wav								
-VOX-887		Growling_NV	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-887.wav								
-VOX-888		Growling_V	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-888.wav								
-VOX-889		Clean	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-889.wav								
-VOX-890		Clean_FLAT	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-890.wav								
-VOX-891		Screaming_NV	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-891.wav								
-VOX-892		Screaming_V	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-892.wav								
-VOX-893		Growling_NV	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-893.wav								
-VOX-894		Growling_V	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-894.wav								
-VOX-895		Clean	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-895.wav								
-VOX-896		Clean_FLAT	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-896.wav								
-VOX-897		Screaming_NV	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-897.wav								
-VOX-898		Screaming_V	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-898.wav								
-VOX-899		Growling_NV	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-899.wav								
-VOX-900		Growling_V	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-900.wav								
-VOX-901		Clean	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-901.wav								
-VOX-902		Clean_FLAT	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-902.wav								
-VOX-903		Screaming_NV	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-903.wav								
-VOX-904		Screaming_V	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-904.wav								
-VOX-905		Growling_NV	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-905.wav								
-VOX-906		Growling_V	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-906.wav								
-VOX-907		Clean	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-907.wav								
-VOX-908		Clean_FLAT	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-908.wav								
-VOX-909		Screaming_NV	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-909.wav								
-VOX-910		Screaming_V	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-910.wav								
-VOX-911		Growling_NV	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-911.wav								
-VOX-912		Growling_V	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-912.wav								
-VOX-913		Clean	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-913.wav								
-VOX-914		Clean_FLAT	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-914.wav								
-VOX-915		Screaming_NV	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-915.wav								
-VOX-916		Screaming_V	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-916.wav								
-VOX-917		Growling_NV	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-917.wav								
-VOX-918		Growling_V	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-918.wav								
-VOX-919		Clean	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-919.wav								
-VOX-920		Clean_FLAT	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-920.wav								
-VOX-921		Screaming_NV	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-921.wav								
-VOX-922		Screaming_V	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-922.wav								
-VOX-923		Growling_NV	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-923.wav								
-VOX-924		Growling_V	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-924.wav								
-VOX-925		Clean	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-925.wav								
-VOX-926		Clean_FLAT	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-926.wav								
-VOX-927		Screaming_NV	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-927.wav								
-VOX-928		Screaming_V	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-928.wav								
-VOX-929		Growling_NV	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-929.wav								
-VOX-930		Growling_V	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-930.wav								
-VOX-931		Clean	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-931.wav								
-VOX-932		Clean_FLAT	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-932.wav								
-VOX-933		Screaming_NV	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-933.wav								
-VOX-934		Screaming_V	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-934.wav								
-VOX-935		Growling_NV	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-935.wav								
-VOX-936		Growling_V	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-936.wav								
-VOX-937		Clean								audio/VOX-937.wav								
-VOX-938		Clean_FLAT								audio/VOX-938.wav								
-VOX-939		Screaming_NV								audio/VOX-939.wav								
-VOX-940		Screaming_V								audio/VOX-940.wav								
-VOX-941		Growling_NV								audio/VOX-941.wav								
-VOX-942		Growling_V								audio/VOX-942.wav								
-VOX-943		Clean								audio/VOX-943.wav								
-VOX-944		Clean_FLAT								audio/VOX-944.wav								
-VOX-945		Screaming_NV								audio/VOX-945.wav								
-VOX-946		Screaming_V								audio/VOX-946.wav								
-VOX-947		Growling_NV								audio/VOX-947.wav								
-VOX-948		Growling_V								audio/VOX-948.wav								
-VOX-949		Clean								audio/VOX-949.wav								
-VOX-950		Clean_FLAT								audio/VOX-950.wav								
-VOX-951		Screaming_NV								audio/VOX-951.wav								
-VOX-952		Screaming_V								audio/VOX-952.wav								
-VOX-953		Growling_NV								audio/VOX-953.wav								
-VOX-954		Growling_V								audio/VOX-954.wav								
-VOX-955		Clean								audio/VOX-955.wav								
-VOX-956		Clean_FLAT								audio/VOX-956.wav								
-VOX-957		Screaming_NV								audio/VOX-957.wav								
-VOX-958		Screaming_V								audio/VOX-958.wav								
-VOX-959		Growling_NV								audio/VOX-959.wav								
-VOX-960		Growling_V								audio/VOX-960.wav								
-VOX-961		Clean								audio/VOX-961.wav								
-VOX-962		Clean_FLAT								audio/VOX-962.wav								
-VOX-963		Screaming_NV								audio/VOX-963.wav								
-VOX-964		Screaming_V								audio/VOX-964.wav								
-VOX-965		Growling_NV								audio/VOX-965.wav								
-VOX-966		Growling_V								audio/VOX-966.wav								
-VOX-967		Clean								audio/VOX-967.wav								
-VOX-968		Clean_FLAT								audio/VOX-968.wav								
-VOX-969		Screaming_NV								audio/VOX-969.wav								
-VOX-970		Screaming_V								audio/VOX-970.wav								
-VOX-971		Growling_NV								audio/VOX-971.wav								
-VOX-972		Growling_V								audio/VOX-972.wav								
-VOX-973		Clean								audio/VOX-973.wav								
-VOX-974		Clean_FLAT								audio/VOX-974.wav								
-VOX-975		Screaming_NV								audio/VOX-975.wav								
-VOX-976		Screaming_V								audio/VOX-976.wav								
-VOX-977		Growling_NV								audio/VOX-977.wav								
-VOX-978		Growling_V								audio/VOX-978.wav								
-VOX-979		Clean								audio/VOX-979.wav								
-VOX-980		Clean_FLAT								audio/VOX-980.wav								
-VOX-981		Screaming_NV								audio/VOX-981.wav								
-VOX-982		Screaming_V								audio/VOX-982.wav								
-VOX-983		Growling_NV								audio/VOX-983.wav								
-VOX-984		Growling_V								audio/VOX-984.wav								
-VOX-985		Clean								audio/VOX-985.wav								
-VOX-986		Clean_FLAT								audio/VOX-986.wav								
-VOX-987		Screaming_NV								audio/VOX-987.wav								
-VOX-988		Screaming_V								audio/VOX-988.wav								
-VOX-989		Growling_NV								audio/VOX-989.wav								
-VOX-990		Growling_V								audio/VOX-990.wav								
-VOX-991		Clean								audio/VOX-991.wav								
-VOX-992		Clean_FLAT								audio/VOX-992.wav								
-VOX-993		Screaming_NV								audio/VOX-993.wav								
-VOX-994		Screaming_V								audio/VOX-994.wav								
-VOX-995		Growling_NV								audio/VOX-995.wav								
-VOX-996		Growling_V								audio/VOX-996.wav								
-VOX-997		Clean								audio/VOX-997.wav								
-VOX-998		Clean_FLAT								audio/VOX-998.wav								
-VOX-999		Screaming_NV								audio/VOX-999.wav								
-VOX-1000		Screaming_V								audio/VOX-1000.wav								
-VOX-1001		Growling_NV								audio/VOX-1001.wav								
-VOX-1002		Growling_V								audio/VOX-1002.wav								
-VOX-1003		Clean								audio/VOX-1003.wav								
-VOX-1004		Clean_FLAT								audio/VOX-1004.wav								
-VOX-1005		Screaming_NV								audio/VOX-1005.wav								
-VOX-1006		Screaming_V								audio/VOX-1006.wav								
-VOX-1007		Growling_NV								audio/VOX-1007.wav								
-VOX-1008		Growling_V								audio/VOX-1008.wav								
+VOX-721	H	Clean	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-721.wav	Jerry Sola				Male	25		
+VOX-722	H	Clean_FLAT	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-722.wav	Jerry Sola				Male	25		
+VOX-723	H	Screaming_NV	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-723.wav	Jerry Sola				Male	25		
+VOX-724	H	Screaming_V	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-724.wav	Jerry Sola				Male	25		
+VOX-725	H	Growling_NV	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-725.wav	Jerry Sola				Male	25		
+VOX-726	H	Growling_V	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-726.wav	Jerry Sola				Male	25		
+VOX-727	H	Clean	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-727.wav	Jerry Sola				Male	25		
+VOX-728	H	Clean_FLAT	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-728.wav	Jerry Sola				Male	25		
+VOX-729	H	Screaming_NV	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-729.wav	Jerry Sola				Male	25		
+VOX-730	H	Screaming_V	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-730.wav	Jerry Sola				Male	25		
+VOX-731	H	Growling_NV	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-731.wav	Jerry Sola				Male	25		
+VOX-732	H	Growling_V	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-732.wav	Jerry Sola				Male	25		
+VOX-733	H	Clean	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-733.wav	Jerry Sola				Male	25		
+VOX-734	H	Clean_FLAT	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-734.wav	Jerry Sola				Male	25		
+VOX-735	H	Screaming_NV	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-735.wav	Jerry Sola				Male	25		
+VOX-736	H	Screaming_V	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-736.wav	Jerry Sola				Male	25		
+VOX-737	H	Growling_NV	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-737.wav	Jerry Sola				Male	25		
+VOX-738	H	Growling_V	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-738.wav	Jerry Sola				Male	25		
+VOX-739	H	Clean	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-739.wav	Jerry Sola				Male	25		
+VOX-740	H	Clean_FLAT	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-740.wav	Jerry Sola				Male	25		
+VOX-741	H	Screaming_NV	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-741.wav	Jerry Sola				Male	25		
+VOX-742	H	Screaming_V	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-742.wav	Jerry Sola				Male	25		
+VOX-743	H	Growling_NV	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-743.wav	Jerry Sola				Male	25		
+VOX-744	H	Growling_V	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-744.wav	Jerry Sola				Male	25		
+VOX-745	H	Clean	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-745.wav	Jerry Sola				Male	25		
+VOX-746	H	Clean_FLAT	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-746.wav	Jerry Sola				Male	25		
+VOX-747	H	Screaming_NV	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-747.wav	Jerry Sola				Male	25		
+VOX-748	H	Screaming_V	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-748.wav	Jerry Sola				Male	25		
+VOX-749	H	Growling_NV	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-749.wav	Jerry Sola				Male	25		
+VOX-750	H	Growling_V	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-750.wav	Jerry Sola				Male	25		
+VOX-751	H	Clean	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-751.wav	Jerry Sola				Male	25		
+VOX-752	H	Clean_FLAT	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-752.wav	Jerry Sola				Male	25		
+VOX-753	H	Screaming_NV	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-753.wav	Jerry Sola				Male	25		
+VOX-754	H	Screaming_V	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-754.wav	Jerry Sola				Male	25		
+VOX-755	H	Growling_NV	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-755.wav	Jerry Sola				Male	25		
+VOX-756	H	Growling_V	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-756.wav	Jerry Sola				Male	25		
+VOX-757	H	Clean	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-757.wav	Jerry Sola				Male	25		
+VOX-758	H	Clean_FLAT	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-758.wav	Jerry Sola				Male	25		
+VOX-759	H	Screaming_NV	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-759.wav	Jerry Sola				Male	25		
+VOX-760	H	Screaming_V	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-760.wav	Jerry Sola				Male	25		
+VOX-761	H	Growling_NV	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-761.wav	Jerry Sola				Male	25		
+VOX-762	H	Growling_V	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-762.wav	Jerry Sola				Male	25		
+VOX-763	H	Clean	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-763.wav	Jerry Sola				Male	25		
+VOX-764	H	Clean_FLAT	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-764.wav	Jerry Sola				Male	25		
+VOX-765	H	Screaming_NV	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-765.wav	Jerry Sola				Male	25		
+VOX-766	H	Screaming_V	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-766.wav	Jerry Sola				Male	25		
+VOX-767	H	Growling_NV	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-767.wav	Jerry Sola				Male	25		
+VOX-768	H	Growling_V	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-768.wav	Jerry Sola				Male	25		
+VOX-769	H	Clean	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-769.wav	Jerry Sola				Male	25		
+VOX-770	H	Clean_FLAT	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-770.wav	Jerry Sola				Male	25		
+VOX-771	H	Screaming_NV	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-771.wav	Jerry Sola				Male	25		
+VOX-772	H	Screaming_V	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-772.wav	Jerry Sola				Male	25		
+VOX-773	H	Growling_NV	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-773.wav	Jerry Sola				Male	25		
+VOX-774	H	Growling_V	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-774.wav	Jerry Sola				Male	25		
+VOX-775	H	Clean	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-775.wav	Jerry Sola				Male	25		
+VOX-776	H	Clean_FLAT	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-776.wav	Jerry Sola				Male	25		
+VOX-777	H	Screaming_NV	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-777.wav	Jerry Sola				Male	25		
+VOX-778	H	Screaming_V	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-778.wav	Jerry Sola				Male	25		
+VOX-779	H	Growling_NV	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-779.wav	Jerry Sola				Male	25		
+VOX-780	H	Growling_V	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-780.wav	Jerry Sola				Male	25		
+VOX-781	H	Clean	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-781.wav	Jerry Sola				Male	25		
+VOX-782	H	Clean_FLAT	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-782.wav	Jerry Sola				Male	25		
+VOX-783	H	Screaming_NV	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-783.wav	Jerry Sola				Male	25		
+VOX-784	H	Screaming_V	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-784.wav	Jerry Sola				Male	25		
+VOX-785	H	Growling_NV	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-785.wav	Jerry Sola				Male	25		
+VOX-786	H	Growling_V	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-786.wav	Jerry Sola				Male	25		
+VOX-787	H	Clean	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-787.wav	Jerry Sola				Male	25		
+VOX-788	H	Clean_FLAT	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-788.wav	Jerry Sola				Male	25		
+VOX-789	H	Screaming_NV	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-789.wav	Jerry Sola				Male	25		
+VOX-790	H	Screaming_V	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-790.wav	Jerry Sola				Male	25		
+VOX-791	H	Growling_NV	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-791.wav	Jerry Sola				Male	25		
+VOX-792	H	Growling_V	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-792.wav	Jerry Sola				Male	25		
+VOX-793	H	Clean	DragonForce							audio/VOX-793.wav	Jerry Sola				Male	25		
+VOX-794	H	Clean_FLAT	DragonForce							audio/VOX-794.wav	Jerry Sola				Male	25		
+VOX-795	H	Screaming_NV	DragonForce							audio/VOX-795.wav	Jerry Sola				Male	25		
+VOX-796	H	Screaming_V	DragonForce							audio/VOX-796.wav	Jerry Sola				Male	25		
+VOX-797	H	Growling_NV	DragonForce							audio/VOX-797.wav	Jerry Sola				Male	25		
+VOX-798	H	Growling_V	DragonForce							audio/VOX-798.wav	Jerry Sola				Male	25		
+VOX-799	H	Clean	DragonForce							audio/VOX-799.wav	Jerry Sola				Male	25		
+VOX-800	H	Clean_FLAT	DragonForce							audio/VOX-800.wav	Jerry Sola				Male	25		
+VOX-801	H	Screaming_NV	DragonForce							audio/VOX-801.wav	Jerry Sola				Male	25		
+VOX-802	H	Screaming_V	DragonForce							audio/VOX-802.wav	Jerry Sola				Male	25		
+VOX-803	H	Growling_NV	DragonForce							audio/VOX-803.wav	Jerry Sola				Male	25		
+VOX-804	H	Growling_V	DragonForce							audio/VOX-804.wav	Jerry Sola				Male	25		
+VOX-805	H	Clean								audio/VOX-805.wav	Jerry Sola				Male	25		
+VOX-806	H	Clean_FLAT								audio/VOX-806.wav	Jerry Sola				Male	25		
+VOX-807	H	Screaming_NV								audio/VOX-807.wav	Jerry Sola				Male	25		
+VOX-808	H	Screaming_V								audio/VOX-808.wav	Jerry Sola				Male	25		
+VOX-809	H	Growling_NV								audio/VOX-809.wav	Jerry Sola				Male	25		
+VOX-810	H	Growling_V								audio/VOX-810.wav	Jerry Sola				Male	25		
+VOX-811	H	Clean								audio/VOX-811.wav	Jerry Sola				Male	25		
+VOX-812	H	Clean_FLAT								audio/VOX-812.wav	Jerry Sola				Male	25		
+VOX-813	H	Screaming_NV								audio/VOX-813.wav	Jerry Sola				Male	25		
+VOX-814	H	Screaming_V								audio/VOX-814.wav	Jerry Sola				Male	25		
+VOX-815	H	Growling_NV								audio/VOX-815.wav	Jerry Sola				Male	25		
+VOX-816	H	Growling_V								audio/VOX-816.wav	Jerry Sola				Male	25		
+VOX-817	H	Clean								audio/VOX-817.wav	Jerry Sola				Male	25		
+VOX-818	H	Clean_FLAT								audio/VOX-818.wav	Jerry Sola				Male	25		
+VOX-819	H	Screaming_NV								audio/VOX-819.wav	Jerry Sola				Male	25		
+VOX-820	H	Screaming_V								audio/VOX-820.wav	Jerry Sola				Male	25		
+VOX-821	H	Growling_NV								audio/VOX-821.wav	Jerry Sola				Male	25		
+VOX-822	H	Growling_V								audio/VOX-822.wav	Jerry Sola				Male	25		
+VOX-823	H	Clean								audio/VOX-823.wav	Jerry Sola				Male	25		
+VOX-824	H	Clean_FLAT								audio/VOX-824.wav	Jerry Sola				Male	25		
+VOX-825	H	Screaming_NV								audio/VOX-825.wav	Jerry Sola				Male	25		
+VOX-826	H	Screaming_V								audio/VOX-826.wav	Jerry Sola				Male	25		
+VOX-827	H	Growling_NV								audio/VOX-827.wav	Jerry Sola				Male	25		
+VOX-828	H	Growling_V								audio/VOX-828.wav	Jerry Sola				Male	25		
+VOX-829	H	Clean								audio/VOX-829.wav	Jerry Sola				Male	25		
+VOX-830	H	Clean_FLAT								audio/VOX-830.wav	Jerry Sola				Male	25		
+VOX-831	H	Screaming_NV								audio/VOX-831.wav	Jerry Sola				Male	25		
+VOX-832	H	Screaming_V								audio/VOX-832.wav	Jerry Sola				Male	25		
+VOX-833	H	Growling_NV								audio/VOX-833.wav	Jerry Sola				Male	25		
+VOX-834	H	Growling_V								audio/VOX-834.wav	Jerry Sola				Male	25		
+VOX-835	H	Clean								audio/VOX-835.wav	Jerry Sola				Male	25		
+VOX-836	H	Clean_FLAT								audio/VOX-836.wav	Jerry Sola				Male	25		
+VOX-837	H	Screaming_NV								audio/VOX-837.wav	Jerry Sola				Male	25		
+VOX-838	H	Screaming_V								audio/VOX-838.wav	Jerry Sola				Male	25		
+VOX-839	H	Growling_NV								audio/VOX-839.wav	Jerry Sola				Male	25		
+VOX-840	H	Growling_V								audio/VOX-840.wav	Jerry Sola				Male	25		
+VOX-841	H	Clean								audio/VOX-841.wav	Jerry Sola				Male	25		
+VOX-842	H	Clean_FLAT								audio/VOX-842.wav	Jerry Sola				Male	25		
+VOX-843	H	Screaming_NV								audio/VOX-843.wav	Jerry Sola				Male	25		
+VOX-844	H	Screaming_V								audio/VOX-844.wav	Jerry Sola				Male	25		
+VOX-845	H	Growling_NV								audio/VOX-845.wav	Jerry Sola				Male	25		
+VOX-846	H	Growling_V								audio/VOX-846.wav	Jerry Sola				Male	25		
+VOX-847	H	Clean								audio/VOX-847.wav	Jerry Sola				Male	25		
+VOX-848	H	Clean_FLAT								audio/VOX-848.wav	Jerry Sola				Male	25		
+VOX-849	H	Screaming_NV								audio/VOX-849.wav	Jerry Sola				Male	25		
+VOX-850	H	Screaming_V								audio/VOX-850.wav	Jerry Sola				Male	25		
+VOX-851	H	Growling_NV								audio/VOX-851.wav	Jerry Sola				Male	25		
+VOX-852	H	Growling_V								audio/VOX-852.wav	Jerry Sola				Male	25		
+VOX-853	H	Clean								audio/VOX-853.wav	Jerry Sola				Male	25		
+VOX-854	H	Clean_FLAT								audio/VOX-854.wav	Jerry Sola				Male	25		
+VOX-855	H	Screaming_NV								audio/VOX-855.wav	Jerry Sola				Male	25		
+VOX-856	H	Screaming_V								audio/VOX-856.wav	Jerry Sola				Male	25		
+VOX-857	H	Growling_NV								audio/VOX-857.wav	Jerry Sola				Male	25		
+VOX-858	H	Growling_V								audio/VOX-858.wav	Jerry Sola				Male	25		
+VOX-859	H	Clean								audio/VOX-859.wav	Jerry Sola				Male	25		
+VOX-860	H	Clean_FLAT								audio/VOX-860.wav	Jerry Sola				Male	25		
+VOX-861	H	Screaming_NV								audio/VOX-861.wav	Jerry Sola				Male	25		
+VOX-862	H	Screaming_V								audio/VOX-862.wav	Jerry Sola				Male	25		
+VOX-863	H	Growling_NV								audio/VOX-863.wav	Jerry Sola				Male	25		
+VOX-864	H	Growling_V								audio/VOX-864.wav	Jerry Sola				Male	25		
+VOX-865	A	Clean	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-865.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-866	A	Clean_FLAT	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-866.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-867	A	Screaming_NV	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-867.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-868	A	Screaming_V	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-868.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-869	A	Growling_NV	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-869.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-870	A	Growling_V	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-870.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-871	A	Clean	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-871.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-872	A	Clean_FLAT	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-872.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-873	A	Screaming_NV	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-873.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-874	A	Screaming_V	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-874.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-875	A	Growling_NV	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-875.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-876	A	Growling_V	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-876.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-877	A	Clean	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-877.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-878	A	Clean_FLAT	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-878.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-879	A	Screaming_NV	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-879.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-880	A	Screaming_V	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-880.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-881	A	Growling_NV	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-881.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-882	A	Growling_V	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-882.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-883	A	Clean	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-883.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-884	A	Clean_FLAT	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-884.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-885	A	Screaming_NV	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-885.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-886	A	Screaming_V	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-886.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-887	A	Growling_NV	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-887.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-888	A	Growling_V	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-888.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-889	A	Clean	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-889.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-890	A	Clean_FLAT	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-890.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-891	A	Screaming_NV	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-891.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-892	A	Screaming_V	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-892.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-893	A	Growling_NV	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-893.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-894	A	Growling_V	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-894.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-895	A	Clean	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-895.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-896	A	Clean_FLAT	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-896.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-897	A	Screaming_NV	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-897.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-898	A	Screaming_V	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-898.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-899	A	Growling_NV	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-899.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-900	A	Growling_V	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-900.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-901	A	Clean	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-901.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-902	A	Clean_FLAT	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-902.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-903	A	Screaming_NV	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-903.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-904	A	Screaming_V	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-904.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-905	A	Growling_NV	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-905.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-906	A	Growling_V	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-906.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-907	A	Clean	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-907.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-908	A	Clean_FLAT	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-908.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-909	A	Screaming_NV	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-909.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-910	A	Screaming_V	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-910.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-911	A	Growling_NV	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-911.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-912	A	Growling_V	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-912.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-913	A	Clean	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-913.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-914	A	Clean_FLAT	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-914.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-915	A	Screaming_NV	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-915.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-916	A	Screaming_V	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-916.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-917	A	Growling_NV	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-917.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-918	A	Growling_V	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-918.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-919	A	Clean	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-919.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-920	A	Clean_FLAT	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-920.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-921	A	Screaming_NV	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-921.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-922	A	Screaming_V	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-922.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-923	A	Growling_NV	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-923.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-924	A	Growling_V	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-924.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-925	A	Clean	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-925.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-926	A	Clean_FLAT	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-926.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-927	A	Screaming_NV	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-927.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-928	A	Screaming_V	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-928.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-929	A	Growling_NV	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-929.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-930	A	Growling_V	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-930.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-931	A	Clean	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-931.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-932	A	Clean_FLAT	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-932.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-933	A	Screaming_NV	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-933.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-934	A	Screaming_V	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-934.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-935	A	Growling_NV	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-935.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-936	A	Growling_V	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-936.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-937	A	Clean								audio/VOX-937.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-938	A	Clean_FLAT								audio/VOX-938.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-939	A	Screaming_NV								audio/VOX-939.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-940	A	Screaming_V								audio/VOX-940.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-941	A	Growling_NV								audio/VOX-941.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-942	A	Growling_V								audio/VOX-942.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-943	A	Clean								audio/VOX-943.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-944	A	Clean_FLAT								audio/VOX-944.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-945	A	Screaming_NV								audio/VOX-945.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-946	A	Screaming_V								audio/VOX-946.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-947	A	Growling_NV								audio/VOX-947.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-948	A	Growling_V								audio/VOX-948.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-949	A	Clean								audio/VOX-949.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-950	A	Clean_FLAT								audio/VOX-950.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-951	A	Screaming_NV								audio/VOX-951.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-952	A	Screaming_V								audio/VOX-952.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-953	A	Growling_NV								audio/VOX-953.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-954	A	Growling_V								audio/VOX-954.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-955	A	Clean								audio/VOX-955.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-956	A	Clean_FLAT								audio/VOX-956.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-957	A	Screaming_NV								audio/VOX-957.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-958	A	Screaming_V								audio/VOX-958.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-959	A	Growling_NV								audio/VOX-959.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-960	A	Growling_V								audio/VOX-960.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-961	A	Clean								audio/VOX-961.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-962	A	Clean_FLAT								audio/VOX-962.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-963	A	Screaming_NV								audio/VOX-963.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-964	A	Screaming_V								audio/VOX-964.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-965	A	Growling_NV								audio/VOX-965.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-966	A	Growling_V								audio/VOX-966.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-967	A	Clean								audio/VOX-967.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-968	A	Clean_FLAT								audio/VOX-968.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-969	A	Screaming_NV								audio/VOX-969.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-970	A	Screaming_V								audio/VOX-970.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-971	A	Growling_NV								audio/VOX-971.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-972	A	Growling_V								audio/VOX-972.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-973	A	Clean								audio/VOX-973.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-974	A	Clean_FLAT								audio/VOX-974.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-975	A	Screaming_NV								audio/VOX-975.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-976	A	Screaming_V								audio/VOX-976.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-977	A	Growling_NV								audio/VOX-977.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-978	A	Growling_V								audio/VOX-978.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-979	A	Clean								audio/VOX-979.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-980	A	Clean_FLAT								audio/VOX-980.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-981	A	Screaming_NV								audio/VOX-981.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-982	A	Screaming_V								audio/VOX-982.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-983	A	Growling_NV								audio/VOX-983.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-984	A	Growling_V								audio/VOX-984.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-985	A	Clean								audio/VOX-985.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-986	A	Clean_FLAT								audio/VOX-986.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-987	A	Screaming_NV								audio/VOX-987.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-988	A	Screaming_V								audio/VOX-988.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-989	A	Growling_NV								audio/VOX-989.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-990	A	Growling_V								audio/VOX-990.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-991	A	Clean								audio/VOX-991.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-992	A	Clean_FLAT								audio/VOX-992.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-993	A	Screaming_NV								audio/VOX-993.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-994	A	Screaming_V								audio/VOX-994.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-995	A	Growling_NV								audio/VOX-995.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-996	A	Growling_V								audio/VOX-996.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-997	A	Clean								audio/VOX-997.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-998	A	Clean_FLAT								audio/VOX-998.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-999	A	Screaming_NV								audio/VOX-999.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-1000	A	Screaming_V								audio/VOX-1000.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-1001	A	Growling_NV								audio/VOX-1001.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-1002	A	Growling_V								audio/VOX-1002.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-1003	A	Clean								audio/VOX-1003.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-1004	A	Clean_FLAT								audio/VOX-1004.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-1005	A	Screaming_NV								audio/VOX-1005.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-1006	A	Screaming_V								audio/VOX-1006.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-1007	A	Growling_NV								audio/VOX-1007.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
+VOX-1008	A	Growling_V								audio/VOX-1008.wav	Izzy Vincent				Male		https://fadelessband.wixsite.com/fadelessband	
