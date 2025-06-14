@@ -4,8 +4,9 @@
 ## Overview  
 The EMVT (Extreme Metal Vocal Techniques) Database is a large-scale dataset currently in development, containing over **1000 professionally recorded vocal fragments** representing a wide range of extreme vocal techniques and vocal effects.
 
-Unlike the more structured stimulus sets (e.g., Triple Twelve, METALVOX), the EMVT database is designed as a **broad and extensible reference collection** for music information retrieval, machine learning, and perceptual studies on extreme vocals. The dataset includes both controlled recordings and diverse experimental material, providing a rich resource for classification, acoustic analysis, and perceptual modeling.
-
+Unlike the more structured stimulus sets (e.g., Triple Twelve, METALVOX), the EMVT database is designed as a **broad and extensible reference collection** for music information retrieval, machine learning, and perceptual studies on extreme vocals. 
+The dataset includes both controlled recordings and diverse experimental material, providing a rich resource for classification, acoustic analysis, and perceptual modeling.
+The database features recordings from **15 vocalists** (13 male, 2 female), each contributing unique vocalizations across various techniques and experimental conditions.
 ## Key Features
 
 - **1000+ annotated vocal excerpts**

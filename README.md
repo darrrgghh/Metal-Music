@@ -42,8 +42,6 @@ This repository includes several curated datasets used in the study of extreme m
   The database is currently under construction and will be released in future versions of this repository.  
   📄 Documentation and metadata will be available in `databases/EMVT_database/README.md` once finalized.
 
-- **EMVT Database**
-
 Each dataset is accompanied by audio files located in the corresponding `audio/` folder and is referenced by its metadata table. These resources are designed to support reproducibility and transparency in research on metal vocal perception.
 
 # Spotify Tools
