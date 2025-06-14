@@ -1,9 +1,11 @@
-## Triple Twelve Stimuli Set: 3 Vocal Techniques × 2 Conditions
+## "Triple Twelve" Stimuli Set
 
 This set contains recordings from 12 vocalists (10 male, 2 female) who each performed 12 identical vocal fragments* and 12 unique fragments using three vocal techniques (Clean, Screaming, Growling), recorded in two conditions:
 
 - With melodic context
 - Without melodic context (isolated or with melodic contour for extreme vocals)
+
+> _**Twelve vocalists × Twelve shared songs × Twelve unique songs: that's the logic behind this set.**_
 
 Each vocalist re-recorded real musical fragments in both conditions. 
 Musical examples were randomly selected from the excerpts dataset included in this project. 
