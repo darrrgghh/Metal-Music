@@ -1,7 +1,7 @@
 # Metal Music Databases
 
 This directory contains all the datasets developed as part of the research on the perception, aesthetics, and acoustic structure of extreme metal vocals. 
-Each subdirectory includes a specific database with its own metadata files, audio folder (if applicable), and a dedicated `README.md` describing its contents, structure, and purpose.
+Each subdirectory includes a specific database with its own metadata files, audio folder and a dedicated `README.md` describing its contents, structure, and purpose.
 
 ## Available Datasets
 
