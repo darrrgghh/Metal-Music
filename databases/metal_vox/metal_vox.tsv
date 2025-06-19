@@ -1,148 +1,148 @@
 Stimuli_ID	Vocalist_ID	Technique	Artist	Song	Lyrics	Duration	Tempo	Time_signature	Original_Corresponding_Excerpt	WAV_Path	Credits	Session_date_YMD	logMel_Path	Spectral_Centroid	Gender	Age_at_recording	band_url	annotations
-VOX-001	K	Clean	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-001.wav	Geoffrey Uhal	20250529			Male			
-VOX-002	K	Clean_FLAT	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-002.wav	Geoffrey Uhal	20250529			Male			
-VOX-003	K	Screaming_NV	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-003.wav	Geoffrey Uhal	20250529			Male			
-VOX-004	K	Screaming_V	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-004.wav	Geoffrey Uhal	20250529			Male			
-VOX-005	K	Growling_NV	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-005.wav	Geoffrey Uhal	20250529			Male			
-VOX-006	K	Growling_V	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-006.wav	Geoffrey Uhal	20250529			Male			
-VOX-007	K	Clean	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-007.wav	Geoffrey Uhal	20250529			Male			
-VOX-008	K	Clean_FLAT	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-008.wav	Geoffrey Uhal	20250529			Male			
-VOX-009	K	Screaming_NV	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-009.wav	Geoffrey Uhal	20250529			Male			
-VOX-010	K	Screaming_V	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-010.wav	Geoffrey Uhal	20250529			Male			
-VOX-011	K	Growling_NV	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-011.wav	Geoffrey Uhal	20250529			Male			
-VOX-012	K	Growling_V	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-012.wav	Geoffrey Uhal	20250529			Male			
-VOX-013	K	Clean	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-013.wav	Geoffrey Uhal	20250529			Male			
-VOX-014	K	Clean_FLAT	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-014.wav	Geoffrey Uhal	20250529			Male			
-VOX-015	K	Screaming_NV	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-015.wav	Geoffrey Uhal	20250529			Male			
-VOX-016	K	Screaming_V	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-016.wav	Geoffrey Uhal	20250529			Male			
-VOX-017	K	Growling_NV	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-017.wav	Geoffrey Uhal	20250529			Male			
-VOX-018	K	Growling_V	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-018.wav	Geoffrey Uhal	20250529			Male			
-VOX-019	K	Clean	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-019.wav	Geoffrey Uhal	20250529			Male			
-VOX-020	K	Clean_FLAT	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-020.wav	Geoffrey Uhal	20250529			Male			
-VOX-021	K	Screaming_NV	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-021.wav	Geoffrey Uhal	20250529			Male			
-VOX-022	K	Screaming_V	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-022.wav	Geoffrey Uhal	20250529			Male			
-VOX-023	K	Growling_NV	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-023.wav	Geoffrey Uhal	20250529			Male			
-VOX-024	K	Growling_V	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-024.wav	Geoffrey Uhal	20250529			Male			
-VOX-025	K	Clean	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-025.wav	Geoffrey Uhal	20250529			Male			
-VOX-026	K	Clean_FLAT	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-026.wav	Geoffrey Uhal	20250529			Male			
-VOX-027	K	Screaming_NV	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-027.wav	Geoffrey Uhal	20250529			Male			
-VOX-028	K	Screaming_V	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-028.wav	Geoffrey Uhal	20250529			Male			
-VOX-029	K	Growling_NV	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-029.wav	Geoffrey Uhal	20250529			Male			
-VOX-030	K	Growling_V	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-030.wav	Geoffrey Uhal	20250529			Male			
-VOX-031	K	Clean	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-031.wav	Geoffrey Uhal	20250529			Male			
-VOX-032	K	Clean_FLAT	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-032.wav	Geoffrey Uhal	20250529			Male			
-VOX-033	K	Screaming_NV	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-033.wav	Geoffrey Uhal	20250529			Male			
-VOX-034	K	Screaming_V	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-034.wav	Geoffrey Uhal	20250529			Male			
-VOX-035	K	Growling_NV	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-035.wav	Geoffrey Uhal	20250529			Male			
-VOX-036	K	Growling_V	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-036.wav	Geoffrey Uhal	20250529			Male			
-VOX-037	K	Clean	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-037.wav	Geoffrey Uhal	20250529			Male			
-VOX-038	K	Clean_FLAT	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-038.wav	Geoffrey Uhal	20250529			Male			
-VOX-039	K	Screaming_NV	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-039.wav	Geoffrey Uhal	20250529			Male			
-VOX-040	K	Screaming_V	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-040.wav	Geoffrey Uhal	20250529			Male			
-VOX-041	K	Growling_NV	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-041.wav	Geoffrey Uhal	20250529			Male			
-VOX-042	K	Growling_V	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-042.wav	Geoffrey Uhal	20250529			Male			
-VOX-043	K	Clean	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-043.wav	Geoffrey Uhal	20250529			Male			
-VOX-044	K	Clean_FLAT	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-044.wav	Geoffrey Uhal	20250529			Male			
-VOX-045	K	Screaming_NV	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-045.wav	Geoffrey Uhal	20250529			Male			
-VOX-046	K	Screaming_V	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-046.wav	Geoffrey Uhal	20250529			Male			
-VOX-047	K	Growling_NV	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-047.wav	Geoffrey Uhal	20250529			Male			
-VOX-048	K	Growling_V	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-048.wav	Geoffrey Uhal	20250529			Male			
-VOX-049	K	Clean	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-049.wav	Geoffrey Uhal	20250529			Male			
-VOX-050	K	Clean_FLAT	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-050.wav	Geoffrey Uhal	20250529			Male			
-VOX-051	K	Screaming_NV	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-051.wav	Geoffrey Uhal	20250529			Male			
-VOX-052	K	Screaming_V	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-052.wav	Geoffrey Uhal	20250529			Male			
-VOX-053	K	Growling_NV	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-053.wav	Geoffrey Uhal	20250529			Male			
-VOX-054	K	Growling_V	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-054.wav	Geoffrey Uhal	20250529			Male			
-VOX-055	K	Clean	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-055.wav	Geoffrey Uhal	20250529			Male			
-VOX-056	K	Clean_FLAT	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-056.wav	Geoffrey Uhal	20250529			Male			
-VOX-057	K	Screaming_NV	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-057.wav	Geoffrey Uhal	20250529			Male			
-VOX-058	K	Screaming_V	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-058.wav	Geoffrey Uhal	20250529			Male			
-VOX-059	K	Growling_NV	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-059.wav	Geoffrey Uhal	20250529			Male			
-VOX-060	K	Growling_V	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-060.wav	Geoffrey Uhal	20250529			Male			
-VOX-061	K	Clean	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-061.wav	Geoffrey Uhal	20250529			Male			
-VOX-062	K	Clean_FLAT	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-062.wav	Geoffrey Uhal	20250529			Male			
-VOX-063	K	Screaming_NV	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-063.wav	Geoffrey Uhal	20250529			Male			
-VOX-064	K	Screaming_V	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-064.wav	Geoffrey Uhal	20250529			Male			
-VOX-065	K	Growling_NV	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-065.wav	Geoffrey Uhal	20250529			Male			
-VOX-066	K	Growling_V	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-066.wav	Geoffrey Uhal	20250529			Male			
-VOX-067	K	Clean	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-067.wav	Geoffrey Uhal	20250529			Male			
-VOX-068	K	Clean_FLAT	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-068.wav	Geoffrey Uhal	20250529			Male			
-VOX-069	K	Screaming_NV	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-069.wav	Geoffrey Uhal	20250529			Male			
-VOX-070	K	Screaming_V	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-070.wav	Geoffrey Uhal	20250529			Male			
-VOX-071	K	Growling_NV	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-071.wav	Geoffrey Uhal	20250529			Male			
-VOX-072	K	Growling_V	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-072.wav	Geoffrey Uhal	20250529			Male			
-VOX-073	K	Clean	Killswitch Engage	For You	"""For all you've done"""		90	6/8	EXCE-107	audio/VOX-073.wav	Geoffrey Uhal	20250529			Male			
-VOX-074	K	Clean_FLAT	Killswitch Engage	For You	"""For all you've done"""		90	6/8	EXCE-107	audio/VOX-074.wav	Geoffrey Uhal	20250529			Male			
-VOX-075	K	Screaming_NV	Killswitch Engage	For You	"""For all you've done"""		90	6/8	EXCE-107	audio/VOX-075.wav	Geoffrey Uhal	20250529			Male			
-VOX-076	K	Screaming_V	Killswitch Engage	For You	"""For all you've done"""		90	6/8	EXCE-107	audio/VOX-076.wav	Geoffrey Uhal	20250529			Male			
-VOX-077	K	Growling_NV	Killswitch Engage	For You	"""For all you've done"""		90	6/8	EXCE-107	audio/VOX-077.wav	Geoffrey Uhal	20250529			Male			
-VOX-078	K	Growling_V	Killswitch Engage	For You	"""For all you've done"""		90	6/8	EXCE-107	audio/VOX-078.wav	Geoffrey Uhal	20250529			Male			
-VOX-079	K	Clean	Northlane	Weightless	"""Guided by familiar sight"""		85	4/4	EXCE-177	audio/VOX-079.wav	Geoffrey Uhal	20250529			Male			
-VOX-080	K	Clean_FLAT	Northlane	Weightless	"""Guided by familiar sight"""		85	4/4	EXCE-177	audio/VOX-080.wav	Geoffrey Uhal	20250529			Male			
-VOX-081	K	Screaming_NV	Northlane	Weightless	"""Guided by familiar sight"""		85	4/4	EXCE-177	audio/VOX-081.wav	Geoffrey Uhal	20250529			Male			
-VOX-082	K	Screaming_V	Northlane	Weightless	"""Guided by familiar sight"""		85	4/4	EXCE-177	audio/VOX-082.wav	Geoffrey Uhal	20250529			Male			
-VOX-083	K	Growling_NV	Northlane	Weightless	"""Guided by familiar sight"""		85	4/4	EXCE-177	audio/VOX-083.wav	Geoffrey Uhal	20250529			Male			
-VOX-084	K	Growling_V	Northlane	Weightless	"""Guided by familiar sight"""		85	4/4	EXCE-177	audio/VOX-084.wav	Geoffrey Uhal	20250529			Male			
-VOX-085	K	Clean	Asking Alexandria	Empire	"""to just give up now I'm pushing on through"""		80	4/4	EXCE-109	audio/VOX-085.wav	Geoffrey Uhal	20250529			Male			
-VOX-086	K	Clean_FLAT	Asking Alexandria	Empire	"""to just give up now I'm pushing on through"""		80	4/4	EXCE-109	audio/VOX-086.wav	Geoffrey Uhal	20250529			Male			
-VOX-087	K	Screaming_NV	Asking Alexandria	Empire	"""to just give up now I'm pushing on through"""		80	4/4	EXCE-109	audio/VOX-087.wav	Geoffrey Uhal	20250529			Male			
-VOX-088	K	Screaming_V	Asking Alexandria	Empire	"""to just give up now I'm pushing on through"""		80	4/4	EXCE-109	audio/VOX-088.wav	Geoffrey Uhal	20250529			Male			
-VOX-089	K	Growling_NV	Asking Alexandria	Empire	"""to just give up now I'm pushing on through"""		80	4/4	EXCE-109	audio/VOX-089.wav	Geoffrey Uhal	20250529			Male			
-VOX-090	K	Growling_V	Asking Alexandria	Empire	"""to just give up now I'm pushing on through"""		80	4/4	EXCE-109	audio/VOX-090.wav	Geoffrey Uhal	20250529			Male			
-VOX-091	K	Clean	Asking Alexandria	I am One	"""I can't be left if I'm alone """		162	4/4	EXCE-110	audio/VOX-091.wav	Geoffrey Uhal	20250529			Male			
-VOX-092	K	Clean_FLAT	Asking Alexandria	I am One	"""I can't be left if I'm alone """		162	4/4	EXCE-110	audio/VOX-092.wav	Geoffrey Uhal	20250529			Male			
-VOX-093	K	Screaming_NV	Asking Alexandria	I am One	"""I can't be left if I'm alone """		162	4/4	EXCE-110	audio/VOX-093.wav	Geoffrey Uhal	20250529			Male			
-VOX-094	K	Screaming_V	Asking Alexandria	I am One	"""I can't be left if I'm alone """		162	4/4	EXCE-110	audio/VOX-094.wav	Geoffrey Uhal	20250529			Male			
-VOX-095	K	Growling_NV	Asking Alexandria	I am One	"""I can't be left if I'm alone """		162	4/4	EXCE-110	audio/VOX-095.wav	Geoffrey Uhal	20250529			Male			
-VOX-096	K	Growling_V	Asking Alexandria	I am One	"""I can't be left if I'm alone """		162	4/4	EXCE-110	audio/VOX-096.wav	Geoffrey Uhal	20250529			Male			
-VOX-097	K	Clean	Avenged Sevenfold	Thin and Thin	"""I'll be there for you"""		200	4/4	EXCE-060	audio/VOX-097.wav	Geoffrey Uhal	20250529			Male			
-VOX-098	K	Clean_FLAT	Avenged Sevenfold	Thin and Thin	"""I'll be there for you"""		200	4/4	EXCE-060	audio/VOX-098.wav	Geoffrey Uhal	20250529			Male			
-VOX-099	K	Screaming_NV	Avenged Sevenfold	Thin and Thin	"""I'll be there for you"""		200	4/4	EXCE-060	audio/VOX-099.wav	Geoffrey Uhal	20250529			Male			
-VOX-100	K	Screaming_V	Avenged Sevenfold	Thin and Thin	"""I'll be there for you"""		200	4/4	EXCE-060	audio/VOX-100.wav	Geoffrey Uhal	20250529			Male			
-VOX-101	K	Growling_NV	Avenged Sevenfold	Thin and Thin	"""I'll be there for you"""		200	4/4	EXCE-060	audio/VOX-101.wav	Geoffrey Uhal	20250529			Male			
-VOX-102	K	Growling_V	Avenged Sevenfold	Thin and Thin	"""I'll be there for you"""		200	4/4	EXCE-060	audio/VOX-102.wav	Geoffrey Uhal	20250529			Male			
-VOX-103	K	Clean	Architects	They'll be Hanging Us Tonight	"""They're gaining on us"""		153	3/4	EXCE-066	audio/VOX-103.wav	Geoffrey Uhal	20250529			Male			
-VOX-104	K	Clean_FLAT	Architects	They'll be Hanging Us Tonight	"""They're gaining on us"""		153	3/4	EXCE-066	audio/VOX-104.wav	Geoffrey Uhal	20250529			Male			
-VOX-105	K	Screaming_NV	Architects	They'll be Hanging Us Tonight	"""They're gaining on us"""		153	3/4	EXCE-066	audio/VOX-105.wav	Geoffrey Uhal	20250529			Male			
-VOX-106	K	Screaming_V	Architects	They'll be Hanging Us Tonight	"""They're gaining on us"""		153	3/4	EXCE-066	audio/VOX-106.wav	Geoffrey Uhal	20250529			Male			
-VOX-107	K	Growling_NV	Architects	They'll be Hanging Us Tonight	"""They're gaining on us"""		153	3/4	EXCE-066	audio/VOX-107.wav	Geoffrey Uhal	20250529			Male			
-VOX-108	K	Growling_V	Architects	They'll be Hanging Us Tonight	"""They're gaining on us"""		153	3/4	EXCE-066	audio/VOX-108.wav	Geoffrey Uhal	20250529			Male			
-VOX-109	K	Clean	Cradle of Filth	I Am the Thorn	"""Of Judas in the dozens"""		180	4/4	EXCE-081	audio/VOX-109.wav	Geoffrey Uhal	20250529			Male			
-VOX-110	K	Clean_FLAT	Cradle of Filth	I Am the Thorn	"""Of Judas in the dozens"""		180	4/4	EXCE-081	audio/VOX-110.wav	Geoffrey Uhal	20250529			Male			
-VOX-111	K	Screaming_NV	Cradle of Filth	I Am the Thorn	"""Of Judas in the dozens"""		180	4/4	EXCE-081	audio/VOX-111.wav	Geoffrey Uhal	20250529			Male			
-VOX-112	K	Screaming_V	Cradle of Filth	I Am the Thorn	"""Of Judas in the dozens"""		180	4/4	EXCE-081	audio/VOX-112.wav	Geoffrey Uhal	20250529			Male			
-VOX-113	K	Growling_NV	Cradle of Filth	I Am the Thorn	"""Of Judas in the dozens"""		180	4/4	EXCE-081	audio/VOX-113.wav	Geoffrey Uhal	20250529			Male			
-VOX-114	K	Growling_V	Cradle of Filth	I Am the Thorn	"""Of Judas in the dozens"""		180	4/4	EXCE-081	audio/VOX-114.wav	Geoffrey Uhal	20250529			Male			
-VOX-115	K	Clean	August Burns Red	Too Late for Roses	"""To soften her descent"""		160	4/4	EXCE-156	audio/VOX-115.wav	Geoffrey Uhal	20250529			Male			
-VOX-116	K	Clean_FLAT	August Burns Red	Too Late for Roses	"""To soften her descent"""		160	4/4	EXCE-156	audio/VOX-116.wav	Geoffrey Uhal	20250529			Male			
-VOX-117	K	Screaming_NV	August Burns Red	Too Late for Roses	"""To soften her descent"""		160	4/4	EXCE-156	audio/VOX-117.wav	Geoffrey Uhal	20250529			Male			
-VOX-118	K	Screaming_V	August Burns Red	Too Late for Roses	"""To soften her descent"""		160	4/4	EXCE-156	audio/VOX-118.wav	Geoffrey Uhal	20250529			Male			
-VOX-119	K	Growling_NV	August Burns Red	Too Late for Roses	"""To soften her descent"""		160	4/4	EXCE-156	audio/VOX-119.wav	Geoffrey Uhal	20250529			Male			
-VOX-120	K	Growling_V	August Burns Red	Too Late for Roses	"""To soften her descent"""		160	4/4	EXCE-156	audio/VOX-120.wav	Geoffrey Uhal	20250529			Male			
-VOX-121	K	Clean	Incantation	From Hollow Sands	"""We are your disease"""		118	4/4	EXCE-034	audio/VOX-121.wav	Geoffrey Uhal	20250529			Male			
-VOX-122	K	Clean_FLAT	Incantation	From Hollow Sands	"""We are your disease"""		118	4/4	EXCE-034	audio/VOX-122.wav	Geoffrey Uhal	20250529			Male			
-VOX-123	K	Screaming_NV	Incantation	From Hollow Sands	"""We are your disease"""		118	4/4	EXCE-034	audio/VOX-123.wav	Geoffrey Uhal	20250529			Male			
-VOX-124	K	Screaming_V	Incantation	From Hollow Sands	"""We are your disease"""		118	4/4	EXCE-034	audio/VOX-124.wav	Geoffrey Uhal	20250529			Male			
-VOX-125	K	Growling_NV	Incantation	From Hollow Sands	"""We are your disease"""		118	4/4	EXCE-034	audio/VOX-125.wav	Geoffrey Uhal	20250529			Male			
-VOX-126	K	Growling_V	Incantation	From Hollow Sands	"""We are your disease"""		118	4/4	EXCE-034	audio/VOX-126.wav	Geoffrey Uhal	20250529			Male			
-VOX-127	K	Clean	Chelsea Grin	Flood Lungs	"""A single light among the void"""		95	6/8	EXCE-088	audio/VOX-127.wav	Geoffrey Uhal	20250529			Male			
-VOX-128	K	Clean_FLAT	Chelsea Grin	Flood Lungs	"""A single light among the void"""		95	6/8	EXCE-088	audio/VOX-128.wav	Geoffrey Uhal	20250529			Male			
-VOX-129	K	Screaming_NV	Chelsea Grin	Flood Lungs	"""A single light among the void"""		95	6/8	EXCE-088	audio/VOX-129.wav	Geoffrey Uhal	20250529			Male			
-VOX-130	K	Screaming_V	Chelsea Grin	Flood Lungs	"""A single light among the void"""		95	6/8	EXCE-088	audio/VOX-130.wav	Geoffrey Uhal	20250529			Male			
-VOX-131	K	Growling_NV	Chelsea Grin	Flood Lungs	"""A single light among the void"""		95	6/8	EXCE-088	audio/VOX-131.wav	Geoffrey Uhal	20250529			Male			
-VOX-132	K	Growling_V	Chelsea Grin	Flood Lungs	"""A single light among the void"""		95	6/8	EXCE-088	audio/VOX-132.wav	Geoffrey Uhal	20250529			Male			
-VOX-133	K	Clean	Dying Fetus	We Are Your Enemy	"""let's spread the wealth among us"""		180	4/4	EXCE-019	audio/VOX-133.wav	Geoffrey Uhal	20250529			Male			
-VOX-134	K	Clean_FLAT	Dying Fetus	We Are Your Enemy	"""let's spread the wealth among us"""		180	4/4	EXCE-019	audio/VOX-134.wav	Geoffrey Uhal	20250529			Male			
-VOX-135	K	Screaming_NV	Dying Fetus	We Are Your Enemy	"""let's spread the wealth among us"""		180	4/4	EXCE-019	audio/VOX-135.wav	Geoffrey Uhal	20250529			Male			
-VOX-136	K	Screaming_V	Dying Fetus	We Are Your Enemy	"""let's spread the wealth among us"""		180	4/4	EXCE-019	audio/VOX-136.wav	Geoffrey Uhal	20250529			Male			
-VOX-137	K	Growling_NV	Dying Fetus	We Are Your Enemy	"""let's spread the wealth among us"""		180	4/4	EXCE-019	audio/VOX-137.wav	Geoffrey Uhal	20250529			Male			
-VOX-138	K	Growling_V	Dying Fetus	We Are Your Enemy	"""let's spread the wealth among us"""		180	4/4	EXCE-019	audio/VOX-138.wav	Geoffrey Uhal	20250529			Male			
-VOX-139	K	Clean	Carcass	Hepatic Tissue Fermentation	"""neural cells fataly quenched"""		220	4/4	EXCE-010	audio/VOX-139.wav	Geoffrey Uhal	20250529			Male			
-VOX-140	K	Clean_FLAT	Carcass	Hepatic Tissue Fermentation	"""neural cells fataly quenched"""		220	4/4	EXCE-010	audio/VOX-140.wav	Geoffrey Uhal	20250529			Male			
-VOX-141	K	Screaming_NV	Carcass	Hepatic Tissue Fermentation	"""neural cells fataly quenched"""		220	4/4	EXCE-010	audio/VOX-141.wav	Geoffrey Uhal	20250529			Male			
-VOX-142	K	Screaming_V	Carcass	Hepatic Tissue Fermentation	"""neural cells fataly quenched"""		220	4/4	EXCE-010	audio/VOX-142.wav	Geoffrey Uhal	20250529			Male			
-VOX-143	K	Growling_NV	Carcass	Hepatic Tissue Fermentation	"""neural cells fataly quenched"""		220	4/4	EXCE-010	audio/VOX-143.wav	Geoffrey Uhal	20250529			Male			
-VOX-144	K	Growling_V	Carcass	Hepatic Tissue Fermentation	"""neural cells fataly quenched"""		220	4/4	EXCE-010	audio/VOX-144.wav	Geoffrey Uhal	20250529			Male			
+VOX-001	K	Clean	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-001.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-002	K	Clean_FLAT	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-002.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-003	K	Screaming_NV	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-003.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-004	K	Screaming_V	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-004.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-005	K	Growling_NV	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-005.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-006	K	Growling_V	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-006.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-007	K	Clean	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-007.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-008	K	Clean_FLAT	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-008.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-009	K	Screaming_NV	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-009.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-010	K	Screaming_V	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-010.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-011	K	Growling_NV	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-011.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-012	K	Growling_V	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-012.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-013	K	Clean	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-013.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-014	K	Clean_FLAT	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-014.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-015	K	Screaming_NV	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-015.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-016	K	Screaming_V	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-016.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-017	K	Growling_NV	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-017.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-018	K	Growling_V	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-018.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-019	K	Clean	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-019.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-020	K	Clean_FLAT	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-020.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-021	K	Screaming_NV	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-021.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-022	K	Screaming_V	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-022.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-023	K	Growling_NV	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-023.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-024	K	Growling_V	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-024.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-025	K	Clean	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-025.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-026	K	Clean_FLAT	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-026.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-027	K	Screaming_NV	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-027.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-028	K	Screaming_V	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-028.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-029	K	Growling_NV	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-029.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-030	K	Growling_V	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-030.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-031	K	Clean	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-031.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-032	K	Clean_FLAT	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-032.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-033	K	Screaming_NV	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-033.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-034	K	Screaming_V	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-034.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-035	K	Growling_NV	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-035.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-036	K	Growling_V	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-036.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-037	K	Clean	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-037.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-038	K	Clean_FLAT	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-038.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-039	K	Screaming_NV	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-039.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-040	K	Screaming_V	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-040.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-041	K	Growling_NV	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-041.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-042	K	Growling_V	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-042.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-043	K	Clean	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-043.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-044	K	Clean_FLAT	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-044.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-045	K	Screaming_NV	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-045.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-046	K	Screaming_V	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-046.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-047	K	Growling_NV	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-047.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-048	K	Growling_V	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-048.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-049	K	Clean	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-049.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-050	K	Clean_FLAT	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-050.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-051	K	Screaming_NV	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-051.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-052	K	Screaming_V	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-052.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-053	K	Growling_NV	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-053.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-054	K	Growling_V	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-054.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-055	K	Clean	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-055.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-056	K	Clean_FLAT	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-056.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-057	K	Screaming_NV	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-057.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-058	K	Screaming_V	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-058.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-059	K	Growling_NV	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-059.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-060	K	Growling_V	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-060.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-061	K	Clean	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-061.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-062	K	Clean_FLAT	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-062.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-063	K	Screaming_NV	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-063.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-064	K	Screaming_V	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-064.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-065	K	Growling_NV	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-065.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-066	K	Growling_V	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-066.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-067	K	Clean	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-067.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-068	K	Clean_FLAT	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-068.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-069	K	Screaming_NV	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-069.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-070	K	Screaming_V	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-070.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-071	K	Growling_NV	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-071.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-072	K	Growling_V	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-072.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-073	K	Clean	Killswitch Engage	For You	"""For all you've done"""		90	6/8	EXCE-107	audio/VOX-073.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-074	K	Clean_FLAT	Killswitch Engage	For You	"""For all you've done"""		90	6/8	EXCE-107	audio/VOX-074.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-075	K	Screaming_NV	Killswitch Engage	For You	"""For all you've done"""		90	6/8	EXCE-107	audio/VOX-075.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-076	K	Screaming_V	Killswitch Engage	For You	"""For all you've done"""		90	6/8	EXCE-107	audio/VOX-076.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-077	K	Growling_NV	Killswitch Engage	For You	"""For all you've done"""		90	6/8	EXCE-107	audio/VOX-077.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-078	K	Growling_V	Killswitch Engage	For You	"""For all you've done"""		90	6/8	EXCE-107	audio/VOX-078.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-079	K	Clean	Northlane	Weightless	"""Guided by familiar sight"""		85	4/4	EXCE-177	audio/VOX-079.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-080	K	Clean_FLAT	Northlane	Weightless	"""Guided by familiar sight"""		85	4/4	EXCE-177	audio/VOX-080.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-081	K	Screaming_NV	Northlane	Weightless	"""Guided by familiar sight"""		85	4/4	EXCE-177	audio/VOX-081.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-082	K	Screaming_V	Northlane	Weightless	"""Guided by familiar sight"""		85	4/4	EXCE-177	audio/VOX-082.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-083	K	Growling_NV	Northlane	Weightless	"""Guided by familiar sight"""		85	4/4	EXCE-177	audio/VOX-083.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-084	K	Growling_V	Northlane	Weightless	"""Guided by familiar sight"""		85	4/4	EXCE-177	audio/VOX-084.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-085	K	Clean	Asking Alexandria	Empire	"""to just give up now I'm pushing on through"""		80	4/4	EXCE-109	audio/VOX-085.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-086	K	Clean_FLAT	Asking Alexandria	Empire	"""to just give up now I'm pushing on through"""		80	4/4	EXCE-109	audio/VOX-086.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-087	K	Screaming_NV	Asking Alexandria	Empire	"""to just give up now I'm pushing on through"""		80	4/4	EXCE-109	audio/VOX-087.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-088	K	Screaming_V	Asking Alexandria	Empire	"""to just give up now I'm pushing on through"""		80	4/4	EXCE-109	audio/VOX-088.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-089	K	Growling_NV	Asking Alexandria	Empire	"""to just give up now I'm pushing on through"""		80	4/4	EXCE-109	audio/VOX-089.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-090	K	Growling_V	Asking Alexandria	Empire	"""to just give up now I'm pushing on through"""		80	4/4	EXCE-109	audio/VOX-090.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-091	K	Clean	Asking Alexandria	I am One	"""I can't be left if I'm alone """		162	4/4	EXCE-110	audio/VOX-091.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-092	K	Clean_FLAT	Asking Alexandria	I am One	"""I can't be left if I'm alone """		162	4/4	EXCE-110	audio/VOX-092.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-093	K	Screaming_NV	Asking Alexandria	I am One	"""I can't be left if I'm alone """		162	4/4	EXCE-110	audio/VOX-093.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-094	K	Screaming_V	Asking Alexandria	I am One	"""I can't be left if I'm alone """		162	4/4	EXCE-110	audio/VOX-094.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-095	K	Growling_NV	Asking Alexandria	I am One	"""I can't be left if I'm alone """		162	4/4	EXCE-110	audio/VOX-095.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-096	K	Growling_V	Asking Alexandria	I am One	"""I can't be left if I'm alone """		162	4/4	EXCE-110	audio/VOX-096.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-097	K	Clean	Avenged Sevenfold	Thin and Thin	"""I'll be there for you"""		200	4/4	EXCE-060	audio/VOX-097.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-098	K	Clean_FLAT	Avenged Sevenfold	Thin and Thin	"""I'll be there for you"""		200	4/4	EXCE-060	audio/VOX-098.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-099	K	Screaming_NV	Avenged Sevenfold	Thin and Thin	"""I'll be there for you"""		200	4/4	EXCE-060	audio/VOX-099.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-100	K	Screaming_V	Avenged Sevenfold	Thin and Thin	"""I'll be there for you"""		200	4/4	EXCE-060	audio/VOX-100.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-101	K	Growling_NV	Avenged Sevenfold	Thin and Thin	"""I'll be there for you"""		200	4/4	EXCE-060	audio/VOX-101.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-102	K	Growling_V	Avenged Sevenfold	Thin and Thin	"""I'll be there for you"""		200	4/4	EXCE-060	audio/VOX-102.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-103	K	Clean	Architects	They'll be Hanging Us Tonight	"""They're gaining on us"""		153	3/4	EXCE-066	audio/VOX-103.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-104	K	Clean_FLAT	Architects	They'll be Hanging Us Tonight	"""They're gaining on us"""		153	3/4	EXCE-066	audio/VOX-104.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-105	K	Screaming_NV	Architects	They'll be Hanging Us Tonight	"""They're gaining on us"""		153	3/4	EXCE-066	audio/VOX-105.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-106	K	Screaming_V	Architects	They'll be Hanging Us Tonight	"""They're gaining on us"""		153	3/4	EXCE-066	audio/VOX-106.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-107	K	Growling_NV	Architects	They'll be Hanging Us Tonight	"""They're gaining on us"""		153	3/4	EXCE-066	audio/VOX-107.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-108	K	Growling_V	Architects	They'll be Hanging Us Tonight	"""They're gaining on us"""		153	3/4	EXCE-066	audio/VOX-108.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-109	K	Clean	Cradle of Filth	I Am the Thorn	"""Of Judas in the dozens"""		180	4/4	EXCE-081	audio/VOX-109.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-110	K	Clean_FLAT	Cradle of Filth	I Am the Thorn	"""Of Judas in the dozens"""		180	4/4	EXCE-081	audio/VOX-110.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-111	K	Screaming_NV	Cradle of Filth	I Am the Thorn	"""Of Judas in the dozens"""		180	4/4	EXCE-081	audio/VOX-111.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-112	K	Screaming_V	Cradle of Filth	I Am the Thorn	"""Of Judas in the dozens"""		180	4/4	EXCE-081	audio/VOX-112.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-113	K	Growling_NV	Cradle of Filth	I Am the Thorn	"""Of Judas in the dozens"""		180	4/4	EXCE-081	audio/VOX-113.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-114	K	Growling_V	Cradle of Filth	I Am the Thorn	"""Of Judas in the dozens"""		180	4/4	EXCE-081	audio/VOX-114.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-115	K	Clean	August Burns Red	Too Late for Roses	"""To soften her descent"""		160	4/4	EXCE-156	audio/VOX-115.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-116	K	Clean_FLAT	August Burns Red	Too Late for Roses	"""To soften her descent"""		160	4/4	EXCE-156	audio/VOX-116.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-117	K	Screaming_NV	August Burns Red	Too Late for Roses	"""To soften her descent"""		160	4/4	EXCE-156	audio/VOX-117.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-118	K	Screaming_V	August Burns Red	Too Late for Roses	"""To soften her descent"""		160	4/4	EXCE-156	audio/VOX-118.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-119	K	Growling_NV	August Burns Red	Too Late for Roses	"""To soften her descent"""		160	4/4	EXCE-156	audio/VOX-119.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-120	K	Growling_V	August Burns Red	Too Late for Roses	"""To soften her descent"""		160	4/4	EXCE-156	audio/VOX-120.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-121	K	Clean	Incantation	From Hollow Sands	"""We are your disease"""		118	4/4	EXCE-034	audio/VOX-121.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-122	K	Clean_FLAT	Incantation	From Hollow Sands	"""We are your disease"""		118	4/4	EXCE-034	audio/VOX-122.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-123	K	Screaming_NV	Incantation	From Hollow Sands	"""We are your disease"""		118	4/4	EXCE-034	audio/VOX-123.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-124	K	Screaming_V	Incantation	From Hollow Sands	"""We are your disease"""		118	4/4	EXCE-034	audio/VOX-124.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-125	K	Growling_NV	Incantation	From Hollow Sands	"""We are your disease"""		118	4/4	EXCE-034	audio/VOX-125.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-126	K	Growling_V	Incantation	From Hollow Sands	"""We are your disease"""		118	4/4	EXCE-034	audio/VOX-126.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-127	K	Clean	Chelsea Grin	Flood Lungs	"""A single light among the void"""		95	6/8	EXCE-088	audio/VOX-127.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-128	K	Clean_FLAT	Chelsea Grin	Flood Lungs	"""A single light among the void"""		95	6/8	EXCE-088	audio/VOX-128.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-129	K	Screaming_NV	Chelsea Grin	Flood Lungs	"""A single light among the void"""		95	6/8	EXCE-088	audio/VOX-129.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-130	K	Screaming_V	Chelsea Grin	Flood Lungs	"""A single light among the void"""		95	6/8	EXCE-088	audio/VOX-130.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-131	K	Growling_NV	Chelsea Grin	Flood Lungs	"""A single light among the void"""		95	6/8	EXCE-088	audio/VOX-131.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-132	K	Growling_V	Chelsea Grin	Flood Lungs	"""A single light among the void"""		95	6/8	EXCE-088	audio/VOX-132.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-133	K	Clean	Dying Fetus	We Are Your Enemy	"""let's spread the wealth among us"""		180	4/4	EXCE-019	audio/VOX-133.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-134	K	Clean_FLAT	Dying Fetus	We Are Your Enemy	"""let's spread the wealth among us"""		180	4/4	EXCE-019	audio/VOX-134.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-135	K	Screaming_NV	Dying Fetus	We Are Your Enemy	"""let's spread the wealth among us"""		180	4/4	EXCE-019	audio/VOX-135.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-136	K	Screaming_V	Dying Fetus	We Are Your Enemy	"""let's spread the wealth among us"""		180	4/4	EXCE-019	audio/VOX-136.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-137	K	Growling_NV	Dying Fetus	We Are Your Enemy	"""let's spread the wealth among us"""		180	4/4	EXCE-019	audio/VOX-137.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-138	K	Growling_V	Dying Fetus	We Are Your Enemy	"""let's spread the wealth among us"""		180	4/4	EXCE-019	audio/VOX-138.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-139	K	Clean	Carcass	Hepatic Tissue Fermentation	"""neural cells fataly quenched"""		220	4/4	EXCE-010	audio/VOX-139.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-140	K	Clean_FLAT	Carcass	Hepatic Tissue Fermentation	"""neural cells fataly quenched"""		220	4/4	EXCE-010	audio/VOX-140.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-141	K	Screaming_NV	Carcass	Hepatic Tissue Fermentation	"""neural cells fataly quenched"""		220	4/4	EXCE-010	audio/VOX-141.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-142	K	Screaming_V	Carcass	Hepatic Tissue Fermentation	"""neural cells fataly quenched"""		220	4/4	EXCE-010	audio/VOX-142.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-143	K	Growling_NV	Carcass	Hepatic Tissue Fermentation	"""neural cells fataly quenched"""		220	4/4	EXCE-010	audio/VOX-143.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
+VOX-144	K	Growling_V	Carcass	Hepatic Tissue Fermentation	"""neural cells fataly quenched"""		220	4/4	EXCE-010	audio/VOX-144.wav	Geoffrey Uhal	20250529			Male		https://open.spotify.com/artist/0JjCIXB0MY61IlbFP3qqEQ?si=VKzY4Sg6QYa4x-BiX0kAGg	
 VOX-145	N	Clean	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-145.wav	Autumn Mouzon	20250531			Female			
 VOX-146	N	Clean_FLAT	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-146.wav	Autumn Mouzon	20250531			Female			
 VOX-147	N	Screaming_NV	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-147.wav	Autumn Mouzon	20250531			Female			
@@ -431,150 +431,150 @@ VOX-429	O	Screaming_NV	Whitechapel	Faces	"""The faces of justice"""		220	4/4	EXC
 VOX-430	O	Screaming_V	Whitechapel	Faces	"""The faces of justice"""		220	4/4	EXCE-139	audio/VOX-430.wav	Hunter Champeau	20250601			Male		https://fadelessband.wixsite.com/fadelessband	
 VOX-431	O	Growling_NV	Whitechapel	Faces	"""The faces of justice"""		220	4/4	EXCE-139	audio/VOX-431.wav	Hunter Champeau	20250601			Male		https://fadelessband.wixsite.com/fadelessband	
 VOX-432	O	Growling_V	Whitechapel	Faces	"""The faces of justice"""		220	4/4	EXCE-139	audio/VOX-432.wav	Hunter Champeau	20250601			Male		https://fadelessband.wixsite.com/fadelessband	
-VOX-433	J	Clean	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-433.wav	Donny Payne	20250602			Male	23		
-VOX-434	J	Clean_FLAT	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-434.wav	Donny Payne	20250602			Male	23		
-VOX-435	J	Screaming_NV	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-435.wav	Donny Payne	20250602			Male	23		
-VOX-436	J	Screaming_V	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-436.wav	Donny Payne	20250602			Male	23		
-VOX-437	J	Growling_NV	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-437.wav	Donny Payne	20250602			Male	23		
-VOX-438	J	Growling_V	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-438.wav	Donny Payne	20250602			Male	23		
-VOX-439	J	Clean	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-439.wav	Donny Payne	20250602			Male	23		
-VOX-440	J	Clean_FLAT	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-440.wav	Donny Payne	20250602			Male	23		
-VOX-441	J	Screaming_NV	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-441.wav	Donny Payne	20250602			Male	23		
-VOX-442	J	Screaming_V	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-442.wav	Donny Payne	20250602			Male	23		
-VOX-443	J	Growling_NV	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-443.wav	Donny Payne	20250602			Male	23		
-VOX-444	J	Growling_V	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-444.wav	Donny Payne	20250602			Male	23		
-VOX-445	J	Clean	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-445.wav	Donny Payne	20250602			Male	23		
-VOX-446	J	Clean_FLAT	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-446.wav	Donny Payne	20250602			Male	23		
-VOX-447	J	Screaming_NV	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-447.wav	Donny Payne	20250602			Male	23		
-VOX-448	J	Screaming_V	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-448.wav	Donny Payne	20250602			Male	23		
-VOX-449	J	Growling_NV	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-449.wav	Donny Payne	20250602			Male	23		
-VOX-450	J	Growling_V	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-450.wav	Donny Payne	20250602			Male	23		
-VOX-451	J	Clean	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-451.wav	Donny Payne	20250602			Male	23		
-VOX-452	J	Clean_FLAT	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-452.wav	Donny Payne	20250602			Male	23		
-VOX-453	J	Screaming_NV	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-453.wav	Donny Payne	20250602			Male	23		
-VOX-454	J	Screaming_V	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-454.wav	Donny Payne	20250602			Male	23		
-VOX-455	J	Growling_NV	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-455.wav	Donny Payne	20250602			Male	23		
-VOX-456	J	Growling_V	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-456.wav	Donny Payne	20250602			Male	23		
-VOX-457	J	Clean	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-457.wav	Donny Payne	20250602			Male	23		
-VOX-458	 	Clean_FLAT	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-458.wav	Donny Payne	20250602			Male	23		
-VOX-459	J	Screaming_NV	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-459.wav	Donny Payne	20250602			Male	23		
-VOX-460	J	Screaming_V	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-460.wav	Donny Payne	20250602			Male	23		
-VOX-461	J	Growling_NV	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-461.wav	Donny Payne	20250602			Male	23		
-VOX-462	J	Growling_V	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-462.wav	Donny Payne	20250602			Male	23		
-VOX-463	J	Clean	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-463.wav	Donny Payne	20250602			Male	23		
-VOX-464	J	Clean_FLAT	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-464.wav	Donny Payne	20250602			Male	23		
-VOX-465	J	Screaming_NV	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-465.wav	Donny Payne	20250602			Male	23		
-VOX-466	J	Screaming_V	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-466.wav	Donny Payne	20250602			Male	23		
-VOX-467	J	Growling_NV	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-467.wav	Donny Payne	20250602			Male	23		
-VOX-468	J	Growling_V	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-468.wav	Donny Payne	20250602			Male	23		
-VOX-469	J	Clean	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-469.wav	Donny Payne	20250602			Male	23		
-VOX-470	J	Clean_FLAT	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-470.wav	Donny Payne	20250602			Male	23		
-VOX-471	J	Screaming_NV	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-471.wav	Donny Payne	20250602			Male	23		
-VOX-472	J	Screaming_V	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-472.wav	Donny Payne	20250602			Male	23		
-VOX-473	J	Growling_NV	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-473.wav	Donny Payne	20250602			Male	23		
-VOX-474	J	Growling_V	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-474.wav	Donny Payne	20250602			Male	23		
-VOX-475	J	Clean	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-475.wav	Donny Payne	20250602			Male	23		
-VOX-476	J	Clean_FLAT	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-476.wav	Donny Payne	20250602			Male	23		
-VOX-477	J	Screaming_NV	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-477.wav	Donny Payne	20250602			Male	23		
-VOX-478	J	Screaming_V	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-478.wav	Donny Payne	20250602			Male	23		
-VOX-479	J	Growling_NV	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-479.wav	Donny Payne	20250602			Male	23		
-VOX-480	J	Growling_V	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-480.wav	Donny Payne	20250602			Male	23		
-VOX-481	J	Clean	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-481.wav	Donny Payne	20250602			Male	23		
-VOX-482	J	Clean_FLAT	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-482.wav	Donny Payne	20250602			Male	23		
-VOX-483	J	Screaming_NV	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-483.wav	Donny Payne	20250602			Male	23		
-VOX-484	J	Screaming_V	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-484.wav	Donny Payne	20250602			Male	23		
-VOX-485	J	Growling_NV	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-485.wav	Donny Payne	20250602			Male	23		
-VOX-486	J	Growling_V	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-486.wav	Donny Payne	20250602			Male	23		
-VOX-487	J	Clean	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-487.wav	Donny Payne	20250602			Male	23		
-VOX-488	J	Clean_FLAT	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-488.wav	Donny Payne	20250602			Male	23		
-VOX-489	J	Screaming_NV	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-489.wav	Donny Payne	20250602			Male	23		
-VOX-490	J	Screaming_V	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-490.wav	Donny Payne	20250602			Male	23		
-VOX-491	J	Growling_NV	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-491.wav	Donny Payne	20250602			Male	23		
-VOX-492	J	Growling_V	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-492.wav	Donny Payne	20250602			Male	23		
-VOX-493	J	Clean	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-493.wav	Donny Payne	20250602			Male	23		
-VOX-494	J	Clean_FLAT	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-494.wav	Donny Payne	20250602			Male	23		
-VOX-495	J	Screaming_NV	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-495.wav	Donny Payne	20250602			Male	23		
-VOX-496	J	Screaming_V	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-496.wav	Donny Payne	20250602			Male	23		
-VOX-497	J	Growling_NV	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-497.wav	Donny Payne	20250602			Male	23		
-VOX-498	J	Growling_V	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-498.wav	Donny Payne	20250602			Male	23		
-VOX-499	J	Clean	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-499.wav	Donny Payne	20250602			Male	23		
-VOX-500	J	Clean_FLAT	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-500.wav	Donny Payne	20250602			Male	23		
-VOX-501	J	Screaming_NV	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-501.wav	Donny Payne	20250602			Male	23		
-VOX-502	J	Screaming_V	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-502.wav	Donny Payne	20250602			Male	23		
-VOX-503	J	Growling_NV	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-503.wav	Donny Payne	20250602			Male	23		
-VOX-504	J	Growling_V	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-504.wav	Donny Payne	20250602			Male	23		
-VOX-505	J	Clean	Asking Alexandria	Holding On To Something More	"""I hear the screams inside these walls"""		180	4/4	EXCE-116	audio/VOX-505.wav	Donny Payne	20250602			Male	23		
-VOX-506	J	Clean_FLAT	Asking Alexandria	Holding On To Something More	"""I hear the screams inside these walls"""		180	4/4	EXCE-116	audio/VOX-506.wav	Donny Payne	20250602			Male	23		
-VOX-507	J	Screaming_NV	Asking Alexandria	Holding On To Something More	"""I hear the screams inside these walls"""		180	4/4	EXCE-116	audio/VOX-507.wav	Donny Payne	20250602			Male	23		
-VOX-508	J	Screaming_V	Asking Alexandria	Holding On To Something More	"""I hear the screams inside these walls"""		180	4/4	EXCE-116	audio/VOX-508.wav	Donny Payne	20250602			Male	23		
-VOX-509	J	Growling_NV	Asking Alexandria	Holding On To Something More	"""I hear the screams inside these walls"""		180	4/4	EXCE-116	audio/VOX-509.wav	Donny Payne	20250602			Male	23		
-VOX-510	J	Growling_V	Asking Alexandria	Holding On To Something More	"""I hear the screams inside these walls"""		180	4/4	EXCE-116	audio/VOX-510.wav	Donny Payne	20250602			Male	23		
-VOX-511	J	Clean	Protest the Hero	A Life Embossed	"""I'm proud of every pit bull"""		140	4/4	EXCE-128	audio/VOX-511.wav	Donny Payne	20250602			Male	23		
-VOX-512	J	Clean_FLAT	Protest the Hero	A Life Embossed	"""I'm proud of every pit bull"""		140	4/4	EXCE-128	audio/VOX-512.wav	Donny Payne	20250602			Male	23		
-VOX-513	J	Screaming_NV	Protest the Hero	A Life Embossed	"""I'm proud of every pit bull"""		140	4/4	EXCE-128	audio/VOX-513.wav	Donny Payne	20250602			Male	23		
-VOX-514	J	Screaming_V	Protest the Hero	A Life Embossed	"""I'm proud of every pit bull"""		140	4/4	EXCE-128	audio/VOX-514.wav	Donny Payne	20250602			Male	23		
-VOX-515	J	Growling_NV	Protest the Hero	A Life Embossed	"""I'm proud of every pit bull"""		140	4/4	EXCE-128	audio/VOX-515.wav	Donny Payne	20250602			Male	23		
-VOX-516	J	Growling_V	Protest the Hero	A Life Embossed	"""I'm proud of every pit bull"""		140	4/4	EXCE-128	audio/VOX-516.wav	Donny Payne	20250602			Male	23		
-VOX-517	J	Clean	Northlane	Ra	"""There's a desert in my head"""		90	4/4	EXCE-175	audio/VOX-517.wav	Donny Payne	20250602			Male	23		
-VOX-518	J	Clean_FLAT	Northlane	Ra	"""There's a desert in my head"""		90	4/4	EXCE-175	audio/VOX-518.wav	Donny Payne	20250602			Male	23		
-VOX-519	J	Screaming_NV	Northlane	Ra	"""There's a desert in my head"""		90	4/4	EXCE-175	audio/VOX-519.wav	Donny Payne	20250602			Male	23		
-VOX-520	J	Screaming_V	Northlane	Ra	"""There's a desert in my head"""		90	4/4	EXCE-175	audio/VOX-520.wav	Donny Payne	20250602			Male	23		
-VOX-521	J	Growling_NV	Northlane	Ra	"""There's a desert in my head"""		90	4/4	EXCE-175	audio/VOX-521.wav	Donny Payne	20250602			Male	23		
-VOX-522	J	Growling_V	Northlane	Ra	"""There's a desert in my head"""		90	4/4	EXCE-175	audio/VOX-522.wav	Donny Payne	20250602			Male	23		
-VOX-523	J	Clean	DragonForce	A Flame for Freedom	"""Life brings hope for us all"""		130	4/4	EXCE-189	audio/VOX-523.wav	Donny Payne	20250602			Male	23		
-VOX-524	J	Clean_FLAT	DragonForce	A Flame for Freedom	"""Life brings hope for us all"""		130	4/4	EXCE-189	audio/VOX-524.wav	Donny Payne	20250602			Male	23		
-VOX-525	J	Screaming_NV	DragonForce	A Flame for Freedom	"""Life brings hope for us all"""		130	4/4	EXCE-189	audio/VOX-525.wav	Donny Payne	20250602			Male	23		
-VOX-526	J	Screaming_V	DragonForce	A Flame for Freedom	"""Life brings hope for us all"""		130	4/4	EXCE-189	audio/VOX-526.wav	Donny Payne	20250602			Male	23		
-VOX-527	J	Growling_NV	DragonForce	A Flame for Freedom	"""Life brings hope for us all"""		130	4/4	EXCE-189	audio/VOX-527.wav	Donny Payne	20250602			Male	23		
-VOX-528	J	Growling_V	DragonForce	A Flame for Freedom	"""Life brings hope for us all"""		130	4/4	EXCE-189	audio/VOX-528.wav	Donny Payne	20250602			Male	23		
-VOX-529	J	Clean	Suicide Silence	Something Invisible	"""something fucking invisible"""		123	4/4	EXCE-050	audio/VOX-529.wav	Donny Payne	20250602			Male	23		
-VOX-530	J	Clean_FLAT	Suicide Silence	Something Invisible	"""something fucking invisible"""		123	4/4	EXCE-050	audio/VOX-530.wav	Donny Payne	20250602			Male	23		
-VOX-531	J	Screaming_NV	Suicide Silence	Something Invisible	"""something fucking invisible"""		123	4/4	EXCE-050	audio/VOX-531.wav	Donny Payne	20250602			Male	23		
-VOX-532	J	Screaming_V	Suicide Silence	Something Invisible	"""something fucking invisible"""		123	4/4	EXCE-050	audio/VOX-532.wav	Donny Payne	20250602			Male	23		
-VOX-533	J	Growling_NV	Suicide Silence	Something Invisible	"""something fucking invisible"""		123	4/4	EXCE-050	audio/VOX-533.wav	Donny Payne	20250602			Male	23		
-VOX-534	J	Growling_V	Suicide Silence	Something Invisible	"""something fucking invisible"""		123	4/4	EXCE-050	audio/VOX-534.wav	Donny Payne	20250602			Male	23		
-VOX-535	J	Clean	Cradle of Filth	Malignant Perfection	"""Temple praise the brazen goddess"""		136	4/4	EXCE-073	audio/VOX-535.wav	Donny Payne	20250602			Male	23		
-VOX-536	J	Clean_FLAT	Cradle of Filth	Malignant Perfection	"""Temple praise the brazen goddess"""		136	4/4	EXCE-073	audio/VOX-536.wav	Donny Payne	20250602			Male	23		
-VOX-537	J	Screaming_NV	Cradle of Filth	Malignant Perfection	"""Temple praise the brazen goddess"""		136	4/4	EXCE-073	audio/VOX-537.wav	Donny Payne	20250602			Male	23		
-VOX-538	J	Screaming_V	Cradle of Filth	Malignant Perfection	"""Temple praise the brazen goddess"""		136	4/4	EXCE-073	audio/VOX-538.wav	Donny Payne	20250602			Male	23		
-VOX-539	J	Growling_NV	Cradle of Filth	Malignant Perfection	"""Temple praise the brazen goddess"""		136	4/4	EXCE-073	audio/VOX-539.wav	Donny Payne	20250602			Male	23		
-VOX-540	J	Growling_V	Cradle of Filth	Malignant Perfection	"""Temple praise the brazen goddess"""		136	4/4	EXCE-073	audio/VOX-540.wav	Donny Payne	20250602			Male	23		
-VOX-541	J	Clean	Parkway Drive	Set To Destroy	"""this is the end of days"""		220	4/4	EXCE-166	audio/VOX-541.wav	Donny Payne	20250602			Male	23		
-VOX-542	J	Clean_FLAT	Parkway Drive	Set To Destroy	"""this is the end of days"""		220	4/4	EXCE-166	audio/VOX-542.wav	Donny Payne	20250602			Male	23		
-VOX-543	J	Screaming_NV	Parkway Drive	Set To Destroy	"""this is the end of days"""		220	4/4	EXCE-166	audio/VOX-543.wav	Donny Payne	20250602			Male	23		
-VOX-544	J	Screaming_V	Parkway Drive	Set To Destroy	"""this is the end of days"""		220	4/4	EXCE-166	audio/VOX-544.wav	Donny Payne	20250602			Male	23		
-VOX-545	J	Growling_NV	Parkway Drive	Set To Destroy	"""this is the end of days"""		220	4/4	EXCE-166	audio/VOX-545.wav	Donny Payne	20250602			Male	23		
-VOX-546	J	Growling_V	Parkway Drive	Set To Destroy	"""this is the end of days"""		220	4/4	EXCE-166	audio/VOX-546.wav	Donny Payne	20250602			Male	23		
-VOX-547	J	Clean	The Black Dahlia Murder	The Fog	"""To think we toasted rye"""		150	4/4	EXCE-182	audio/VOX-547.wav	Donny Payne	20250602			Male	23		
-VOX-548	J	Clean_FLAT	The Black Dahlia Murder	The Fog	"""To think we toasted rye"""		150	4/4	EXCE-182	audio/VOX-548.wav	Donny Payne	20250602			Male	23		
-VOX-549	J	Screaming_NV	The Black Dahlia Murder	The Fog	"""To think we toasted rye"""		150	4/4	EXCE-182	audio/VOX-549.wav	Donny Payne	20250602			Male	23		
-VOX-550	J	Screaming_V	The Black Dahlia Murder	The Fog	"""To think we toasted rye"""		150	4/4	EXCE-182	audio/VOX-550.wav	Donny Payne	20250602			Male	23		
-VOX-551	J	Growling_NV	The Black Dahlia Murder	The Fog	"""To think we toasted rye"""		150	4/4	EXCE-182	audio/VOX-551.wav	Donny Payne	20250602			Male	23		
-VOX-552	J	Growling_V	The Black Dahlia Murder	The Fog	"""To think we toasted rye"""		150	4/4	EXCE-182	audio/VOX-552.wav	Donny Payne	20250602			Male	23		
-VOX-553	J	Clean	Job for a Cowboy	Coalescing Prophecy	"""Have left behind the sign of the cross"""		240	4/4	EXCE-148	audio/VOX-553.wav	Donny Payne	20250602			Male	23		
-VOX-554	J	Clean_FLAT	Job for a Cowboy	Coalescing Prophecy	"""Have left behind the sign of the cross"""		240	4/4	EXCE-148	audio/VOX-554.wav	Donny Payne	20250602			Male	23		
-VOX-555	J	Screaming_NV	Job for a Cowboy	Coalescing Prophecy	"""Have left behind the sign of the cross"""		240	4/4	EXCE-148	audio/VOX-555.wav	Donny Payne	20250602			Male	23		
-VOX-556	J	Screaming_V	Job for a Cowboy	Coalescing Prophecy	"""Have left behind the sign of the cross"""		240	4/4	EXCE-148	audio/VOX-556.wav	Donny Payne	20250602			Male	23		
-VOX-557	J	Growling_NV	Job for a Cowboy	Coalescing Prophecy	"""Have left behind the sign of the cross"""		240	4/4	EXCE-148	audio/VOX-557.wav	Donny Payne	20250602			Male	23		
-VOX-558	J	Growling_V	Job for a Cowboy	Coalescing Prophecy	"""Have left behind the sign of the cross"""		240	4/4	EXCE-148	audio/VOX-558.wav	Donny Payne	20250602			Male	23		
-VOX-559	J	Clean	The Faceless	Ghost of a Stranger	"""what I have become"""		210	4/4	EXCE-202	audio/VOX-559.wav	Donny Payne	20250602			Male	23		
-VOX-560	J	Clean_FLAT	The Faceless	Ghost of a Stranger	"""what I have become"""		210	4/4	EXCE-202	audio/VOX-560.wav	Donny Payne	20250602			Male	23		
-VOX-561	J	Screaming_NV	The Faceless	Ghost of a Stranger	"""what I have become"""		210	4/4	EXCE-202	audio/VOX-561.wav	Donny Payne	20250602			Male	23		
-VOX-562	J	Screaming_V	The Faceless	Ghost of a Stranger	"""what I have become"""		210	4/4	EXCE-202	audio/VOX-562.wav	Donny Payne	20250602			Male	23		
-VOX-563	J	Growling_NV	The Faceless	Ghost of a Stranger	"""what I have become"""		210	4/4	EXCE-202	audio/VOX-563.wav	Donny Payne	20250602			Male	23		
-VOX-564	J	Growling_V	The Faceless	Ghost of a Stranger	"""what I have become"""		210	4/4	EXCE-202	audio/VOX-564.wav	Donny Payne	20250602			Male	23		
-VOX-565	J	Clean	Cannibal Corpse	Puncture Wound Massacre	"""Hate for them still drives my rage"""		143	4/4	EXCE-006	audio/VOX-565.wav	Donny Payne	20250602			Male	23		
-VOX-566	J	Clean_FLAT	Cannibal Corpse	Puncture Wound Massacre	"""Hate for them still drives my rage"""		143	4/4	EXCE-006	audio/VOX-566.wav	Donny Payne	20250602			Male	23		
-VOX-567	J	Screaming_NV	Cannibal Corpse	Puncture Wound Massacre	"""Hate for them still drives my rage"""		143	4/4	EXCE-006	audio/VOX-567.wav	Donny Payne	20250602			Male	23		
-VOX-568	J	Screaming_V	Cannibal Corpse	Puncture Wound Massacre	"""Hate for them still drives my rage"""		143	4/4	EXCE-006	audio/VOX-568.wav	Donny Payne	20250602			Male	23		
-VOX-569	J	Growling_NV	Cannibal Corpse	Puncture Wound Massacre	"""Hate for them still drives my rage"""		143	4/4	EXCE-006	audio/VOX-569.wav	Donny Payne	20250602			Male	23		
-VOX-570	J	Growling_V	Cannibal Corpse	Puncture Wound Massacre	"""Hate for them still drives my rage"""		143	4/4	EXCE-006	audio/VOX-570.wav	Donny Payne	20250602			Male	23		
-VOX-571	J	Clean	Whitechapel	Faces	"""The faces of justice"""		220	4/4	EXCE-139	audio/VOX-571.wav	Donny Payne	20250602			Male	23		
-VOX-572	J	Clean_FLAT	Whitechapel	Faces	"""The faces of justice"""		220	4/4	EXCE-139	audio/VOX-572.wav	Donny Payne	20250602			Male	23		
-VOX-573	J	Screaming_NV	Whitechapel	Faces	"""The faces of justice"""		220	4/4	EXCE-139	audio/VOX-573.wav	Donny Payne	20250602			Male	23		
-VOX-574	J	Screaming_V	Whitechapel	Faces	"""The faces of justice"""		220	4/4	EXCE-139	audio/VOX-574.wav	Donny Payne	20250602			Male	23		
-VOX-575	J	Growling_NV	Whitechapel	Faces	"""The faces of justice"""		220	4/4	EXCE-139	audio/VOX-575.wav	Donny Payne	20250602			Male	23		
-VOX-576	J	Growling_V	Whitechapel	Faces	"""The faces of justice"""		220	4/4	EXCE-139	audio/VOX-576.wav	Donny Payne	20250602			Male	23		
+VOX-433	J	Clean	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-433.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-434	J	Clean_FLAT	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-434.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-435	J	Screaming_NV	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-435.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-436	J	Screaming_V	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-436.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-437	J	Growling_NV	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-437.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-438	J	Growling_V	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-438.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-439	J	Clean	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-439.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-440	J	Clean_FLAT	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-440.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-441	J	Screaming_NV	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-441.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-442	J	Screaming_V	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-442.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-443	J	Growling_NV	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-443.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-444	J	Growling_V	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-444.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-445	J	Clean	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-445.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-446	J	Clean_FLAT	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-446.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-447	J	Screaming_NV	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-447.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-448	J	Screaming_V	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-448.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-449	J	Growling_NV	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-449.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-450	J	Growling_V	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-450.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-451	J	Clean	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-451.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-452	J	Clean_FLAT	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-452.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-453	J	Screaming_NV	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-453.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-454	J	Screaming_V	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-454.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-455	J	Growling_NV	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-455.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-456	J	Growling_V	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-456.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-457	J	Clean	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-457.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-458	 	Clean_FLAT	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-458.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-459	J	Screaming_NV	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-459.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-460	J	Screaming_V	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-460.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-461	J	Growling_NV	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-461.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-462	J	Growling_V	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-462.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-463	J	Clean	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-463.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-464	J	Clean_FLAT	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-464.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-465	J	Screaming_NV	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-465.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-466	J	Screaming_V	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-466.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-467	J	Growling_NV	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-467.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-468	J	Growling_V	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-468.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-469	J	Clean	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-469.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-470	J	Clean_FLAT	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-470.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-471	J	Screaming_NV	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-471.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-472	J	Screaming_V	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-472.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-473	J	Growling_NV	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-473.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-474	J	Growling_V	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-474.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-475	J	Clean	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-475.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-476	J	Clean_FLAT	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-476.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-477	J	Screaming_NV	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-477.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-478	J	Screaming_V	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-478.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-479	J	Growling_NV	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-479.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-480	J	Growling_V	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-480.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-481	J	Clean	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-481.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-482	J	Clean_FLAT	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-482.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-483	J	Screaming_NV	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-483.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-484	J	Screaming_V	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-484.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-485	J	Growling_NV	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-485.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-486	J	Growling_V	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-486.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-487	J	Clean	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-487.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-488	J	Clean_FLAT	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-488.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-489	J	Screaming_NV	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-489.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-490	J	Screaming_V	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-490.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-491	J	Growling_NV	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-491.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-492	J	Growling_V	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-492.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-493	J	Clean	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-493.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-494	J	Clean_FLAT	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-494.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-495	J	Screaming_NV	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-495.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-496	J	Screaming_V	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-496.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-497	J	Growling_NV	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-497.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-498	J	Growling_V	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-498.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-499	J	Clean	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-499.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-500	J	Clean_FLAT	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-500.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-501	J	Screaming_NV	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-501.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-502	J	Screaming_V	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-502.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-503	J	Growling_NV	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-503.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-504	J	Growling_V	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-504.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-505	J	Clean	Asking Alexandria	Holding On To Something More	"""I hear the screams inside these walls"""		180	4/4	EXCE-116	audio/VOX-505.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-506	J	Clean_FLAT	Asking Alexandria	Holding On To Something More	"""I hear the screams inside these walls"""		180	4/4	EXCE-116	audio/VOX-506.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-507	J	Screaming_NV	Asking Alexandria	Holding On To Something More	"""I hear the screams inside these walls"""		180	4/4	EXCE-116	audio/VOX-507.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-508	J	Screaming_V	Asking Alexandria	Holding On To Something More	"""I hear the screams inside these walls"""		180	4/4	EXCE-116	audio/VOX-508.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-509	J	Growling_NV	Asking Alexandria	Holding On To Something More	"""I hear the screams inside these walls"""		180	4/4	EXCE-116	audio/VOX-509.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-510	J	Growling_V	Asking Alexandria	Holding On To Something More	"""I hear the screams inside these walls"""		180	4/4	EXCE-116	audio/VOX-510.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-511	J	Clean	Protest the Hero	A Life Embossed	"""I'm proud of every pit bull"""		140	4/4	EXCE-128	audio/VOX-511.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-512	J	Clean_FLAT	Protest the Hero	A Life Embossed	"""I'm proud of every pit bull"""		140	4/4	EXCE-128	audio/VOX-512.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-513	J	Screaming_NV	Protest the Hero	A Life Embossed	"""I'm proud of every pit bull"""		140	4/4	EXCE-128	audio/VOX-513.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-514	J	Screaming_V	Protest the Hero	A Life Embossed	"""I'm proud of every pit bull"""		140	4/4	EXCE-128	audio/VOX-514.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-515	J	Growling_NV	Protest the Hero	A Life Embossed	"""I'm proud of every pit bull"""		140	4/4	EXCE-128	audio/VOX-515.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-516	J	Growling_V	Protest the Hero	A Life Embossed	"""I'm proud of every pit bull"""		140	4/4	EXCE-128	audio/VOX-516.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-517	J	Clean	Northlane	Ra	"""There's a desert in my head"""		90	4/4	EXCE-175	audio/VOX-517.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-518	J	Clean_FLAT	Northlane	Ra	"""There's a desert in my head"""		90	4/4	EXCE-175	audio/VOX-518.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-519	J	Screaming_NV	Northlane	Ra	"""There's a desert in my head"""		90	4/4	EXCE-175	audio/VOX-519.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-520	J	Screaming_V	Northlane	Ra	"""There's a desert in my head"""		90	4/4	EXCE-175	audio/VOX-520.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-521	J	Growling_NV	Northlane	Ra	"""There's a desert in my head"""		90	4/4	EXCE-175	audio/VOX-521.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-522	J	Growling_V	Northlane	Ra	"""There's a desert in my head"""		90	4/4	EXCE-175	audio/VOX-522.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-523	J	Clean	DragonForce	A Flame for Freedom	"""Life brings hope for us all"""		130	4/4	EXCE-189	audio/VOX-523.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-524	J	Clean_FLAT	DragonForce	A Flame for Freedom	"""Life brings hope for us all"""		130	4/4	EXCE-189	audio/VOX-524.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-525	J	Screaming_NV	DragonForce	A Flame for Freedom	"""Life brings hope for us all"""		130	4/4	EXCE-189	audio/VOX-525.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-526	J	Screaming_V	DragonForce	A Flame for Freedom	"""Life brings hope for us all"""		130	4/4	EXCE-189	audio/VOX-526.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-527	J	Growling_NV	DragonForce	A Flame for Freedom	"""Life brings hope for us all"""		130	4/4	EXCE-189	audio/VOX-527.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-528	J	Growling_V	DragonForce	A Flame for Freedom	"""Life brings hope for us all"""		130	4/4	EXCE-189	audio/VOX-528.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-529	J	Clean	Suicide Silence	Something Invisible	"""something fucking invisible"""		123	4/4	EXCE-050	audio/VOX-529.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-530	J	Clean_FLAT	Suicide Silence	Something Invisible	"""something fucking invisible"""		123	4/4	EXCE-050	audio/VOX-530.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-531	J	Screaming_NV	Suicide Silence	Something Invisible	"""something fucking invisible"""		123	4/4	EXCE-050	audio/VOX-531.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-532	J	Screaming_V	Suicide Silence	Something Invisible	"""something fucking invisible"""		123	4/4	EXCE-050	audio/VOX-532.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-533	J	Growling_NV	Suicide Silence	Something Invisible	"""something fucking invisible"""		123	4/4	EXCE-050	audio/VOX-533.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-534	J	Growling_V	Suicide Silence	Something Invisible	"""something fucking invisible"""		123	4/4	EXCE-050	audio/VOX-534.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-535	J	Clean	Cradle of Filth	Malignant Perfection	"""Temple praise the brazen goddess"""		136	4/4	EXCE-073	audio/VOX-535.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-536	J	Clean_FLAT	Cradle of Filth	Malignant Perfection	"""Temple praise the brazen goddess"""		136	4/4	EXCE-073	audio/VOX-536.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-537	J	Screaming_NV	Cradle of Filth	Malignant Perfection	"""Temple praise the brazen goddess"""		136	4/4	EXCE-073	audio/VOX-537.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-538	J	Screaming_V	Cradle of Filth	Malignant Perfection	"""Temple praise the brazen goddess"""		136	4/4	EXCE-073	audio/VOX-538.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-539	J	Growling_NV	Cradle of Filth	Malignant Perfection	"""Temple praise the brazen goddess"""		136	4/4	EXCE-073	audio/VOX-539.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-540	J	Growling_V	Cradle of Filth	Malignant Perfection	"""Temple praise the brazen goddess"""		136	4/4	EXCE-073	audio/VOX-540.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-541	J	Clean	Parkway Drive	Set To Destroy	"""this is the end of days"""		220	4/4	EXCE-166	audio/VOX-541.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-542	J	Clean_FLAT	Parkway Drive	Set To Destroy	"""this is the end of days"""		220	4/4	EXCE-166	audio/VOX-542.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-543	J	Screaming_NV	Parkway Drive	Set To Destroy	"""this is the end of days"""		220	4/4	EXCE-166	audio/VOX-543.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-544	J	Screaming_V	Parkway Drive	Set To Destroy	"""this is the end of days"""		220	4/4	EXCE-166	audio/VOX-544.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-545	J	Growling_NV	Parkway Drive	Set To Destroy	"""this is the end of days"""		220	4/4	EXCE-166	audio/VOX-545.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-546	J	Growling_V	Parkway Drive	Set To Destroy	"""this is the end of days"""		220	4/4	EXCE-166	audio/VOX-546.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-547	J	Clean	The Black Dahlia Murder	The Fog	"""To think we toasted rye"""		150	4/4	EXCE-182	audio/VOX-547.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-548	J	Clean_FLAT	The Black Dahlia Murder	The Fog	"""To think we toasted rye"""		150	4/4	EXCE-182	audio/VOX-548.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-549	J	Screaming_NV	The Black Dahlia Murder	The Fog	"""To think we toasted rye"""		150	4/4	EXCE-182	audio/VOX-549.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-550	J	Screaming_V	The Black Dahlia Murder	The Fog	"""To think we toasted rye"""		150	4/4	EXCE-182	audio/VOX-550.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-551	J	Growling_NV	The Black Dahlia Murder	The Fog	"""To think we toasted rye"""		150	4/4	EXCE-182	audio/VOX-551.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-552	J	Growling_V	The Black Dahlia Murder	The Fog	"""To think we toasted rye"""		150	4/4	EXCE-182	audio/VOX-552.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-553	J	Clean	Job for a Cowboy	Coalescing Prophecy	"""Have left behind the sign of the cross"""		240	4/4	EXCE-148	audio/VOX-553.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-554	J	Clean_FLAT	Job for a Cowboy	Coalescing Prophecy	"""Have left behind the sign of the cross"""		240	4/4	EXCE-148	audio/VOX-554.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-555	J	Screaming_NV	Job for a Cowboy	Coalescing Prophecy	"""Have left behind the sign of the cross"""		240	4/4	EXCE-148	audio/VOX-555.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-556	J	Screaming_V	Job for a Cowboy	Coalescing Prophecy	"""Have left behind the sign of the cross"""		240	4/4	EXCE-148	audio/VOX-556.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-557	J	Growling_NV	Job for a Cowboy	Coalescing Prophecy	"""Have left behind the sign of the cross"""		240	4/4	EXCE-148	audio/VOX-557.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-558	J	Growling_V	Job for a Cowboy	Coalescing Prophecy	"""Have left behind the sign of the cross"""		240	4/4	EXCE-148	audio/VOX-558.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-559	J	Clean	The Faceless	Ghost of a Stranger	"""what I have become"""		210	4/4	EXCE-202	audio/VOX-559.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-560	J	Clean_FLAT	The Faceless	Ghost of a Stranger	"""what I have become"""		210	4/4	EXCE-202	audio/VOX-560.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-561	J	Screaming_NV	The Faceless	Ghost of a Stranger	"""what I have become"""		210	4/4	EXCE-202	audio/VOX-561.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-562	J	Screaming_V	The Faceless	Ghost of a Stranger	"""what I have become"""		210	4/4	EXCE-202	audio/VOX-562.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-563	J	Growling_NV	The Faceless	Ghost of a Stranger	"""what I have become"""		210	4/4	EXCE-202	audio/VOX-563.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-564	J	Growling_V	The Faceless	Ghost of a Stranger	"""what I have become"""		210	4/4	EXCE-202	audio/VOX-564.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-565	J	Clean	Cannibal Corpse	Puncture Wound Massacre	"""Hate for them still drives my rage"""		143	4/4	EXCE-006	audio/VOX-565.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-566	J	Clean_FLAT	Cannibal Corpse	Puncture Wound Massacre	"""Hate for them still drives my rage"""		143	4/4	EXCE-006	audio/VOX-566.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-567	J	Screaming_NV	Cannibal Corpse	Puncture Wound Massacre	"""Hate for them still drives my rage"""		143	4/4	EXCE-006	audio/VOX-567.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-568	J	Screaming_V	Cannibal Corpse	Puncture Wound Massacre	"""Hate for them still drives my rage"""		143	4/4	EXCE-006	audio/VOX-568.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-569	J	Growling_NV	Cannibal Corpse	Puncture Wound Massacre	"""Hate for them still drives my rage"""		143	4/4	EXCE-006	audio/VOX-569.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-570	J	Growling_V	Cannibal Corpse	Puncture Wound Massacre	"""Hate for them still drives my rage"""		143	4/4	EXCE-006	audio/VOX-570.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-571	J	Clean	Whitechapel	Faces	"""The faces of justice"""		220	4/4	EXCE-139	audio/VOX-571.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-572	J	Clean_FLAT	Whitechapel	Faces	"""The faces of justice"""		220	4/4	EXCE-139	audio/VOX-572.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-573	J	Screaming_NV	Whitechapel	Faces	"""The faces of justice"""		220	4/4	EXCE-139	audio/VOX-573.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-574	J	Screaming_V	Whitechapel	Faces	"""The faces of justice"""		220	4/4	EXCE-139	audio/VOX-574.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-575	J	Growling_NV	Whitechapel	Faces	"""The faces of justice"""		220	4/4	EXCE-139	audio/VOX-575.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
+VOX-576	J	Growling_V	Whitechapel	Faces	"""The faces of justice"""		220	4/4	EXCE-139	audio/VOX-576.wav	Donny Payne	20250602			Male	23	https://open.spotify.com/artist/4C4RlxUxFJDNAtJRRyIsBK?si=RIffojFiR6-sAfQueOXRtQ	
 VOX-577	C	Clean	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-577.wav	Nathan Bagwell Jr.	20250507			Male		https://open.spotify.com/artist/0mAFtuhEzuJs2ouYJ0Lqo7?si=atMso54jTtyvtr7rBUDF8Q	
 VOX-578	C	Clean_FLAT	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-578.wav	Nathan Bagwell Jr.	20250507			Male		https://open.spotify.com/artist/0mAFtuhEzuJs2ouYJ0Lqo7?si=atMso54jTtyvtr7rBUDF8Q	
 VOX-579	C	Screaming_NV	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-579.wav	Nathan Bagwell Jr.	20250613			Male		https://open.spotify.com/artist/0mAFtuhEzuJs2ouYJ0Lqo7?si=atMso54jTtyvtr7rBUDF8Q	
@@ -719,147 +719,147 @@ VOX-717	C	Screaming_NV	Cannibal Corpse	Sanded Faceless	"""Tedious rasping, Pains
 VOX-718	C	Screaming_V	Cannibal Corpse	Sanded Faceless	"""Tedious rasping, Painstakingly grate the skin"""		180	6/8	EXCE-001	audio/VOX-718.wav	Nathan Bagwell Jr.	20250613			Male		https://open.spotify.com/artist/0mAFtuhEzuJs2ouYJ0Lqo7?si=atMso54jTtyvtr7rBUDF8Q	
 VOX-719	C	Growling_NV	Cannibal Corpse	Sanded Faceless	"""Tedious rasping, Painstakingly grate the skin"""		180	6/8	EXCE-001	audio/VOX-719.wav	Nathan Bagwell Jr.	20250507			Male		https://open.spotify.com/artist/0mAFtuhEzuJs2ouYJ0Lqo7?si=atMso54jTtyvtr7rBUDF8Q	
 VOX-720	C	Growling_V	Cannibal Corpse	Sanded Faceless	"""Tedious rasping, Painstakingly grate the skin"""		180	6/8	EXCE-001	audio/VOX-720.wav	Nathan Bagwell Jr.	20250507			Male		https://open.spotify.com/artist/0mAFtuhEzuJs2ouYJ0Lqo7?si=atMso54jTtyvtr7rBUDF8Q	
-VOX-721	H	Clean	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-721.wav	Jerry Sola	20250617			Male	25		
-VOX-722	H	Clean_FLAT	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-722.wav	Jerry Sola	20250617			Male	25		
-VOX-723	H	Screaming_NV	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-723.wav	Jerry Sola	20250617			Male	25		
-VOX-724	H	Screaming_V	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-724.wav	Jerry Sola	20250617			Male	25		
-VOX-725	H	Growling_NV	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-725.wav	Jerry Sola	20250617			Male	25		
-VOX-726	H	Growling_V	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-726.wav	Jerry Sola	20250617			Male	25		
-VOX-727	H	Clean	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-727.wav	Jerry Sola	20250617			Male	25		
-VOX-728	H	Clean_FLAT	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-728.wav	Jerry Sola	20250617			Male	25		
-VOX-729	H	Screaming_NV	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-729.wav	Jerry Sola	20250617			Male	25		
-VOX-730	H	Screaming_V	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-730.wav	Jerry Sola	20250617			Male	25		
-VOX-731	H	Growling_NV	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-731.wav	Jerry Sola	20250617			Male	25		
-VOX-732	H	Growling_V	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-732.wav	Jerry Sola	20250617			Male	25		
-VOX-733	H	Clean	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-733.wav	Jerry Sola	20250617			Male	25		
-VOX-734	H	Clean_FLAT	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-734.wav	Jerry Sola	20250617			Male	25		
-VOX-735	H	Screaming_NV	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-735.wav	Jerry Sola	20250617			Male	25		
-VOX-736	H	Screaming_V	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-736.wav	Jerry Sola	20250617			Male	25		
-VOX-737	H	Growling_NV	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-737.wav	Jerry Sola	20250617			Male	25		
-VOX-738	H	Growling_V	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-738.wav	Jerry Sola	20250617			Male	25		
-VOX-739	H	Clean	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-739.wav	Jerry Sola	20250617			Male	25		
-VOX-740	H	Clean_FLAT	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-740.wav	Jerry Sola	20250617			Male	25		
-VOX-741	H	Screaming_NV	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-741.wav	Jerry Sola	20250617			Male	25		
-VOX-742	H	Screaming_V	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-742.wav	Jerry Sola	20250617			Male	25		
-VOX-743	H	Growling_NV	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-743.wav	Jerry Sola	20250617			Male	25		
-VOX-744	H	Growling_V	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-744.wav	Jerry Sola	20250617			Male	25		
-VOX-745	H	Clean	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-745.wav	Jerry Sola	20250617			Male	25		
-VOX-746	H	Clean_FLAT	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-746.wav	Jerry Sola	20250617			Male	25		
-VOX-747	H	Screaming_NV	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-747.wav	Jerry Sola	20250617			Male	25		
-VOX-748	H	Screaming_V	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-748.wav	Jerry Sola	20250617			Male	25		
-VOX-749	H	Growling_NV	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-749.wav	Jerry Sola	20250617			Male	25		
-VOX-750	H	Growling_V	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-750.wav	Jerry Sola	20250617			Male	25		
-VOX-751	H	Clean	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-751.wav	Jerry Sola	20250617			Male	25		
-VOX-752	H	Clean_FLAT	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-752.wav	Jerry Sola	20250617			Male	25		
-VOX-753	H	Screaming_NV	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-753.wav	Jerry Sola	20250617			Male	25		
-VOX-754	H	Screaming_V	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-754.wav	Jerry Sola	20250617			Male	25		
-VOX-755	H	Growling_NV	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-755.wav	Jerry Sola	20250617			Male	25		
-VOX-756	H	Growling_V	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-756.wav	Jerry Sola	20250617			Male	25		
-VOX-757	H	Clean	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-757.wav	Jerry Sola	20250617			Male	25		
-VOX-758	H	Clean_FLAT	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-758.wav	Jerry Sola	20250617			Male	25		
-VOX-759	H	Screaming_NV	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-759.wav	Jerry Sola	20250617			Male	25		
-VOX-760	H	Screaming_V	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-760.wav	Jerry Sola	20250617			Male	25		
-VOX-761	H	Growling_NV	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-761.wav	Jerry Sola	20250617			Male	25		
-VOX-762	H	Growling_V	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-762.wav	Jerry Sola	20250617			Male	25		
-VOX-763	H	Clean	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-763.wav	Jerry Sola	20250617			Male	25		
-VOX-764	H	Clean_FLAT	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-764.wav	Jerry Sola	20250617			Male	25		
-VOX-765	H	Screaming_NV	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-765.wav	Jerry Sola	20250617			Male	25		
-VOX-766	H	Screaming_V	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-766.wav	Jerry Sola	20250617			Male	25		
-VOX-767	H	Growling_NV	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-767.wav	Jerry Sola	20250617			Male	25		
-VOX-768	H	Growling_V	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-768.wav	Jerry Sola	20250617			Male	25		
-VOX-769	H	Clean	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-769.wav	Jerry Sola	20250617			Male	25		
-VOX-770	H	Clean_FLAT	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-770.wav	Jerry Sola	20250617			Male	25		
-VOX-771	H	Screaming_NV	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-771.wav	Jerry Sola	20250617			Male	25		
-VOX-772	H	Screaming_V	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-772.wav	Jerry Sola	20250617			Male	25		
-VOX-773	H	Growling_NV	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-773.wav	Jerry Sola	20250617			Male	25		
-VOX-774	H	Growling_V	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-774.wav	Jerry Sola	20250617			Male	25		
-VOX-775	H	Clean	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-775.wav	Jerry Sola	20250617			Male	25		
-VOX-776	H	Clean_FLAT	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-776.wav	Jerry Sola	20250617			Male	25		
-VOX-777	H	Screaming_NV	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-777.wav	Jerry Sola	20250617			Male	25		
-VOX-778	H	Screaming_V	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-778.wav	Jerry Sola	20250617			Male	25		
-VOX-779	H	Growling_NV	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-779.wav	Jerry Sola	20250617			Male	25		
-VOX-780	H	Growling_V	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-780.wav	Jerry Sola	20250617			Male	25		
-VOX-781	H	Clean	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-781.wav	Jerry Sola	20250617			Male	25		
-VOX-782	H	Clean_FLAT	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-782.wav	Jerry Sola	20250617			Male	25		
-VOX-783	H	Screaming_NV	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-783.wav	Jerry Sola	20250617			Male	25		
-VOX-784	H	Screaming_V	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-784.wav	Jerry Sola	20250617			Male	25		
-VOX-785	H	Growling_NV	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-785.wav	Jerry Sola	20250617			Male	25		
-VOX-786	H	Growling_V	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-786.wav	Jerry Sola	20250617			Male	25		
-VOX-787	H	Clean	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-787.wav	Jerry Sola	20250617			Male	25		
-VOX-788	H	Clean_FLAT	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-788.wav	Jerry Sola	20250617			Male	25		
-VOX-789	H	Screaming_NV	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-789.wav	Jerry Sola	20250617			Male	25		
-VOX-790	H	Screaming_V	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-790.wav	Jerry Sola	20250617			Male	25		
-VOX-791	H	Growling_NV	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-791.wav	Jerry Sola	20250617			Male	25		
-VOX-792	H	Growling_V	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-792.wav	Jerry Sola	20250617			Male	25		
-VOX-793	H	Clean	DragonForce							audio/VOX-793.wav	Jerry Sola	20250617			Male	25		
-VOX-794	H	Clean_FLAT	DragonForce							audio/VOX-794.wav	Jerry Sola	20250617			Male	25		
-VOX-795	H	Screaming_NV	DragonForce							audio/VOX-795.wav	Jerry Sola	20250617			Male	25		
-VOX-796	H	Screaming_V	DragonForce							audio/VOX-796.wav	Jerry Sola	20250617			Male	25		
-VOX-797	H	Growling_NV	DragonForce							audio/VOX-797.wav	Jerry Sola	20250617			Male	25		
-VOX-798	H	Growling_V	DragonForce							audio/VOX-798.wav	Jerry Sola	20250617			Male	25		
-VOX-799	H	Clean	DragonForce							audio/VOX-799.wav	Jerry Sola	20250617			Male	25		
-VOX-800	H	Clean_FLAT	DragonForce							audio/VOX-800.wav	Jerry Sola	20250617			Male	25		
-VOX-801	H	Screaming_NV	DragonForce							audio/VOX-801.wav	Jerry Sola	20250617			Male	25		
-VOX-802	H	Screaming_V	DragonForce							audio/VOX-802.wav	Jerry Sola	20250617			Male	25		
-VOX-803	H	Growling_NV	DragonForce							audio/VOX-803.wav	Jerry Sola	20250617			Male	25		
-VOX-804	H	Growling_V	DragonForce							audio/VOX-804.wav	Jerry Sola	20250617			Male	25		
-VOX-805	H	Clean								audio/VOX-805.wav	Jerry Sola	20250617			Male	25		
-VOX-806	H	Clean_FLAT								audio/VOX-806.wav	Jerry Sola	20250617			Male	25		
-VOX-807	H	Screaming_NV								audio/VOX-807.wav	Jerry Sola	20250617			Male	25		
-VOX-808	H	Screaming_V								audio/VOX-808.wav	Jerry Sola	20250617			Male	25		
-VOX-809	H	Growling_NV								audio/VOX-809.wav	Jerry Sola	20250617			Male	25		
-VOX-810	H	Growling_V								audio/VOX-810.wav	Jerry Sola	20250617			Male	25		
-VOX-811	H	Clean								audio/VOX-811.wav	Jerry Sola	20250617			Male	25		
-VOX-812	H	Clean_FLAT								audio/VOX-812.wav	Jerry Sola	20250617			Male	25		
-VOX-813	H	Screaming_NV								audio/VOX-813.wav	Jerry Sola	20250617			Male	25		
-VOX-814	H	Screaming_V								audio/VOX-814.wav	Jerry Sola	20250617			Male	25		
-VOX-815	H	Growling_NV								audio/VOX-815.wav	Jerry Sola	20250617			Male	25		
-VOX-816	H	Growling_V								audio/VOX-816.wav	Jerry Sola	20250617			Male	25		
-VOX-817	H	Clean								audio/VOX-817.wav	Jerry Sola	20250617			Male	25		
-VOX-818	H	Clean_FLAT								audio/VOX-818.wav	Jerry Sola	20250617			Male	25		
-VOX-819	H	Screaming_NV								audio/VOX-819.wav	Jerry Sola	20250617			Male	25		
-VOX-820	H	Screaming_V								audio/VOX-820.wav	Jerry Sola	20250617			Male	25		
-VOX-821	H	Growling_NV								audio/VOX-821.wav	Jerry Sola	20250617			Male	25		
-VOX-822	H	Growling_V								audio/VOX-822.wav	Jerry Sola	20250617			Male	25		
-VOX-823	H	Clean								audio/VOX-823.wav	Jerry Sola	20250617			Male	25		
-VOX-824	H	Clean_FLAT								audio/VOX-824.wav	Jerry Sola	20250617			Male	25		
-VOX-825	H	Screaming_NV								audio/VOX-825.wav	Jerry Sola	20250617			Male	25		
-VOX-826	H	Screaming_V								audio/VOX-826.wav	Jerry Sola	20250617			Male	25		
-VOX-827	H	Growling_NV								audio/VOX-827.wav	Jerry Sola	20250617			Male	25		
-VOX-828	H	Growling_V								audio/VOX-828.wav	Jerry Sola	20250617			Male	25		
-VOX-829	H	Clean								audio/VOX-829.wav	Jerry Sola	20250617			Male	25		
-VOX-830	H	Clean_FLAT								audio/VOX-830.wav	Jerry Sola	20250617			Male	25		
-VOX-831	H	Screaming_NV								audio/VOX-831.wav	Jerry Sola	20250617			Male	25		
-VOX-832	H	Screaming_V								audio/VOX-832.wav	Jerry Sola	20250617			Male	25		
-VOX-833	H	Growling_NV								audio/VOX-833.wav	Jerry Sola	20250617			Male	25		
-VOX-834	H	Growling_V								audio/VOX-834.wav	Jerry Sola	20250617			Male	25		
-VOX-835	H	Clean								audio/VOX-835.wav	Jerry Sola	20250617			Male	25		
-VOX-836	H	Clean_FLAT								audio/VOX-836.wav	Jerry Sola	20250617			Male	25		
-VOX-837	H	Screaming_NV								audio/VOX-837.wav	Jerry Sola	20250617			Male	25		
-VOX-838	H	Screaming_V								audio/VOX-838.wav	Jerry Sola	20250617			Male	25		
-VOX-839	H	Growling_NV								audio/VOX-839.wav	Jerry Sola	20250617			Male	25		
-VOX-840	H	Growling_V								audio/VOX-840.wav	Jerry Sola	20250617			Male	25		
-VOX-841	H	Clean								audio/VOX-841.wav	Jerry Sola	20250617			Male	25		
-VOX-842	H	Clean_FLAT								audio/VOX-842.wav	Jerry Sola	20250617			Male	25		
-VOX-843	H	Screaming_NV								audio/VOX-843.wav	Jerry Sola	20250617			Male	25		
-VOX-844	H	Screaming_V								audio/VOX-844.wav	Jerry Sola	20250617			Male	25		
-VOX-845	H	Growling_NV								audio/VOX-845.wav	Jerry Sola	20250617			Male	25		
-VOX-846	H	Growling_V								audio/VOX-846.wav	Jerry Sola	20250617			Male	25		
-VOX-847	H	Clean								audio/VOX-847.wav	Jerry Sola	20250617			Male	25		
-VOX-848	H	Clean_FLAT								audio/VOX-848.wav	Jerry Sola	20250617			Male	25		
-VOX-849	H	Screaming_NV								audio/VOX-849.wav	Jerry Sola	20250617			Male	25		
-VOX-850	H	Screaming_V								audio/VOX-850.wav	Jerry Sola	20250617			Male	25		
-VOX-851	H	Growling_NV								audio/VOX-851.wav	Jerry Sola	20250617			Male	25		
-VOX-852	H	Growling_V								audio/VOX-852.wav	Jerry Sola	20250617			Male	25		
-VOX-853	H	Clean								audio/VOX-853.wav	Jerry Sola	20250617			Male	25		
-VOX-854	H	Clean_FLAT								audio/VOX-854.wav	Jerry Sola	20250617			Male	25		
-VOX-855	H	Screaming_NV								audio/VOX-855.wav	Jerry Sola	20250617			Male	25		
-VOX-856	H	Screaming_V								audio/VOX-856.wav	Jerry Sola	20250617			Male	25		
-VOX-857	H	Growling_NV								audio/VOX-857.wav	Jerry Sola	20250617			Male	25		
-VOX-858	H	Growling_V								audio/VOX-858.wav	Jerry Sola	20250617			Male	25		
-VOX-859	H	Clean								audio/VOX-859.wav	Jerry Sola	20250617			Male	25		
-VOX-860	H	Clean_FLAT								audio/VOX-860.wav	Jerry Sola	20250617			Male	25		
-VOX-861	H	Screaming_NV								audio/VOX-861.wav	Jerry Sola	20250617			Male	25		
-VOX-862	H	Screaming_V								audio/VOX-862.wav	Jerry Sola	20250617			Male	25		
-VOX-863	H	Growling_NV								audio/VOX-863.wav	Jerry Sola	20250617			Male	25		
-VOX-864	H	Growling_V								audio/VOX-864.wav	Jerry Sola	20250617			Male	25		
+VOX-721	H	Clean	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-721.wav	Jerry Sola	20250619			Male	25		
+VOX-722	H	Clean_FLAT	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-722.wav	Jerry Sola	20250619			Male	25		
+VOX-723	H	Screaming_NV	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-723.wav	Jerry Sola	20250619			Male	25		
+VOX-724	H	Screaming_V	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-724.wav	Jerry Sola	20250619			Male	25		
+VOX-725	H	Growling_NV	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-725.wav	Jerry Sola	20250619			Male	25		
+VOX-726	H	Growling_V	Trivium	The Deceived - Flavus	"""Tell that the promised have been failed"""		105	4/4	EXCE-093	audio/VOX-726.wav	Jerry Sola	20250619			Male	25		
+VOX-727	H	Clean	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-727.wav	Jerry Sola	20250619			Male	25		
+VOX-728	H	Clean_FLAT	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-728.wav	Jerry Sola	20250619			Male	25		
+VOX-729	H	Screaming_NV	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-729.wav	Jerry Sola	20250619			Male	25		
+VOX-730	H	Screaming_V	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-730.wav	Jerry Sola	20250619			Male	25		
+VOX-731	H	Growling_NV	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-731.wav	Jerry Sola	20250619			Male	25		
+VOX-732	H	Growling_V	Avenged Sevenfold	Higher	"""Meet you in the stars tonight"""		135	4/4	EXCE-056	audio/VOX-732.wav	Jerry Sola	20250619			Male	25		
+VOX-733	H	Clean	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-733.wav	Jerry Sola	20250619			Male	25		
+VOX-734	H	Clean_FLAT	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-734.wav	Jerry Sola	20250619			Male	25		
+VOX-735	H	Screaming_NV	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-735.wav	Jerry Sola	20250619			Male	25		
+VOX-736	H	Screaming_V	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-736.wav	Jerry Sola	20250619			Male	25		
+VOX-737	H	Growling_NV	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-737.wav	Jerry Sola	20250619			Male	25		
+VOX-738	H	Growling_V	Killswitch Engage	Still Beats Your Name	"""Will I live another day?"""		110	4/4	EXCE-108	audio/VOX-738.wav	Jerry Sola	20250619			Male	25		
+VOX-739	H	Clean	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-739.wav	Jerry Sola	20250619			Male	25		
+VOX-740	H	Clean_FLAT	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-740.wav	Jerry Sola	20250619			Male	25		
+VOX-741	H	Screaming_NV	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-741.wav	Jerry Sola	20250619			Male	25		
+VOX-742	H	Screaming_V	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-742.wav	Jerry Sola	20250619			Male	25		
+VOX-743	H	Growling_NV	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-743.wav	Jerry Sola	20250619			Male	25		
+VOX-744	H	Growling_V	Metallica	Crown of Barbed Wire	"""This rusted empire I own"""		110	4/4	EXCE-124	audio/VOX-744.wav	Jerry Sola	20250619			Male	25		
+VOX-745	H	Clean	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-745.wav	Jerry Sola	20250619			Male	25		
+VOX-746	H	Clean_FLAT	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-746.wav	Jerry Sola	20250619			Male	25		
+VOX-747	H	Screaming_NV	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-747.wav	Jerry Sola	20250619			Male	25		
+VOX-748	H	Screaming_V	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-748.wav	Jerry Sola	20250619			Male	25		
+VOX-749	H	Growling_NV	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-749.wav	Jerry Sola	20250619			Male	25		
+VOX-750	H	Growling_V	Architects	A Portrait for the Deceased	"""Then come and drown with me"""		161	4/4	EXCE-064	audio/VOX-750.wav	Jerry Sola	20250619			Male	25		
+VOX-751	H	Clean	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-751.wav	Jerry Sola	20250619			Male	25		
+VOX-752	H	Clean_FLAT	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-752.wav	Jerry Sola	20250619			Male	25		
+VOX-753	H	Screaming_NV	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-753.wav	Jerry Sola	20250619			Male	25		
+VOX-754	H	Screaming_V	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-754.wav	Jerry Sola	20250619			Male	25		
+VOX-755	H	Growling_NV	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-755.wav	Jerry Sola	20250619			Male	25		
+VOX-756	H	Growling_V	August Burns Red	The Reflective Property	"""A brief wind is swept through"""		180	4/4	EXCE-155	audio/VOX-756.wav	Jerry Sola	20250619			Male	25		
+VOX-757	H	Clean	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-757.wav	Jerry Sola	20250619			Male	25		
+VOX-758	H	Clean_FLAT	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-758.wav	Jerry Sola	20250619			Male	25		
+VOX-759	H	Screaming_NV	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-759.wav	Jerry Sola	20250619			Male	25		
+VOX-760	H	Screaming_V	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-760.wav	Jerry Sola	20250619			Male	25		
+VOX-761	H	Growling_NV	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-761.wav	Jerry Sola	20250619			Male	25		
+VOX-762	H	Growling_V	Northlane	Metamorphosis	"""And I will overcome this suffering"""		140	4/4	EXCE-179	audio/VOX-762.wav	Jerry Sola	20250619			Male	25		
+VOX-763	H	Clean	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-763.wav	Jerry Sola	20250619			Male	25		
+VOX-764	H	Clean_FLAT	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-764.wav	Jerry Sola	20250619			Male	25		
+VOX-765	H	Screaming_NV	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-765.wav	Jerry Sola	20250619			Male	25		
+VOX-766	H	Screaming_V	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-766.wav	Jerry Sola	20250619			Male	25		
+VOX-767	H	Growling_NV	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-767.wav	Jerry Sola	20250619			Male	25		
+VOX-768	H	Growling_V	Chelsea Grin	Behind A Veil Of Lies	"""I can't seek help from angels"""		115	4/4	EXCE-087	audio/VOX-768.wav	Jerry Sola	20250619			Male	25		
+VOX-769	H	Clean	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-769.wav	Jerry Sola	20250619			Male	25		
+VOX-770	H	Clean_FLAT	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-770.wav	Jerry Sola	20250619			Male	25		
+VOX-771	H	Screaming_NV	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-771.wav	Jerry Sola	20250619			Male	25		
+VOX-772	H	Screaming_V	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-772.wav	Jerry Sola	20250619			Male	25		
+VOX-773	H	Growling_NV	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-773.wav	Jerry Sola	20250619			Male	25		
+VOX-774	H	Growling_V	Whitechapel	The Night Remains	"""Rid yourself and never return"""		155	4/4	EXCE-141	audio/VOX-774.wav	Jerry Sola	20250619			Male	25		
+VOX-775	H	Clean	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-775.wav	Jerry Sola	20250619			Male	25		
+VOX-776	H	Clean_FLAT	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-776.wav	Jerry Sola	20250619			Male	25		
+VOX-777	H	Screaming_NV	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-777.wav	Jerry Sola	20250619			Male	25		
+VOX-778	H	Screaming_V	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-778.wav	Jerry Sola	20250619			Male	25		
+VOX-779	H	Growling_NV	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-779.wav	Jerry Sola	20250619			Male	25		
+VOX-780	H	Growling_V	Morbid Angel	God Of Our Own Divinity	"""Break apart this rusty chains"""		140	3/4	EXCE-042	audio/VOX-780.wav	Jerry Sola	20250619			Male	25		
+VOX-781	H	Clean	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-781.wav	Jerry Sola	20250619			Male	25		
+VOX-782	H	Clean_FLAT	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-782.wav	Jerry Sola	20250619			Male	25		
+VOX-783	H	Screaming_NV	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-783.wav	Jerry Sola	20250619			Male	25		
+VOX-784	H	Screaming_V	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-784.wav	Jerry Sola	20250619			Male	25		
+VOX-785	H	Growling_NV	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-785.wav	Jerry Sola	20250619			Male	25		
+VOX-786	H	Growling_V	Whitechapel	Dwell in the Shadows	"""This blade cuts deeper than flesh"""		95	4/4	EXCE-208	audio/VOX-786.wav	Jerry Sola	20250619			Male	25		
+VOX-787	H	Clean	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-787.wav	Jerry Sola	20250619			Male	25		
+VOX-788	H	Clean_FLAT	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-788.wav	Jerry Sola	20250619			Male	25		
+VOX-789	H	Screaming_NV	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-789.wav	Jerry Sola	20250619			Male	25		
+VOX-790	H	Screaming_V	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-790.wav	Jerry Sola	20250619			Male	25		
+VOX-791	H	Growling_NV	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-791.wav	Jerry Sola	20250619			Male	25		
+VOX-792	H	Growling_V	The Black Dahlia Murder	Stygiophobic	"""Can't they see there are consequences?"""		110	4/4	EXCE-184	audio/VOX-792.wav	Jerry Sola	20250619			Male	25		
+VOX-793	H	Clean	DragonForce	Scars of Yesterday	"""And through this madness a new day will rise"""		190	4/4	EXCE-190	audio/VOX-793.wav	Jerry Sola	20250619			Male	25		
+VOX-794	H	Clean_FLAT	DragonForce	Scars of Yesterday	"""And through this madness a new day will rise"""		190	4/4	EXCE-190	audio/VOX-794.wav	Jerry Sola	20250619			Male	25		
+VOX-795	H	Screaming_NV	DragonForce	Scars of Yesterday	"""And through this madness a new day will rise"""		190	4/4	EXCE-190	audio/VOX-795.wav	Jerry Sola	20250619			Male	25		
+VOX-796	H	Screaming_V	DragonForce	Scars of Yesterday	"""And through this madness a new day will rise"""		190	4/4	EXCE-190	audio/VOX-796.wav	Jerry Sola	20250619			Male	25		
+VOX-797	H	Growling_NV	DragonForce	Scars of Yesterday	"""And through this madness a new day will rise"""		190	4/4	EXCE-190	audio/VOX-797.wav	Jerry Sola	20250619			Male	25		
+VOX-798	H	Growling_V	DragonForce	Scars of Yesterday	"""And through this madness a new day will rise"""		190	4/4	EXCE-190	audio/VOX-798.wav	Jerry Sola	20250619			Male	25		
+VOX-799	H	Clean	DragonForce	The Warrior Inside	"""Stricken by your fatal decision"""		200	4/4	EXCE-191	audio/VOX-799.wav	Jerry Sola	20250619			Male	25		
+VOX-800	H	Clean_FLAT	DragonForce	The Warrior Inside	"""Stricken by your fatal decision"""		200	4/4	EXCE-191	audio/VOX-800.wav	Jerry Sola	20250619			Male	25		
+VOX-801	H	Screaming_NV	DragonForce	The Warrior Inside	"""Stricken by your fatal decision"""		200	4/4	EXCE-191	audio/VOX-801.wav	Jerry Sola	20250619			Male	25		
+VOX-802	H	Screaming_V	DragonForce	The Warrior Inside	"""Stricken by your fatal decision"""		200	4/4	EXCE-191	audio/VOX-802.wav	Jerry Sola	20250619			Male	25		
+VOX-803	H	Growling_NV	DragonForce	The Warrior Inside	"""Stricken by your fatal decision"""		200	4/4	EXCE-191	audio/VOX-803.wav	Jerry Sola	20250619			Male	25		
+VOX-804	H	Growling_V	DragonForce	The Warrior Inside	"""Stricken by your fatal decision"""		200	4/4	EXCE-191	audio/VOX-804.wav	Jerry Sola	20250619			Male	25		
+VOX-805	H	Clean	We Came As Romans	"Views That Never Cease, to Keep Me From Myself"	"""I will wade through the worst of it all"""		160	4/4	EXCE-197	audio/VOX-805.wav	Jerry Sola	20250619			Male	25		
+VOX-806	H	Clean_FLAT	We Came As Romans	"Views That Never Cease, to Keep Me From Myself"	"""I will wade through the worst of it all"""		160	4/4	EXCE-197	audio/VOX-806.wav	Jerry Sola	20250619			Male	25		
+VOX-807	H	Screaming_NV	We Came As Romans	"Views That Never Cease, to Keep Me From Myself"	"""I will wade through the worst of it all"""		160	4/4	EXCE-197	audio/VOX-807.wav	Jerry Sola	20250619			Male	25		
+VOX-808	H	Screaming_V	We Came As Romans	"Views That Never Cease, to Keep Me From Myself"	"""I will wade through the worst of it all"""		160	4/4	EXCE-197	audio/VOX-808.wav	Jerry Sola	20250619			Male	25		
+VOX-809	H	Growling_NV	We Came As Romans	"Views That Never Cease, to Keep Me From Myself"	"""I will wade through the worst of it all"""		160	4/4	EXCE-197	audio/VOX-809.wav	Jerry Sola	20250619			Male	25		
+VOX-810	H	Growling_V	We Came As Romans	"Views That Never Cease, to Keep Me From Myself"	"""I will wade through the worst of it all"""		160	4/4	EXCE-197	audio/VOX-810.wav	Jerry Sola	20250619			Male	25		
+VOX-811	H	Clean	We Came As Romans	Stay Inspired	"""There are greater rewards in coexistence"""		140	4/4	EXCE-198	audio/VOX-811.wav	Jerry Sola	20250619			Male	25		
+VOX-812	H	Clean_FLAT	We Came As Romans	Stay Inspired	"""There are greater rewards in coexistence"""		140	4/4	EXCE-198	audio/VOX-812.wav	Jerry Sola	20250619			Male	25		
+VOX-813	H	Screaming_NV	We Came As Romans	Stay Inspired	"""There are greater rewards in coexistence"""		140	4/4	EXCE-198	audio/VOX-813.wav	Jerry Sola	20250619			Male	25		
+VOX-814	H	Screaming_V	We Came As Romans	Stay Inspired	"""There are greater rewards in coexistence"""		140	4/4	EXCE-198	audio/VOX-814.wav	Jerry Sola	20250619			Male	25		
+VOX-815	H	Growling_NV	We Came As Romans	Stay Inspired	"""There are greater rewards in coexistence"""		140	4/4	EXCE-198	audio/VOX-815.wav	Jerry Sola	20250619			Male	25		
+VOX-816	H	Growling_V	We Came As Romans	Stay Inspired	"""There are greater rewards in coexistence"""		140	4/4	EXCE-198	audio/VOX-816.wav	Jerry Sola	20250619			Male	25		
+VOX-817	H	Clean	The Black Dahlia Murder	Asylum	"""We've done the damnedest things"""		250	4/4	EXCE-183	audio/VOX-817.wav	Jerry Sola	20250619			Male	25		
+VOX-818	H	Clean_FLAT	The Black Dahlia Murder	Asylum	"""We've done the damnedest things"""		250	4/4	EXCE-183	audio/VOX-818.wav	Jerry Sola	20250619			Male	25		
+VOX-819	H	Screaming_NV	The Black Dahlia Murder	Asylum	"""We've done the damnedest things"""		250	4/4	EXCE-183	audio/VOX-819.wav	Jerry Sola	20250619			Male	25		
+VOX-820	H	Screaming_V	The Black Dahlia Murder	Asylum	"""We've done the damnedest things"""		250	4/4	EXCE-183	audio/VOX-820.wav	Jerry Sola	20250619			Male	25		
+VOX-821	H	Growling_NV	The Black Dahlia Murder	Asylum	"""We've done the damnedest things"""		250	4/4	EXCE-183	audio/VOX-821.wav	Jerry Sola	20250619			Male	25		
+VOX-822	H	Growling_V	The Black Dahlia Murder	Asylum	"""We've done the damnedest things"""		250	4/4	EXCE-183	audio/VOX-822.wav	Jerry Sola	20250619			Male	25		
+VOX-823	H	Clean	Chelsea Grin	Welcome Back	"""I haven't found the cure"""		100	4/4	EXCE-082	audio/VOX-823.wav	Jerry Sola	20250619			Male	25		
+VOX-824	H	Clean_FLAT	Chelsea Grin	Welcome Back	"""I haven't found the cure"""		100	4/4	EXCE-082	audio/VOX-824.wav	Jerry Sola	20250619			Male	25		
+VOX-825	H	Screaming_NV	Chelsea Grin	Welcome Back	"""I haven't found the cure"""		100	4/4	EXCE-082	audio/VOX-825.wav	Jerry Sola	20250619			Male	25		
+VOX-826	H	Screaming_V	Chelsea Grin	Welcome Back	"""I haven't found the cure"""		100	4/4	EXCE-082	audio/VOX-826.wav	Jerry Sola	20250619			Male	25		
+VOX-827	H	Growling_NV	Chelsea Grin	Welcome Back	"""I haven't found the cure"""		100	4/4	EXCE-082	audio/VOX-827.wav	Jerry Sola	20250619			Male	25		
+VOX-828	H	Growling_V	Chelsea Grin	Welcome Back	"""I haven't found the cure"""		100	4/4	EXCE-082	audio/VOX-828.wav	Jerry Sola	20250619			Male	25		
+VOX-829	H	Clean	Chelsea Grin	Deathbed Companion	"""It will come to surface"""		110	4/4	EXCE-090	audio/VOX-829.wav	Jerry Sola	20250619			Male	25		
+VOX-830	H	Clean_FLAT	Chelsea Grin	Deathbed Companion	"""It will come to surface"""		110	4/4	EXCE-090	audio/VOX-830.wav	Jerry Sola	20250619			Male	25		
+VOX-831	H	Screaming_NV	Chelsea Grin	Deathbed Companion	"""It will come to surface"""		110	4/4	EXCE-090	audio/VOX-831.wav	Jerry Sola	20250619			Male	25		
+VOX-832	H	Screaming_V	Chelsea Grin	Deathbed Companion	"""It will come to surface"""		110	4/4	EXCE-090	audio/VOX-832.wav	Jerry Sola	20250619			Male	25		
+VOX-833	H	Growling_NV	Chelsea Grin	Deathbed Companion	"""It will come to surface"""		110	4/4	EXCE-090	audio/VOX-833.wav	Jerry Sola	20250619			Male	25		
+VOX-834	H	Growling_V	Chelsea Grin	Deathbed Companion	"""It will come to surface"""		110	4/4	EXCE-090	audio/VOX-834.wav	Jerry Sola	20250619			Male	25		
+VOX-835	H	Clean	August Burns Red	Treatment	"""Stripping your soul of everything"""		190	4/4	EXCE-158	audio/VOX-835.wav	Jerry Sola	20250619			Male	25		
+VOX-836	H	Clean_FLAT	August Burns Red	Treatment	"""Stripping your soul of everything"""		190	4/4	EXCE-158	audio/VOX-836.wav	Jerry Sola	20250619			Male	25		
+VOX-837	H	Screaming_NV	August Burns Red	Treatment	"""Stripping your soul of everything"""		190	4/4	EXCE-158	audio/VOX-837.wav	Jerry Sola	20250619			Male	25		
+VOX-838	H	Screaming_V	August Burns Red	Treatment	"""Stripping your soul of everything"""		190	4/4	EXCE-158	audio/VOX-838.wav	Jerry Sola	20250619			Male	25		
+VOX-839	H	Growling_NV	August Burns Red	Treatment	"""Stripping your soul of everything"""		190	4/4	EXCE-158	audio/VOX-839.wav	Jerry Sola	20250619			Male	25		
+VOX-840	H	Growling_V	August Burns Red	Treatment	"""Stripping your soul of everything"""		190	4/4	EXCE-158	audio/VOX-840.wav	Jerry Sola	20250619			Male	25		
+VOX-841	H	Clean	Dying Fetus	The Ancient Rivalry	"""Fighting a war, that cannot be won"""		90	4/4	EXCE-022	audio/VOX-841.wav	Jerry Sola	20250619			Male	25		
+VOX-842	H	Clean_FLAT	Dying Fetus	The Ancient Rivalry	"""Fighting a war, that cannot be won"""		90	4/4	EXCE-022	audio/VOX-842.wav	Jerry Sola	20250619			Male	25		
+VOX-843	H	Screaming_NV	Dying Fetus	The Ancient Rivalry	"""Fighting a war, that cannot be won"""		90	4/4	EXCE-022	audio/VOX-843.wav	Jerry Sola	20250619			Male	25		
+VOX-844	H	Screaming_V	Dying Fetus	The Ancient Rivalry	"""Fighting a war, that cannot be won"""		90	4/4	EXCE-022	audio/VOX-844.wav	Jerry Sola	20250619			Male	25		
+VOX-845	H	Growling_NV	Dying Fetus	The Ancient Rivalry	"""Fighting a war, that cannot be won"""		90	4/4	EXCE-022	audio/VOX-845.wav	Jerry Sola	20250619			Male	25		
+VOX-846	H	Growling_V	Dying Fetus	The Ancient Rivalry	"""Fighting a war, that cannot be won"""		90	4/4	EXCE-022	audio/VOX-846.wav	Jerry Sola	20250619			Male	25		
+VOX-847	H	Clean	Whitechapel	Tormented	"""That everyone you know"""		150	4/4	EXCE-209	audio/VOX-847.wav	Jerry Sola	20250619			Male	25		
+VOX-848	H	Clean_FLAT	Whitechapel	Tormented	"""That everyone you know"""		150	4/4	EXCE-209	audio/VOX-848.wav	Jerry Sola	20250619			Male	25		
+VOX-849	H	Screaming_NV	Whitechapel	Tormented	"""That everyone you know"""		150	4/4	EXCE-209	audio/VOX-849.wav	Jerry Sola	20250619			Male	25		
+VOX-850	H	Screaming_V	Whitechapel	Tormented	"""That everyone you know"""		150	4/4	EXCE-209	audio/VOX-850.wav	Jerry Sola	20250619			Male	25		
+VOX-851	H	Growling_NV	Whitechapel	Tormented	"""That everyone you know"""		150	4/4	EXCE-209	audio/VOX-851.wav	Jerry Sola	20250619			Male	25		
+VOX-852	H	Growling_V	Whitechapel	Tormented	"""That everyone you know"""		150	4/4	EXCE-209	audio/VOX-852.wav	Jerry Sola	20250619			Male	25		
+VOX-853	H	Clean	Cradle of Filth	Foetus Of A New Day Kicking	"""A poison rush, a heart attack"""		125	4/4	EXCE-078	audio/VOX-853.wav	Jerry Sola	20250619			Male	25		
+VOX-854	H	Clean_FLAT	Cradle of Filth	Foetus Of A New Day Kicking	"""A poison rush, a heart attack"""		125	4/4	EXCE-078	audio/VOX-854.wav	Jerry Sola	20250619			Male	25		
+VOX-855	H	Screaming_NV	Cradle of Filth	Foetus Of A New Day Kicking	"""A poison rush, a heart attack"""		125	4/4	EXCE-078	audio/VOX-855.wav	Jerry Sola	20250619			Male	25		
+VOX-856	H	Screaming_V	Cradle of Filth	Foetus Of A New Day Kicking	"""A poison rush, a heart attack"""		125	4/4	EXCE-078	audio/VOX-856.wav	Jerry Sola	20250619			Male	25		
+VOX-857	H	Growling_NV	Cradle of Filth	Foetus Of A New Day Kicking	"""A poison rush, a heart attack"""		125	4/4	EXCE-078	audio/VOX-857.wav	Jerry Sola	20250619			Male	25		
+VOX-858	H	Growling_V	Cradle of Filth	Foetus Of A New Day Kicking	"""A poison rush, a heart attack"""		125	4/4	EXCE-078	audio/VOX-858.wav	Jerry Sola	20250619			Male	25		
+VOX-859	H	Clean	Morbid Angel	For No Master	"""No prayer will yield our cleansing"""		150	6/8	EXCE-045	audio/VOX-859.wav	Jerry Sola	20250619			Male	25		
+VOX-860	H	Clean_FLAT	Morbid Angel	For No Master	"""No prayer will yield our cleansing"""		150	6/8	EXCE-045	audio/VOX-860.wav	Jerry Sola	20250619			Male	25		
+VOX-861	H	Screaming_NV	Morbid Angel	For No Master	"""No prayer will yield our cleansing"""		150	6/8	EXCE-045	audio/VOX-861.wav	Jerry Sola	20250619			Male	25		
+VOX-862	H	Screaming_V	Morbid Angel	For No Master	"""No prayer will yield our cleansing"""		150	6/8	EXCE-045	audio/VOX-862.wav	Jerry Sola	20250619			Male	25		
+VOX-863	H	Growling_NV	Morbid Angel	For No Master	"""No prayer will yield our cleansing"""		150	6/8	EXCE-045	audio/VOX-863.wav	Jerry Sola	20250619			Male	25		
+VOX-864	H	Growling_V	Morbid Angel	For No Master	"""No prayer will yield our cleansing"""		150	6/8	EXCE-045	audio/VOX-864.wav	Jerry Sola	20250619			Male	25		
