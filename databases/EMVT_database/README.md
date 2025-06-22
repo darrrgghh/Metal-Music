@@ -14,21 +14,21 @@ The database features recordings from **15 vocalists** (13 male, 2 female), each
   - Growling (low, mid, guttural)
   - Screaming (fry, false cord, banshee, goblin)
   - Clean vocals (used as control)
-  - Vocal effects (pig squeal, zombie growl, tunnel scream, inhale, shout, hybrid techniques)
-  - Throat and polyphonic effects
-- **Six experimental conditions** adapted from prior stimuli sets:
+  - Vocal effects (pig squeal, zombie scream, banshee scream, snarl, goblin scream)
+  - Hybrid techniques
+- **Different experimental conditions**:
   - With and without melodic contour
   - With and without melodic context
   - Clean vocals with melody
   - Clean vocals with "flat" or monotonous melodic contour ("one-note" melody)
   - Clean / Growl / Scream × 2 melodic conditions
+  - Multiple takes per excerpts when available
 - **Two-microphone signal capture**:
   - **Dynamic microphone** (Shure SM57dB)
   - **Condenser microphone** (AKG-414)
   - Both tracks available for each recording for signal comparison and analysis
-  - Multiple takes per excerpts when available
 - **Fully annotated metadata**, including:
-  - Vocalist ID and background (anonymized)
+  - Vocalist ID and background
   - Technique label(s)
   - Source excerpt reference (linked to Excerpts Database)
   - Recording condition and mic configuration

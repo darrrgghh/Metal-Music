@@ -1,4 +1,4 @@
-## Excerpts Database
+## Excerpts Database (Spotty5)
 
 This database contains examples of extreme vocal techniques in metal music and serves as the basis for constructing our stimulus set. It was created through the following steps:
 
