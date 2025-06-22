@@ -10,3 +10,7 @@ extra/
 /databases/metal_vox/table_editor.py
 /databases/triple_twelve/table_editor.py
 /databases/excerpts/original_songs/
+/databases/metal_vox/central_spectroid.py
+/databases/triple_twelve/central_spectroid.py
+/databases/metal_vox/logMel.py
+/databases/triple_twelve/logMel.py
