@@ -14,7 +14,7 @@ See `emvt/README.md` for current status.
 Includes detailed metadata for each excerpt.
 
 - [`metal_vox/`](./metal_vox/)  
-  An extended stimuli set with recordings from 5 vocalists across six conditions (3 techniques × 2 melodic contexts).
+  An extended stimuli set with recordings from 6 vocalists across six conditions (3 techniques × 2 melodic contexts).
 Includes detailed metadata and audio in dual-channel format.
 
 - [`triple_twelve_stimuli_set/`](./triple_twelve/)  
