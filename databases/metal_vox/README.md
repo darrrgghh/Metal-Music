@@ -17,4 +17,6 @@ This stimulus set was specifically designed for a **perceptual experiment** cond
 Metadata for this set is provided in the `metal_vox.tsv` file.  
 This table includes information about the vocalist ID, vocal technique, condition, source excerpt, filename, and timecodes for each recorded fragment.
 
+Run `analysis.py` script to get descriptive statistics on the stimuli set, along with visualized spectral centroid analysis.
+
 All corresponding audio files are located in the `audio/` directory.
